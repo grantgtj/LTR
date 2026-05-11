@@ -1,0 +1,2549 @@
+,Job,Plan,CPU time,Time,Sum,CPU unit,Time unit
+HM,Job1006v1,0.txt,10686,10723,21409, ms,ms.
+HM,Job1006v1,1.txt,-1,-1,-1,ms,ms
+HM,Job1006v1,2.txt,-1,-1,-1,ms,ms
+HM,Job1006v1,3.txt,9842,9866,19708, ms,ms.
+HM,Job1006v1,4.txt,-1,-1,-1,ms,ms
+HM,Job1006v1,5.txt,-1,-1,-1,ms,ms
+HM,Job1006v1,6.txt,-1,-1,-1,ms,ms
+HM,Job1006v1,7.txt,-1,-1,-1,ms,ms
+HM,Job1006v1,8.txt,16953,18019,34972, ms,ms.
+HM,Job1006v1,9.txt,-1,-1,-1,ms,ms
+HM,Job1006v1,10.txt,-1,-1,-1,ms,ms
+HM,Job1006v1,11.txt,-1,-1,-1,ms,ms
+HM,Job1006v1,12.txt,-1,-1,-1,ms,ms
+HM,Job1006v1,13.txt,7228,7238,14466, ms,ms.
+HM,Job1006v1,14.txt,10780,10798,21578, ms,ms.
+HM,Job1006v1,15.txt,-1,-1,-1,ms,ms
+HM,Job1006v1,16.txt,11177,11193,22370, ms,ms.
+HM,Job1006v1,17.txt,-1,-1,-1,ms,ms
+HM,Job1006v1,18.txt,-1,-1,-1,ms,ms
+HM,Job1006v1,19.txt,-1,-1,-1,ms,ms
+HM,Job1014v3,0.txt,26588,26603,53191, ms,ms.
+HM,Job1014v3,1.txt,-1,-1,-1,ms,ms
+HM,Job1014v3,2.txt,-1,-1,-1,ms,ms
+HM,Job1014v3,3.txt,-1,-1,-1,ms,ms
+HM,Job1014v3,4.txt,30473,32316,62789, ms,ms.
+HM,Job1014v3,5.txt,-1,-1,-1,ms,ms
+HM,Job1014v3,6.txt,34881,34901,69782, ms,ms.
+HM,Job1014v3,7.txt,14000,14289,28289, ms,ms.
+HM,Job1014v3,8.txt,-1,-1,-1,ms,ms
+HM,Job1014v3,9.txt,-1,-1,-1,ms,ms
+HM,Job1014v3,10.txt,90376,90432,180808, ms,ms.
+HM,Job1014v3,11.txt,47370,47398,94768, ms,ms.
+HM,Job1014v3,12.txt,42133,42159,84292, ms,ms.
+HM,Job1014v3,13.txt,3645,4048,7693, ms,ms.
+HM,Job1014v3,14.txt,109210,109291,218501, ms,ms.
+HM,Job1014v3,15.txt,-1,-1,-1,ms,ms
+HM,Job1014v3,16.txt,79297,79339,158636, ms,ms.
+HM,Job1014v3,17.txt,66490,66997,133487, ms,ms.
+HM,Job1014v3,18.txt,125480,125552,251032, ms,ms.
+HM,Job1014v3,19.txt,-1,-1,-1,ms,ms
+HM,Job185v2,0.txt,-1,-1,-1,ms,ms
+HM,Job185v2,1.txt,-1,-1,-1,ms,ms
+HM,Job185v2,2.txt,-1,-1,-1,ms,ms
+HM,Job185v2,3.txt,-1,-1,-1,ms,ms
+HM,Job185v2,4.txt,-1,-1,-1,ms,ms
+HM,Job185v2,5.txt,-1,-1,-1,ms,ms
+HM,Job185v2,6.txt,-1,-1,-1,ms,ms
+HM,Job185v2,7.txt,-1,-1,-1,ms,ms
+HM,Job185v2,8.txt,-1,-1,-1,ms,ms
+HM,Job185v2,9.txt,-1,-1,-1,ms,ms
+HM,Job185v2,10.txt,-1,-1,-1,ms,ms
+HM,Job185v2,11.txt,-1,-1,-1,ms,ms
+HM,Job185v2,12.txt,-1,-1,-1,ms,ms
+HM,Job185v2,13.txt,-1,-1,-1,ms,ms
+HM,Job185v2,14.txt,-1,-1,-1,ms,ms
+HM,Job185v2,15.txt,-1,-1,-1,ms,ms
+HM,Job185v2,16.txt,-1,-1,-1,ms,ms
+HM,Job185v2,17.txt,-1,-1,-1,ms,ms
+HM,Job185v2,18.txt,-1,-1,-1,ms,ms
+HM,Job185v2,19.txt,-1,-1,-1,ms,ms
+HM,Job9v4,0.txt,12284,12360,24644, ms,ms.
+HM,Job9v4,1.txt,1850,1897,3747, ms,ms.
+HM,Job9v4,2.txt,-1,-1,-1,ms,ms
+HM,Job9v4,3.txt,15099,15265,30364, ms,ms.
+HM,Job9v4,4.txt,13234,13319,26553, ms,ms.
+HM,Job9v4,5.txt,12241,12312,24553, ms,ms.
+HM,Job9v4,6.txt,12192,12301,24493, ms,ms.
+HM,Job9v4,7.txt,9254,9296,18550, ms,ms.
+HM,Job9v4,8.txt,10921,10988,21909, ms,ms.
+HM,Job9v4,9.txt,8515,8555,17070, ms,ms.
+HM,Job9v4,10.txt,1857,1881,3738, ms,ms.
+HM,Job9v4,11.txt,1842,1865,3707, ms,ms.
+HM,Job9v4,12.txt,12330,12412,24742, ms,ms.
+HM,Job9v4,13.txt,-1,-1,-1,ms,ms
+HM,Job9v4,14.txt,-1,-1,-1,ms,ms
+HM,Job9v4,15.txt,13403,13474,26877, ms,ms.
+HM,Job9v4,16.txt,1830,1851,3681, ms,ms.
+HM,Job9v4,17.txt,15636,15946,31582, ms,ms.
+HM,Job9v4,18.txt,9302,9338,18640, ms,ms.
+HM,Job9v4,19.txt,12164,12204,24368, ms,ms.
+HM,Job228v1,0.txt,12628,12638,25266, ms,ms.
+HM,Job228v1,1.txt,-1,-1,-1,ms,ms
+HM,Job228v1,2.txt,-1,-1,-1,ms,ms
+HM,Job228v1,3.txt,13500,13566,27066, ms,ms.
+HM,Job228v1,4.txt,13626,13644,27270, ms,ms.
+HM,Job228v1,5.txt,12742,12750,25492, ms,ms.
+HM,Job228v1,6.txt,7840,7850,15690, ms,ms.
+HM,Job228v1,7.txt,6800,6804,13604, ms,ms.
+HM,Job228v1,8.txt,-1,-1,-1,ms,ms
+HM,Job228v1,9.txt,-1,-1,-1,ms,ms
+HM,Job228v1,10.txt,-1,-1,-1,ms,ms
+HM,Job228v1,11.txt,-1,-1,-1,ms,ms
+HM,Job228v1,12.txt,-1,-1,-1,ms,ms
+HM,Job228v1,13.txt,55761,55790,111551, ms,ms.
+HM,Job228v1,14.txt,21986,22622,44608, ms,ms.
+HM,Job228v1,15.txt,-1,-1,-1,ms,ms
+HM,Job228v1,16.txt,-1,-1,-1,ms,ms
+HM,Job228v1,17.txt,-1,-1,-1,ms,ms
+HM,Job228v1,18.txt,57045,57108,114153, ms,ms.
+HM,Job228v1,19.txt,-1,-1,-1,ms,ms
+HM,Job44v3,0.txt,-1,-1,-1,ms,ms
+HM,Job44v3,1.txt,-1,-1,-1,ms,ms
+HM,Job44v3,2.txt,-1,-1,-1,ms,ms
+HM,Job44v3,3.txt,-1,-1,-1,ms,ms
+HM,Job44v3,4.txt,-1,-1,-1,ms,ms
+HM,Job44v3,5.txt,277557,307102,584659, ms,ms.
+HM,Job44v3,6.txt,94197,104361,198558, ms,ms.
+HM,Job44v3,7.txt,53989,63653,117642, ms,ms.
+HM,Job44v3,8.txt,-1,-1,-1,ms,ms
+HM,Job44v3,9.txt,137028,144127,281155, ms,ms.
+HM,Job44v3,10.txt,-1,-1,-1,ms,ms
+HM,Job44v3,11.txt,137325,144567,281892, ms,ms.
+HM,Job44v3,12.txt,-1,-1,-1,ms,ms
+HM,Job44v3,13.txt,-1,-1,-1,ms,ms
+HM,Job44v3,14.txt,334213,361821,696034, ms,ms.
+HM,Job44v3,15.txt,82583,94114,176697, ms,ms.
+HM,Job44v3,16.txt,80830,90890,171720, ms,ms.
+HM,Job44v3,17.txt,170909,178598,349507, ms,ms.
+HM,Job44v3,18.txt,94362,109036,203398, ms,ms.
+HM,Job44v3,19.txt,-1,-1,-1,ms,ms
+HM,Job6v1,0.txt,14112,14192,28304, ms,ms.
+HM,Job6v1,1.txt,-1,-1,-1,ms,ms
+HM,Job6v1,2.txt,-1,-1,-1,ms,ms
+HM,Job6v1,3.txt,-1,-1,-1,ms,ms
+HM,Job6v1,4.txt,-1,-1,-1,ms,ms
+HM,Job6v1,5.txt,31172,31321,62493, ms,ms.
+HM,Job6v1,6.txt,17885,18023,35908, ms,ms.
+HM,Job6v1,7.txt,20442,20537,40979, ms,ms.
+HM,Job6v1,8.txt,24665,24801,49466, ms,ms.
+HM,Job6v1,9.txt,-1,-1,-1,ms,ms
+HM,Job6v1,10.txt,-1,-1,-1,ms,ms
+HM,Job6v1,11.txt,-1,-1,-1,ms,ms
+HM,Job6v1,12.txt,-1,-1,-1,ms,ms
+HM,Job6v1,13.txt,150594,172065,322659, ms,ms.
+HM,Job6v1,14.txt,24641,24786,49427, ms,ms.
+HM,Job6v1,15.txt,15686,15796,31482, ms,ms.
+HM,Job6v1,16.txt,-1,-1,-1,ms,ms
+HM,Job6v1,17.txt,130524,144128,274652, ms,ms.
+HM,Job6v1,18.txt,-1,-1,-1,ms,ms
+HM,Job6v1,19.txt,5537,5651,11188, ms,ms.
+HM,Job6v2,0.txt,54391,58540,112931, ms,ms.
+HM,Job6v2,1.txt,-1,-1,-1,ms,ms
+HM,Job6v2,2.txt,63268,66638,129906, ms,ms.
+HM,Job6v2,3.txt,-1,-1,-1,ms,ms
+HM,Job6v2,4.txt,-1,-1,-1,ms,ms
+HM,Job6v2,5.txt,-1,-1,-1,ms,ms
+HM,Job6v2,6.txt,55103,58714,113817, ms,ms.
+HM,Job6v2,7.txt,28713,33465,62178, ms,ms.
+HM,Job6v2,8.txt,-1,-1,-1,ms,ms
+HM,Job6v2,9.txt,-1,-1,-1,ms,ms
+HM,Job6v2,10.txt,42439,48373,90812, ms,ms.
+HM,Job6v2,11.txt,153421,160003,313424, ms,ms.
+HM,Job6v2,12.txt,-1,-1,-1,ms,ms
+HM,Job6v2,13.txt,-1,-1,-1,ms,ms
+HM,Job6v2,14.txt,-1,-1,-1,ms,ms
+HM,Job6v2,15.txt,68674,71998,140672, ms,ms.
+HM,Job6v2,16.txt,-1,-1,-1,ms,ms
+HM,Job6v2,17.txt,-1,-1,-1,ms,ms
+HM,Job6v2,18.txt,-1,-1,-1,ms,ms
+HM,Job6v2,19.txt,-1,-1,-1,ms,ms
+HM,Job76v4,0.txt,-1,-1,-1,ms,ms
+HM,Job76v4,1.txt,-1,-1,-1,ms,ms
+HM,Job76v4,2.txt,-1,-1,-1,ms,ms
+HM,Job76v4,3.txt,74812,75850,150662, ms,ms.
+HM,Job76v4,4.txt,5226,5311,10537, ms,ms.
+HM,Job76v4,5.txt,81892,82358,164250, ms,ms.
+HM,Job76v4,6.txt,32013,32115,64128, ms,ms.
+HM,Job76v4,7.txt,35425,35578,71003, ms,ms.
+HM,Job76v4,8.txt,-1,-1,-1,ms,ms
+HM,Job76v4,9.txt,29890,30016,59906, ms,ms.
+HM,Job76v4,10.txt,44835,44990,89825, ms,ms.
+HM,Job76v4,11.txt,-1,-1,-1,ms,ms
+HM,Job76v4,12.txt,5278,5326,10604, ms,ms.
+HM,Job76v4,13.txt,14720,14790,29510, ms,ms.
+HM,Job76v4,14.txt,-1,-1,-1,ms,ms
+HM,Job76v4,15.txt,-1,-1,-1,ms,ms
+HM,Job76v4,16.txt,79977,80266,160243, ms,ms.
+HM,Job76v4,17.txt,-1,-1,-1,ms,ms
+HM,Job76v4,18.txt,34775,34891,69666, ms,ms.
+HM,Job76v4,19.txt,-1,-1,-1,ms,ms
+HM,Job39v3,0.txt,41,42,83, ms,ms.
+HM,Job39v3,1.txt,282,282,564, ms,ms.
+HM,Job39v3,2.txt,732,734,1466, ms,ms.
+HM,Job39v3,3.txt,140,139,279, ms,ms.
+HM,Job39v3,4.txt,30,29,59, ms,ms.
+HM,Job39v3,5.txt,68,70,138, ms,ms.
+HM,Job39v3,6.txt,530,530,1060, ms,ms.
+HM,Job39v3,7.txt,320,320,640, ms,ms.
+HM,Job39v3,8.txt,582,582,1164, ms,ms.
+HM,Job39v3,9.txt,173,174,347, ms,ms.
+HM,Job39v3,10.txt,62,62,124, ms,ms.
+HM,Job39v3,11.txt,686,686,1372, ms,ms.
+HM,Job1073v2,0.txt,82758,84174,166932, ms,ms.
+HM,Job1073v2,1.txt,24612,24781,49393, ms,ms.
+HM,Job1073v2,2.txt,-1,-1,-1,ms,ms
+HM,Job1073v2,3.txt,-1,-1,-1,ms,ms
+HM,Job1073v2,4.txt,-1,-1,-1,ms,ms
+HM,Job1073v2,5.txt,47253,47746,94999, ms,ms.
+HM,Job1073v2,6.txt,24151,24329,48480, ms,ms.
+HM,Job1073v2,7.txt,103766,104108,207874, ms,ms.
+HM,Job1073v2,8.txt,-1,-1,-1,ms,ms
+HM,Job1073v2,9.txt,73277,74830,148107, ms,ms.
+HM,Job1073v2,10.txt,-1,-1,-1,ms,ms
+HM,Job1073v2,11.txt,64171,64411,128582, ms,ms.
+HM,Job1073v2,12.txt,67524,68156,135680, ms,ms.
+HM,Job1073v2,13.txt,191361,191869,383230, ms,ms.
+HM,Job1073v2,14.txt,-1,-1,-1,ms,ms
+HM,Job1073v2,15.txt,82744,85459,168203, ms,ms.
+HM,Job1073v2,16.txt,16300,17117,33417, ms,ms.
+HM,Job1073v2,17.txt,-1,-1,-1,ms,ms
+HM,Job1073v2,18.txt,41813,42273,84086, ms,ms.
+HM,Job1073v2,19.txt,61654,64668,126322, ms,ms.
+HM,Job1236v3,0.txt,-1,-1,-1,ms,ms
+HM,Job1236v3,1.txt,-1,-1,-1,ms,ms
+HM,Job1236v3,2.txt,15010,15302,30312, ms,ms.
+HM,Job1236v3,3.txt,-1,-1,-1,ms,ms
+HM,Job1236v3,4.txt,-1,-1,-1,ms,ms
+HM,Job1236v3,5.txt,-1,-1,-1,ms,ms
+HM,Job1236v3,6.txt,-1,-1,-1,ms,ms
+HM,Job1236v3,7.txt,-1,-1,-1,ms,ms
+HM,Job1236v3,8.txt,-1,-1,-1,ms,ms
+HM,Job1236v3,9.txt,11331,11574,22905, ms,ms.
+HM,Job1236v3,10.txt,46976,47302,94278, ms,ms.
+HM,Job1236v3,11.txt,17800,18157,35957, ms,ms.
+HM,Job1236v3,12.txt,-1,-1,-1,ms,ms
+HM,Job1236v3,13.txt,-1,-1,-1,ms,ms
+HM,Job1236v3,14.txt,11302,11395,22697, ms,ms.
+HM,Job1236v3,15.txt,-1,-1,-1,ms,ms
+HM,Job1236v3,16.txt,-1,-1,-1,ms,ms
+HM,Job1236v3,17.txt,-1,-1,-1,ms,ms
+HM,Job1236v3,18.txt,-1,-1,-1,ms,ms
+HM,Job1236v3,19.txt,-1,-1,-1,ms,ms
+HM,Job1234v3,0.txt,348621,355544,704165, ms,ms.
+HM,Job1234v3,1.txt,370899,371115,742014, ms,ms.
+HM,Job1234v3,2.txt,-1,-1,-1,ms,ms
+HM,Job1234v3,3.txt,117631,117975,235606, ms,ms.
+HM,Job1234v3,4.txt,-1,-1,-1,ms,ms
+HM,Job1234v3,5.txt,-1,-1,-1,ms,ms
+HM,Job1234v3,6.txt,-1,-1,-1,ms,ms
+HM,Job1234v3,7.txt,-1,-1,-1,ms,ms
+HM,Job1234v3,8.txt,60888,60951,121839, ms,ms.
+HM,Job1234v3,9.txt,-1,-1,-1,ms,ms
+HM,Job1234v3,10.txt,411099,418362,829461, ms,ms.
+HM,Job1234v3,11.txt,-1,-1,-1,ms,ms
+HM,Job1234v3,12.txt,-1,-1,-1,ms,ms
+HM,Job1234v3,13.txt,318015,318175,636190, ms,ms.
+HM,Job1234v3,14.txt,46064,46240,92304, ms,ms.
+HM,Job1234v3,15.txt,-1,-1,-1,ms,ms
+HM,Job1234v3,16.txt,352851,353091,705942, ms,ms.
+HM,Job1234v3,17.txt,-1,-1,-1,ms,ms
+HM,Job1234v3,18.txt,-1,-1,-1,ms,ms
+HM,Job1234v3,19.txt,-1,-1,-1,ms,ms
+HM,Job369v1,0.txt,-1,-1,-1,ms,ms
+HM,Job369v1,1.txt,-1,-1,-1,ms,ms
+HM,Job369v1,2.txt,-1,-1,-1,ms,ms
+HM,Job369v1,3.txt,-1,-1,-1,ms,ms
+HM,Job369v1,4.txt,-1,-1,-1,ms,ms
+HM,Job369v1,5.txt,-1,-1,-1,ms,ms
+HM,Job369v1,6.txt,-1,-1,-1,ms,ms
+HM,Job369v1,7.txt,-1,-1,-1,ms,ms
+HM,Job369v1,8.txt,-1,-1,-1,ms,ms
+HM,Job369v1,9.txt,-1,-1,-1,ms,ms
+HM,Job369v1,10.txt,-1,-1,-1,ms,ms
+HM,Job369v1,11.txt,-1,-1,-1,ms,ms
+HM,Job369v1,12.txt,-1,-1,-1,ms,ms
+HM,Job369v1,13.txt,52592,53280,105872, ms,ms.
+HM,Job369v1,14.txt,36734,36796,73530, ms,ms.
+HM,Job369v1,15.txt,-1,-1,-1,ms,ms
+HM,Job369v1,16.txt,-1,-1,-1,ms,ms
+HM,Job369v1,17.txt,196266,197190,393456, ms,ms.
+HM,Job369v1,18.txt,-1,-1,-1,ms,ms
+HM,Job369v1,19.txt,49896,50382,100278, ms,ms.
+HM,Job38v0,0.txt,-1,-1,-1,ms,ms
+HM,Job38v0,1.txt,-1,-1,-1,ms,ms
+HM,Job38v0,2.txt,-1,-1,-1,ms,ms
+HM,Job38v0,3.txt,-1,-1,-1,ms,ms
+HM,Job38v0,4.txt,-1,-1,-1,ms,ms
+HM,Job38v0,5.txt,-1,-1,-1,ms,ms
+HM,Job38v0,6.txt,-1,-1,-1,ms,ms
+HM,Job38v0,7.txt,-1,-1,-1,ms,ms
+HM,Job38v0,8.txt,-1,-1,-1,ms,ms
+HM,Job38v0,9.txt,-1,-1,-1,ms,ms
+HM,Job38v0,10.txt,75904,83934,159838, ms,ms.
+HM,Job38v0,11.txt,-1,-1,-1,ms,ms
+HM,Job38v0,12.txt,-1,-1,-1,ms,ms
+HM,Job38v0,13.txt,-1,-1,-1,ms,ms
+HM,Job38v0,14.txt,143120,143424,286544, ms,ms.
+HM,Job38v0,15.txt,-1,-1,-1,ms,ms
+HM,Job38v0,16.txt,-1,-1,-1,ms,ms
+HM,Job38v0,17.txt,19889,19960,39849, ms,ms.
+HM,Job38v0,18.txt,-1,-1,-1,ms,ms
+HM,Job38v0,19.txt,-1,-1,-1,ms,ms
+HM,Job1028v2,0.txt,-1,-1,-1,ms,ms
+HM,Job1028v2,1.txt,-1,-1,-1,ms,ms
+HM,Job1028v2,2.txt,-1,-1,-1,ms,ms
+HM,Job1028v2,3.txt,-1,-1,-1,ms,ms
+HM,Job1028v2,4.txt,-1,-1,-1,ms,ms
+HM,Job1028v2,5.txt,-1,-1,-1,ms,ms
+HM,Job1028v2,6.txt,-1,-1,-1,ms,ms
+HM,Job1028v2,7.txt,-1,-1,-1,ms,ms
+HM,Job1028v2,8.txt,-1,-1,-1,ms,ms
+HM,Job1028v2,9.txt,-1,-1,-1,ms,ms
+HM,Job1028v2,10.txt,-1,-1,-1,ms,ms
+HM,Job1028v2,11.txt,-1,-1,-1,ms,ms
+HM,Job1028v2,12.txt,-1,-1,-1,ms,ms
+HM,Job1028v2,13.txt,-1,-1,-1,ms,ms
+HM,Job1028v2,14.txt,-1,-1,-1,ms,ms
+HM,Job1028v2,15.txt,-1,-1,-1,ms,ms
+HM,Job1028v2,16.txt,295879,296974,592853, ms,ms.
+HM,Job1028v2,17.txt,-1,-1,-1,ms,ms
+HM,Job1028v2,18.txt,-1,-1,-1,ms,ms
+HM,Job1028v2,19.txt,-1,-1,-1,ms,ms
+HM,Job369v4,0.txt,64094,64636,128730, ms,ms.
+HM,Job369v4,1.txt,199502,199638,399140, ms,ms.
+HM,Job369v4,2.txt,-1,-1,-1,ms,ms
+HM,Job369v4,3.txt,-1,-1,-1,ms,ms
+HM,Job369v4,4.txt,408735,418349,827084, ms,ms.
+HM,Job369v4,5.txt,-1,-1,-1,ms,ms
+HM,Job369v4,6.txt,-1,-1,-1,ms,ms
+HM,Job369v4,7.txt,-1,-1,-1,ms,ms
+HM,Job369v4,8.txt,-1,-1,-1,ms,ms
+HM,Job369v4,9.txt,-1,-1,-1,ms,ms
+HM,Job369v4,10.txt,323189,330423,653612, ms,ms.
+HM,Job369v4,11.txt,-1,-1,-1,ms,ms
+HM,Job369v4,12.txt,-1,-1,-1,ms,ms
+HM,Job369v4,13.txt,-1,-1,-1,ms,ms
+HM,Job369v4,14.txt,211731,278128,489859, ms,ms.
+HM,Job369v4,15.txt,-1,-1,-1,ms,ms
+HM,Job369v4,16.txt,-1,-1,-1,ms,ms
+HM,Job369v4,17.txt,-1,-1,-1,ms,ms
+HM,Job369v4,18.txt,-1,-1,-1,ms,ms
+HM,Job369v4,19.txt,-1,-1,-1,ms,ms
+HM,Job1035v4,0.txt,-1,-1,-1,ms,ms
+HM,Job1035v4,1.txt,-1,-1,-1,ms,ms
+HM,Job1035v4,2.txt,-1,-1,-1,ms,ms
+HM,Job1035v4,3.txt,-1,-1,-1,ms,ms
+HM,Job1035v4,4.txt,-1,-1,-1,ms,ms
+HM,Job1035v4,5.txt,-1,-1,-1,ms,ms
+HM,Job1035v4,6.txt,-1,-1,-1,ms,ms
+HM,Job1035v4,7.txt,-1,-1,-1,ms,ms
+HM,Job1035v4,8.txt,-1,-1,-1,ms,ms
+HM,Job1035v4,9.txt,-1,-1,-1,ms,ms
+HM,Job1035v4,10.txt,-1,-1,-1,ms,ms
+HM,Job1035v4,11.txt,-1,-1,-1,ms,ms
+HM,Job1035v4,12.txt,40997,41400,82397, ms,ms.
+HM,Job1035v4,13.txt,-1,-1,-1,ms,ms
+HM,Job1035v4,14.txt,-1,-1,-1,ms,ms
+HM,Job1035v4,15.txt,30790,31078,61868, ms,ms.
+HM,Job1035v4,16.txt,70151,71875,142026, ms,ms.
+HM,Job1035v4,17.txt,-1,-1,-1,ms,ms
+HM,Job1035v4,18.txt,34867,35486,70353, ms,ms.
+HM,Job1035v4,19.txt,-1,-1,-1,ms,ms
+HM,Job9v3,0.txt,7019,7029,14048, ms,ms.
+HM,Job9v3,1.txt,-1,-1,-1,ms,ms
+HM,Job9v3,2.txt,6866,6881,13747, ms,ms.
+HM,Job9v3,3.txt,2456,2482,4938, ms,ms.
+HM,Job9v3,4.txt,21803,21834,43637, ms,ms.
+HM,Job9v3,5.txt,-1,-1,-1,ms,ms
+HM,Job9v3,6.txt,5634,5639,11273, ms,ms.
+HM,Job9v3,7.txt,1869,1884,3753, ms,ms.
+HM,Job9v3,8.txt,1216,1224,2440, ms,ms.
+HM,Job9v3,9.txt,4505,4526,9031, ms,ms.
+HM,Job9v3,10.txt,4605,4612,9217, ms,ms.
+HM,Job9v3,11.txt,-1,-1,-1,ms,ms
+HM,Job9v3,12.txt,-1,-1,-1,ms,ms
+HM,Job9v3,13.txt,5124,5138,10262, ms,ms.
+HM,Job9v3,14.txt,7355,7365,14720, ms,ms.
+HM,Job9v3,15.txt,20251,20269,40520, ms,ms.
+HM,Job9v3,16.txt,3388,3398,6786, ms,ms.
+HM,Job9v3,17.txt,5483,5496,10979, ms,ms.
+HM,Job9v3,18.txt,6797,6809,13606, ms,ms.
+HM,Job9v3,19.txt,2589,2594,5183, ms,ms.
+HM,Job185v3,0.txt,-1,-1,-1,ms,ms
+HM,Job185v3,1.txt,-1,-1,-1,ms,ms
+HM,Job185v3,2.txt,-1,-1,-1,ms,ms
+HM,Job185v3,3.txt,-1,-1,-1,ms,ms
+HM,Job185v3,4.txt,154653,157230,311883, ms,ms.
+HM,Job185v3,5.txt,153109,155493,308602, ms,ms.
+HM,Job185v3,6.txt,-1,-1,-1,ms,ms
+HM,Job185v3,7.txt,-1,-1,-1,ms,ms
+HM,Job185v3,8.txt,-1,-1,-1,ms,ms
+HM,Job185v3,9.txt,-1,-1,-1,ms,ms
+HM,Job185v3,10.txt,-1,-1,-1,ms,ms
+HM,Job185v3,11.txt,-1,-1,-1,ms,ms
+HM,Job185v3,12.txt,-1,-1,-1,ms,ms
+HM,Job185v3,13.txt,-1,-1,-1,ms,ms
+HM,Job185v3,14.txt,-1,-1,-1,ms,ms
+HM,Job185v3,15.txt,-1,-1,-1,ms,ms
+HM,Job185v3,16.txt,-1,-1,-1,ms,ms
+HM,Job185v3,17.txt,-1,-1,-1,ms,ms
+HM,Job185v3,18.txt,-1,-1,-1,ms,ms
+HM,Job185v3,19.txt,-1,-1,-1,ms,ms
+HM,Job1103v3,0.txt,-1,-1,-1,ms,ms
+HM,Job1103v3,1.txt,-1,-1,-1,ms,ms
+HM,Job1103v3,2.txt,-1,-1,-1,ms,ms
+HM,Job1103v3,3.txt,-1,-1,-1,ms,ms
+HM,Job1103v3,4.txt,-1,-1,-1,ms,ms
+HM,Job1103v3,5.txt,-1,-1,-1,ms,ms
+HM,Job1103v3,6.txt,-1,-1,-1,ms,ms
+HM,Job1103v3,7.txt,-1,-1,-1,ms,ms
+HM,Job1103v3,8.txt,-1,-1,-1,ms,ms
+HM,Job1103v3,9.txt,-1,-1,-1,ms,ms
+HM,Job1103v3,10.txt,-1,-1,-1,ms,ms
+HM,Job1103v3,11.txt,-1,-1,-1,ms,ms
+HM,Job1103v3,12.txt,-1,-1,-1,ms,ms
+HM,Job1103v3,13.txt,-1,-1,-1,ms,ms
+HM,Job1103v3,14.txt,-1,-1,-1,ms,ms
+HM,Job1103v3,15.txt,-1,-1,-1,ms,ms
+HM,Job1103v3,16.txt,-1,-1,-1,ms,ms
+HM,Job1103v3,17.txt,-1,-1,-1,ms,ms
+HM,Job1103v3,18.txt,-1,-1,-1,ms,ms
+HM,Job1103v3,19.txt,-1,-1,-1,ms,ms
+HM,Job237v0,0.txt,-1,-1,-1,ms,ms
+HM,Job237v0,1.txt,-1,-1,-1,ms,ms
+HM,Job237v0,2.txt,-1,-1,-1,ms,ms
+HM,Job237v0,3.txt,-1,-1,-1,ms,ms
+HM,Job237v0,4.txt,73714,75989,149703, ms,ms.
+HM,Job237v0,5.txt,-1,-1,-1,ms,ms
+HM,Job237v0,6.txt,-1,-1,-1,ms,ms
+HM,Job237v0,7.txt,-1,-1,-1,ms,ms
+HM,Job237v0,8.txt,-1,-1,-1,ms,ms
+HM,Job237v0,9.txt,-1,-1,-1,ms,ms
+HM,Job237v0,10.txt,-1,-1,-1,ms,ms
+HM,Job237v0,11.txt,-1,-1,-1,ms,ms
+HM,Job237v0,12.txt,-1,-1,-1,ms,ms
+HM,Job237v0,13.txt,-1,-1,-1,ms,ms
+HM,Job237v0,14.txt,-1,-1,-1,ms,ms
+HM,Job237v0,15.txt,-1,-1,-1,ms,ms
+HM,Job237v0,16.txt,224518,229593,454111, ms,ms.
+HM,Job237v0,17.txt,157791,161233,319024, ms,ms.
+HM,Job237v0,18.txt,172590,177252,349842, ms,ms.
+HM,Job237v0,19.txt,-1,-1,-1,ms,ms
+HM,Job1131v1,0.txt,-1,-1,-1,ms,ms
+HM,Job1131v1,1.txt,-1,-1,-1,ms,ms
+HM,Job1131v1,2.txt,134920,135182,270102, ms,ms.
+HM,Job1131v1,3.txt,-1,-1,-1,ms,ms
+HM,Job1131v1,4.txt,-1,-1,-1,ms,ms
+HM,Job1131v1,5.txt,-1,-1,-1,ms,ms
+HM,Job1131v1,6.txt,-1,-1,-1,ms,ms
+HM,Job1131v1,7.txt,-1,-1,-1,ms,ms
+HM,Job1131v1,8.txt,-1,-1,-1,ms,ms
+HM,Job1131v1,9.txt,-1,-1,-1,ms,ms
+HM,Job1131v1,10.txt,-1,-1,-1,ms,ms
+HM,Job1131v1,11.txt,-1,-1,-1,ms,ms
+HM,Job1131v1,12.txt,-1,-1,-1,ms,ms
+HM,Job1131v1,13.txt,176106,208876,384982, ms,ms.
+HM,Job1131v1,14.txt,-1,-1,-1,ms,ms
+HM,Job1131v1,15.txt,-1,-1,-1,ms,ms
+HM,Job1131v1,16.txt,-1,-1,-1,ms,ms
+HM,Job1131v1,17.txt,-1,-1,-1,ms,ms
+HM,Job1131v1,18.txt,-1,-1,-1,ms,ms
+HM,Job1131v1,19.txt,-1,-1,-1,ms,ms
+HM,Job79v0,0.txt,47554,48366,95920, ms,ms.
+HM,Job79v0,1.txt,90328,91009,181337, ms,ms.
+HM,Job79v0,2.txt,-1,-1,-1,ms,ms
+HM,Job79v0,3.txt,-1,-1,-1,ms,ms
+HM,Job79v0,4.txt,196329,199372,395701, ms,ms.
+HM,Job79v0,5.txt,-1,-1,-1,ms,ms
+HM,Job79v0,6.txt,16749,17216,33965, ms,ms.
+HM,Job79v0,7.txt,-1,-1,-1,ms,ms
+HM,Job79v0,8.txt,-1,-1,-1,ms,ms
+HM,Job79v0,9.txt,99547,100719,200266, ms,ms.
+HM,Job79v0,10.txt,109662,111313,220975, ms,ms.
+HM,Job79v0,11.txt,-1,-1,-1,ms,ms
+HM,Job79v0,12.txt,-1,-1,-1,ms,ms
+HM,Job79v0,13.txt,129685,139381,269066, ms,ms.
+HM,Job79v0,14.txt,-1,-1,-1,ms,ms
+HM,Job79v0,15.txt,-1,-1,-1,ms,ms
+HM,Job79v0,16.txt,-1,-1,-1,ms,ms
+HM,Job79v0,17.txt,190649,193736,384385, ms,ms.
+HM,Job79v0,18.txt,-1,-1,-1,ms,ms
+HM,Job79v0,19.txt,-1,-1,-1,ms,ms
+HM,Job128v4,0.txt,-1,-1,-1,ms,ms
+HM,Job128v4,1.txt,-1,-1,-1,ms,ms
+HM,Job128v4,2.txt,-1,-1,-1,ms,ms
+HM,Job128v4,3.txt,-1,-1,-1,ms,ms
+HM,Job128v4,4.txt,-1,-1,-1,ms,ms
+HM,Job128v4,5.txt,-1,-1,-1,ms,ms
+HM,Job128v4,6.txt,-1,-1,-1,ms,ms
+HM,Job128v4,7.txt,-1,-1,-1,ms,ms
+HM,Job128v4,8.txt,-1,-1,-1,ms,ms
+HM,Job128v4,9.txt,-1,-1,-1,ms,ms
+HM,Job128v4,10.txt,-1,-1,-1,ms,ms
+HM,Job128v4,11.txt,-1,-1,-1,ms,ms
+HM,Job128v4,12.txt,-1,-1,-1,ms,ms
+HM,Job128v4,13.txt,-1,-1,-1,ms,ms
+HM,Job128v4,14.txt,-1,-1,-1,ms,ms
+HM,Job128v4,15.txt,-1,-1,-1,ms,ms
+HM,Job128v4,16.txt,-1,-1,-1,ms,ms
+HM,Job128v4,17.txt,-1,-1,-1,ms,ms
+HM,Job128v4,18.txt,-1,-1,-1,ms,ms
+HM,Job128v4,19.txt,-1,-1,-1,ms,ms
+HM,Job1017v3,0.txt,140372,252544,392916, ms,ms.
+HM,Job1017v3,1.txt,-1,-1,-1,ms,ms
+HM,Job1017v3,2.txt,-1,-1,-1,ms,ms
+HM,Job1017v3,3.txt,-1,-1,-1,ms,ms
+HM,Job1017v3,4.txt,-1,-1,-1,ms,ms
+HM,Job1017v3,5.txt,99651,192236,291887, ms,ms.
+HM,Job1017v3,6.txt,82557,173966,256523, ms,ms.
+HM,Job1017v3,7.txt,-1,-1,-1,ms,ms
+HM,Job1017v3,8.txt,99989,190165,290154, ms,ms.
+HM,Job1017v3,9.txt,251705,402125,653830, ms,ms.
+HM,Job1017v3,10.txt,215088,345769,560857, ms,ms.
+HM,Job1017v3,11.txt,-1,-1,-1,ms,ms
+HM,Job1017v3,12.txt,-1,-1,-1,ms,ms
+HM,Job1017v3,13.txt,153328,303573,456901, ms,ms.
+HM,Job1017v3,14.txt,122310,214678,336988, ms,ms.
+HM,Job1017v3,15.txt,169168,299609,468777, ms,ms.
+HM,Job1017v3,16.txt,-1,-1,-1,ms,ms
+HM,Job1017v3,17.txt,206649,332844,539493, ms,ms.
+HM,Job1017v3,18.txt,-1,-1,-1,ms,ms
+HM,Job1017v3,19.txt,-1,-1,-1,ms,ms
+HM,Job1029v2,0.txt,-1,-1,-1,ms,ms
+HM,Job1029v2,1.txt,-1,-1,-1,ms,ms
+HM,Job1029v2,2.txt,-1,-1,-1,ms,ms
+HM,Job1029v2,3.txt,-1,-1,-1,ms,ms
+HM,Job1029v2,4.txt,-1,-1,-1,ms,ms
+HM,Job1029v2,5.txt,-1,-1,-1,ms,ms
+HM,Job1029v2,6.txt,-1,-1,-1,ms,ms
+HM,Job1029v2,7.txt,-1,-1,-1,ms,ms
+HM,Job1029v2,8.txt,-1,-1,-1,ms,ms
+HM,Job1029v2,9.txt,-1,-1,-1,ms,ms
+HM,Job1029v2,10.txt,-1,-1,-1,ms,ms
+HM,Job1029v2,11.txt,-1,-1,-1,ms,ms
+HM,Job1029v2,12.txt,-1,-1,-1,ms,ms
+HM,Job1029v2,13.txt,-1,-1,-1,ms,ms
+HM,Job1029v2,14.txt,10074,10080,20154, ms,ms.
+HM,Job1029v2,15.txt,-1,-1,-1,ms,ms
+HM,Job1029v2,16.txt,-1,-1,-1,ms,ms
+HM,Job1029v2,17.txt,-1,-1,-1,ms,ms
+HM,Job1029v2,18.txt,-1,-1,-1,ms,ms
+HM,Job1029v2,19.txt,-1,-1,-1,ms,ms
+HM,Job253v0,0.txt,-1,-1,-1,ms,ms
+HM,Job253v0,1.txt,-1,-1,-1,ms,ms
+HM,Job253v0,2.txt,-1,-1,-1,ms,ms
+HM,Job253v0,3.txt,-1,-1,-1,ms,ms
+HM,Job253v0,4.txt,-1,-1,-1,ms,ms
+HM,Job253v0,5.txt,-1,-1,-1,ms,ms
+HM,Job253v0,6.txt,-1,-1,-1,ms,ms
+HM,Job253v0,7.txt,-1,-1,-1,ms,ms
+HM,Job253v0,8.txt,-1,-1,-1,ms,ms
+HM,Job253v0,9.txt,-1,-1,-1,ms,ms
+HM,Job253v0,10.txt,-1,-1,-1,ms,ms
+HM,Job253v0,11.txt,258125,297632,555757, ms,ms.
+HM,Job253v0,12.txt,-1,-1,-1,ms,ms
+HM,Job253v0,13.txt,-1,-1,-1,ms,ms
+HM,Job253v0,14.txt,-1,-1,-1,ms,ms
+HM,Job253v0,15.txt,96210,98009,194219, ms,ms.
+HM,Job253v0,16.txt,-1,-1,-1,ms,ms
+HM,Job253v0,17.txt,-1,-1,-1,ms,ms
+HM,Job253v0,18.txt,126522,128064,254586, ms,ms.
+HM,Job253v0,19.txt,-1,-1,-1,ms,ms
+HM,Job46v1,0.txt,932,933,1865, ms,ms.
+HM,Job46v1,1.txt,2455,2481,4936, ms,ms.
+HM,Job46v1,2.txt,476,490,966, ms,ms.
+HM,Job46v1,3.txt,2036,2050,4086, ms,ms.
+HM,Job46v1,4.txt,1164,1199,2363, ms,ms.
+HM,Job46v1,5.txt,192,198,390, ms,ms.
+HM,Job46v1,6.txt,1775,1813,3588, ms,ms.
+HM,Job46v1,7.txt,-1,-1,-1,ms,ms
+HM,Job46v1,8.txt,428,447,875, ms,ms.
+HM,Job46v1,9.txt,129,150,279, ms,ms.
+HM,Job46v1,10.txt,2127,2165,4292, ms,ms.
+HM,Job46v1,11.txt,-1,-1,-1,ms,ms
+HM,Job76v2,0.txt,45,49,94, ms,ms.
+HM,Job76v2,1.txt,355,356,711, ms,ms.
+HM,Job76v2,2.txt,442,442,884, ms,ms.
+HM,Job76v2,3.txt,1028,1031,2059, ms,ms.
+HM,Job76v2,4.txt,1021,1023,2044, ms,ms.
+HM,Job76v2,5.txt,133,132,265, ms,ms.
+HM,Job76v2,6.txt,595,595,1190, ms,ms.
+HM,Job76v2,7.txt,43,45,88, ms,ms.
+HM,Job76v2,8.txt,433,434,867, ms,ms.
+HM,Job76v2,9.txt,868,871,1739, ms,ms.
+HM,Job76v2,10.txt,428,431,859, ms,ms.
+HM,Job76v2,11.txt,1322,1321,2643, ms,ms.
+HM,Job76v2,12.txt,901,901,1802, ms,ms.
+HM,Job76v2,13.txt,34,33,67, ms,ms.
+HM,Job76v2,14.txt,688,687,1375, ms,ms.
+HM,Job76v2,15.txt,33,33,66, ms,ms.
+HM,Job76v2,16.txt,514,514,1028, ms,ms.
+HM,Job76v2,17.txt,472,471,943, ms,ms.
+HM,Job76v2,18.txt,493,492,985, ms,ms.
+HM,Job76v2,19.txt,125,124,249, ms,ms.
+HM,Job68v3,0.txt,4286,4294,8580, ms,ms.
+HM,Job68v3,1.txt,749,749,1498, ms,ms.
+HM,Job68v3,2.txt,907,908,1815, ms,ms.
+HM,Job68v3,3.txt,4790,4791,9581, ms,ms.
+HM,Job68v3,4.txt,2420,2421,4841, ms,ms.
+HM,Job68v3,5.txt,-1,-1,-1,ms,ms
+HM,Job68v3,6.txt,322,324,646, ms,ms.
+HM,Job68v3,7.txt,-1,-1,-1,ms,ms
+HM,Job68v3,8.txt,329,346,675, ms,ms.
+HM,Job68v3,9.txt,-1,-1,-1,ms,ms
+HM,Job68v3,10.txt,3846,3860,7706, ms,ms.
+HM,Job68v3,11.txt,-1,-1,-1,ms,ms
+HM,Job68v3,12.txt,958,961,1919, ms,ms.
+HM,Job68v3,13.txt,1659,1660,3319, ms,ms.
+HM,Job68v3,14.txt,-1,-1,-1,ms,ms
+HM,Job68v3,15.txt,302,303,605, ms,ms.
+HM,Job68v3,16.txt,154,157,311, ms,ms.
+HM,Job68v3,17.txt,2603,2605,5208, ms,ms.
+HM,Job68v3,18.txt,1820,1838,3658, ms,ms.
+HM,Job68v3,19.txt,-1,-1,-1,ms,ms
+HM,Job1255v3,0.txt,33077,33658,66735, ms,ms.
+HM,Job1255v3,1.txt,-1,-1,-1,ms,ms
+HM,Job1255v3,2.txt,10262,10625,20887, ms,ms.
+HM,Job1255v3,3.txt,-1,-1,-1,ms,ms
+HM,Job1255v3,4.txt,-1,-1,-1,ms,ms
+HM,Job1255v3,5.txt,13636,13724,27360, ms,ms.
+HM,Job1255v3,6.txt,5931,6170,12101, ms,ms.
+HM,Job1255v3,7.txt,-1,-1,-1,ms,ms
+HM,Job1255v3,8.txt,14530,14617,29147, ms,ms.
+HM,Job1255v3,9.txt,-1,-1,-1,ms,ms
+HM,Job1255v3,10.txt,-1,-1,-1,ms,ms
+HM,Job1255v3,11.txt,16495,16570,33065, ms,ms.
+HM,Job1255v3,12.txt,-1,-1,-1,ms,ms
+HM,Job1255v3,13.txt,9748,9989,19737, ms,ms.
+HM,Job1255v3,14.txt,9872,10103,19975, ms,ms.
+HM,Job1255v3,15.txt,31233,31334,62567, ms,ms.
+HM,Job1255v3,16.txt,-1,-1,-1,ms,ms
+HM,Job1255v3,17.txt,14663,14865,29528, ms,ms.
+HM,Job1255v3,18.txt,69158,69338,138496, ms,ms.
+HM,Job1255v3,19.txt,-1,-1,-1,ms,ms
+HM,Job1009v4,0.txt,-2,-2,-2,ms,ms
+HM,Job1009v4,1.txt,-2,-2,-2,ms,ms
+HM,Job1009v4,2.txt,-2,-2,-2,ms,ms
+HM,Job1009v4,3.txt,-2,-2,-2,ms,ms
+HM,Job1009v4,4.txt,-2,-2,-2,ms,ms
+HM,Job1009v4,5.txt,-2,-2,-2,ms,ms
+HM,Job1009v4,6.txt,-2,-2,-2,ms,ms
+HM,Job1009v4,7.txt,-2,-2,-2,ms,ms
+HM,Job1009v4,8.txt,-2,-2,-2,ms,ms
+HM,Job1009v4,9.txt,-2,-2,-2,ms,ms
+HM,Job1009v4,10.txt,-2,-2,-2,ms,ms
+HM,Job1009v4,11.txt,-2,-2,-2,ms,ms
+HM,Job1009v4,12.txt,-2,-2,-2,ms,ms
+HM,Job1009v4,13.txt,-2,-2,-2,ms,ms
+HM,Job1009v4,14.txt,-2,-2,-2,ms,ms
+HM,Job1009v4,15.txt,-2,-2,-2,ms,ms
+HM,Job1009v4,16.txt,-2,-2,-2,ms,ms
+HM,Job1009v4,17.txt,-2,-2,-2,ms,ms
+HM,Job1009v4,18.txt,-2,-2,-2,ms,ms
+HM,Job1009v4,19.txt,-2,-2,-2,ms,ms
+HM,Job1034v0,0.txt,-1,-1,-1,ms,ms
+HM,Job1034v0,1.txt,-1,-1,-1,ms,ms
+HM,Job1034v0,2.txt,-1,-1,-1,ms,ms
+HM,Job1034v0,3.txt,-1,-1,-1,ms,ms
+HM,Job1034v0,4.txt,-1,-1,-1,ms,ms
+HM,Job1034v0,5.txt,-1,-1,-1,ms,ms
+HM,Job1034v0,6.txt,-1,-1,-1,ms,ms
+HM,Job1034v0,7.txt,-1,-1,-1,ms,ms
+HM,Job1034v0,8.txt,-1,-1,-1,ms,ms
+HM,Job1034v0,9.txt,-1,-1,-1,ms,ms
+HM,Job1034v0,10.txt,-1,-1,-1,ms,ms
+HM,Job1034v0,11.txt,-1,-1,-1,ms,ms
+HM,Job1034v0,12.txt,-1,-1,-1,ms,ms
+HM,Job1034v0,13.txt,-1,-1,-1,ms,ms
+HM,Job1034v0,14.txt,-1,-1,-1,ms,ms
+HM,Job1034v0,15.txt,-1,-1,-1,ms,ms
+HM,Job1034v0,16.txt,-1,-1,-1,ms,ms
+HM,Job1034v0,17.txt,-1,-1,-1,ms,ms
+HM,Job1034v0,18.txt,-1,-1,-1,ms,ms
+HM,Job1034v0,19.txt,-1,-1,-1,ms,ms
+HM,Job39v1,0.txt,3911,3954,7865, ms,ms.
+HM,Job39v1,1.txt,1626,1667,3293, ms,ms.
+HM,Job39v1,2.txt,1975,2032,4007, ms,ms.
+HM,Job39v1,3.txt,1681,1716,3397, ms,ms.
+HM,Job39v1,4.txt,2409,2440,4849, ms,ms.
+HM,Job39v1,5.txt,472,487,959, ms,ms.
+HM,Job39v1,6.txt,240,315,555, ms,ms.
+HM,Job39v1,7.txt,3371,3424,6795, ms,ms.
+HM,Job39v1,8.txt,2200,2239,4439, ms,ms.
+HM,Job39v1,9.txt,1899,1911,3810, ms,ms.
+HM,Job39v1,10.txt,199,201,400, ms,ms.
+HM,Job39v1,11.txt,786,786,1572, ms,ms.
+HM,Job1002v4,0.txt,32621,33270,65891, ms,ms.
+HM,Job1002v4,1.txt,-1,-1,-1,ms,ms
+HM,Job1002v4,2.txt,-1,-1,-1,ms,ms
+HM,Job1002v4,3.txt,-1,-1,-1,ms,ms
+HM,Job1002v4,4.txt,-1,-1,-1,ms,ms
+HM,Job1002v4,5.txt,-1,-1,-1,ms,ms
+HM,Job1002v4,6.txt,-1,-1,-1,ms,ms
+HM,Job1002v4,7.txt,-1,-1,-1,ms,ms
+HM,Job1002v4,8.txt,13157,13313,26470, ms,ms.
+HM,Job1002v4,9.txt,-1,-1,-1,ms,ms
+HM,Job1002v4,10.txt,11978,12073,24051, ms,ms.
+HM,Job1002v4,11.txt,-1,-1,-1,ms,ms
+HM,Job1002v4,12.txt,10005,10129,20134, ms,ms.
+HM,Job1002v4,13.txt,12042,12198,24240, ms,ms.
+HM,Job1002v4,14.txt,-1,-1,-1,ms,ms
+HM,Job1002v4,15.txt,11673,11724,23397, ms,ms.
+HM,Job1002v4,16.txt,-1,-1,-1,ms,ms
+HM,Job1002v4,17.txt,-1,-1,-1,ms,ms
+HM,Job1002v4,18.txt,9716,9824,19540, ms,ms.
+HM,Job1002v4,19.txt,11840,12052,23892, ms,ms.
+HM,Job1037v0,0.txt,-1,-1,-1,ms,ms
+HM,Job1037v0,1.txt,-1,-1,-1,ms,ms
+HM,Job1037v0,2.txt,-1,-1,-1,ms,ms
+HM,Job1037v0,3.txt,-1,-1,-1,ms,ms
+HM,Job1037v0,4.txt,-1,-1,-1,ms,ms
+HM,Job1037v0,5.txt,-1,-1,-1,ms,ms
+HM,Job1037v0,6.txt,-1,-1,-1,ms,ms
+HM,Job1037v0,7.txt,-1,-1,-1,ms,ms
+HM,Job1037v0,8.txt,-1,-1,-1,ms,ms
+HM,Job1037v0,9.txt,-1,-1,-1,ms,ms
+HM,Job1037v0,10.txt,-1,-1,-1,ms,ms
+HM,Job1037v0,11.txt,-1,-1,-1,ms,ms
+HM,Job1037v0,12.txt,-1,-1,-1,ms,ms
+HM,Job1037v0,13.txt,-1,-1,-1,ms,ms
+HM,Job1037v0,14.txt,-1,-1,-1,ms,ms
+HM,Job1037v0,15.txt,-1,-1,-1,ms,ms
+HM,Job1037v0,16.txt,-1,-1,-1,ms,ms
+HM,Job1037v0,17.txt,-1,-1,-1,ms,ms
+HM,Job1037v0,18.txt,-1,-1,-1,ms,ms
+HM,Job1037v0,19.txt,-1,-1,-1,ms,ms
+HM,Job1000v4,0.txt,-1,-1,-1,ms,ms
+HM,Job1000v4,1.txt,-1,-1,-1,ms,ms
+HM,Job1000v4,2.txt,201510,204330,405840, ms,ms.
+HM,Job1000v4,3.txt,-1,-1,-1,ms,ms
+HM,Job1000v4,4.txt,27922,27943,55865, ms,ms.
+HM,Job1000v4,5.txt,-1,-1,-1,ms,ms
+HM,Job1000v4,6.txt,202188,202872,405060, ms,ms.
+HM,Job1000v4,7.txt,-1,-1,-1,ms,ms
+HM,Job1000v4,8.txt,-1,-1,-1,ms,ms
+HM,Job1000v4,9.txt,-1,-1,-1,ms,ms
+HM,Job1000v4,10.txt,-1,-1,-1,ms,ms
+HM,Job1000v4,11.txt,-1,-1,-1,ms,ms
+HM,Job1000v4,12.txt,-1,-1,-1,ms,ms
+HM,Job1000v4,13.txt,195883,199258,395141, ms,ms.
+HM,Job1000v4,14.txt,-1,-1,-1,ms,ms
+HM,Job1000v4,15.txt,-1,-1,-1,ms,ms
+HM,Job1000v4,16.txt,-1,-1,-1,ms,ms
+HM,Job1000v4,17.txt,161477,163608,325085, ms,ms.
+HM,Job1000v4,18.txt,-1,-1,-1,ms,ms
+HM,Job1000v4,19.txt,-1,-1,-1,ms,ms
+HM,Job74v2,0.txt,6704,6832,13536, ms,ms.
+HM,Job74v2,1.txt,2625,2790,5415, ms,ms.
+HM,Job74v2,2.txt,29044,29315,58359, ms,ms.
+HM,Job74v2,3.txt,17617,17734,35351, ms,ms.
+HM,Job74v2,4.txt,17883,18070,35953, ms,ms.
+HM,Job74v2,5.txt,2383,2516,4899, ms,ms.
+HM,Job74v2,6.txt,16460,16630,33090, ms,ms.
+HM,Job74v2,7.txt,14918,15024,29942, ms,ms.
+HM,Job74v2,8.txt,4155,4285,8440, ms,ms.
+HM,Job74v2,9.txt,31481,31740,63221, ms,ms.
+HM,Job74v2,10.txt,20427,20548,40975, ms,ms.
+HM,Job74v2,11.txt,16075,16314,32389, ms,ms.
+HM,Job37v0,0.txt,-1,-1,-1,ms,ms
+HM,Job37v0,1.txt,4560,4600,9160, ms,ms.
+HM,Job37v0,2.txt,3021,3091,6112, ms,ms.
+HM,Job37v0,3.txt,16069,16376,32445, ms,ms.
+HM,Job37v0,4.txt,10387,10538,20925, ms,ms.
+HM,Job37v0,5.txt,-1,-1,-1,ms,ms
+HM,Job37v0,6.txt,-1,-1,-1,ms,ms
+HM,Job37v0,7.txt,19181,19414,38595, ms,ms.
+HM,Job37v0,8.txt,-1,-1,-1,ms,ms
+HM,Job37v0,9.txt,-1,-1,-1,ms,ms
+HM,Job37v0,10.txt,11076,11311,22387, ms,ms.
+HM,Job37v0,11.txt,-1,-1,-1,ms,ms
+HM,Job37v0,12.txt,-1,-1,-1,ms,ms
+HM,Job37v0,13.txt,17709,17977,35686, ms,ms.
+HM,Job37v0,14.txt,29464,29650,59114, ms,ms.
+HM,Job37v0,15.txt,-1,-1,-1,ms,ms
+HM,Job37v0,16.txt,5233,5584,10817, ms,ms.
+HM,Job37v0,17.txt,18979,19157,38136, ms,ms.
+HM,Job37v0,18.txt,-1,-1,-1,ms,ms
+HM,Job37v0,19.txt,-1,-1,-1,ms,ms
+HM,Job68v4,0.txt,2706,2774,5480, ms,ms.
+HM,Job68v4,1.txt,111464,111756,223220, ms,ms.
+HM,Job68v4,2.txt,102007,102099,204106, ms,ms.
+HM,Job68v4,3.txt,65961,66068,132029, ms,ms.
+HM,Job68v4,4.txt,33814,33846,67660, ms,ms.
+HM,Job68v4,5.txt,3359,3394,6753, ms,ms.
+HM,Job68v4,6.txt,-1,-1,-1,ms,ms
+HM,Job68v4,7.txt,12849,13078,25927, ms,ms.
+HM,Job68v4,8.txt,22382,22408,44790, ms,ms.
+HM,Job68v4,9.txt,12225,12261,24486, ms,ms.
+HM,Job68v4,10.txt,37084,37171,74255, ms,ms.
+HM,Job68v4,11.txt,-1,-1,-1,ms,ms
+HM,Job68v4,12.txt,-1,-1,-1,ms,ms
+HM,Job68v4,13.txt,24637,24653,49290, ms,ms.
+HM,Job68v4,14.txt,-1,-1,-1,ms,ms
+HM,Job68v4,15.txt,42760,42896,85656, ms,ms.
+HM,Job68v4,16.txt,37397,37434,74831, ms,ms.
+HM,Job68v4,17.txt,2908,2919,5827, ms,ms.
+HM,Job68v4,18.txt,12435,12529,24964, ms,ms.
+HM,Job68v4,19.txt,-1,-1,-1,ms,ms
+HM,Job1055v2,0.txt,-1,-1,-1,ms,ms
+HM,Job1055v2,1.txt,8543,10174,18717, ms,ms.
+HM,Job1055v2,2.txt,13367,15016,28383, ms,ms.
+HM,Job1055v2,3.txt,-1,-1,-1,ms,ms
+HM,Job1055v2,4.txt,-1,-1,-1,ms,ms
+HM,Job1055v2,5.txt,19641,20833,40474, ms,ms.
+HM,Job1055v2,6.txt,-1,-1,-1,ms,ms
+HM,Job1055v2,7.txt,-1,-1,-1,ms,ms
+HM,Job1055v2,8.txt,12979,14133,27112, ms,ms.
+HM,Job1055v2,9.txt,-1,-1,-1,ms,ms
+HM,Job1055v2,10.txt,21732,23475,45207, ms,ms.
+HM,Job1055v2,11.txt,18627,19620,38247, ms,ms.
+HM,Job1055v2,12.txt,-1,-1,-1,ms,ms
+HM,Job1055v2,13.txt,26504,27818,54322, ms,ms.
+HM,Job1055v2,14.txt,-1,-1,-1,ms,ms
+HM,Job1055v2,15.txt,17736,18919,36655, ms,ms.
+HM,Job1055v2,16.txt,-1,-1,-1,ms,ms
+HM,Job1055v2,17.txt,-1,-1,-1,ms,ms
+HM,Job1055v2,18.txt,21243,22660,43903, ms,ms.
+HM,Job1055v2,19.txt,15773,17063,32836, ms,ms.
+HM,Job6v3,0.txt,-1,-1,-1,ms,ms
+HM,Job6v3,1.txt,42650,47123,89773, ms,ms.
+HM,Job6v3,2.txt,-1,-1,-1,ms,ms
+HM,Job6v3,3.txt,-1,-1,-1,ms,ms
+HM,Job6v3,4.txt,-1,-1,-1,ms,ms
+HM,Job6v3,5.txt,75403,80712,156115, ms,ms.
+HM,Job6v3,6.txt,22069,22928,44997, ms,ms.
+HM,Job6v3,7.txt,70211,73707,143918, ms,ms.
+HM,Job6v3,8.txt,8882,9259,18141, ms,ms.
+HM,Job6v3,9.txt,-1,-1,-1,ms,ms
+HM,Job6v3,10.txt,-1,-1,-1,ms,ms
+HM,Job6v3,11.txt,6466,7022,13488, ms,ms.
+HM,Job6v3,12.txt,19557,20209,39766, ms,ms.
+HM,Job6v3,13.txt,-1,-1,-1,ms,ms
+HM,Job6v3,14.txt,-1,-1,-1,ms,ms
+HM,Job6v3,15.txt,-1,-1,-1,ms,ms
+HM,Job6v3,16.txt,-1,-1,-1,ms,ms
+HM,Job6v3,17.txt,-1,-1,-1,ms,ms
+HM,Job6v3,18.txt,72734,77110,149844, ms,ms.
+HM,Job6v3,19.txt,8521,9285,17806, ms,ms.
+HM,Job75v2,0.txt,10875,11171,22046, ms,ms.
+HM,Job75v2,1.txt,10040,10353,20393, ms,ms.
+HM,Job75v2,2.txt,6897,7219,14116, ms,ms.
+HM,Job75v2,3.txt,6196,6564,12760, ms,ms.
+HM,Job75v2,4.txt,5541,5845,11386, ms,ms.
+HM,Job75v2,5.txt,5175,5497,10672, ms,ms.
+HM,Job75v2,6.txt,9368,9649,19017, ms,ms.
+HM,Job75v2,7.txt,4599,4940,9539, ms,ms.
+HM,Job75v2,8.txt,7115,7394,14509, ms,ms.
+HM,Job75v2,9.txt,6602,6929,13531, ms,ms.
+HM,Job75v2,10.txt,-1,-1,-1,ms,ms
+HM,Job75v2,11.txt,8571,8870,17441, ms,ms.
+HM,Job75v2,12.txt,7100,7423,14523, ms,ms.
+HM,Job75v2,13.txt,4931,5218,10149, ms,ms.
+HM,Job75v2,14.txt,10530,10800,21330, ms,ms.
+HM,Job75v2,15.txt,-1,-1,-1,ms,ms
+HM,Job75v2,16.txt,7643,7954,15597, ms,ms.
+HM,Job75v2,17.txt,7286,7599,14885, ms,ms.
+HM,Job75v2,18.txt,8331,8630,16961, ms,ms.
+HM,Job75v2,19.txt,5519,5810,11329, ms,ms.
+HM,Job253v1,0.txt,-1,-1,-1,ms,ms
+HM,Job253v1,1.txt,31540,32691,64231, ms,ms.
+HM,Job253v1,2.txt,-1,-1,-1,ms,ms
+HM,Job253v1,3.txt,-1,-1,-1,ms,ms
+HM,Job253v1,4.txt,-1,-1,-1,ms,ms
+HM,Job253v1,5.txt,-1,-1,-1,ms,ms
+HM,Job253v1,6.txt,44763,46174,90937, ms,ms.
+HM,Job253v1,7.txt,-1,-1,-1,ms,ms
+HM,Job253v1,8.txt,-1,-1,-1,ms,ms
+HM,Job253v1,9.txt,34570,35990,70560, ms,ms.
+HM,Job253v1,10.txt,-1,-1,-1,ms,ms
+HM,Job253v1,11.txt,-1,-1,-1,ms,ms
+HM,Job253v1,12.txt,-1,-1,-1,ms,ms
+HM,Job253v1,13.txt,-1,-1,-1,ms,ms
+HM,Job253v1,14.txt,-1,-1,-1,ms,ms
+HM,Job253v1,15.txt,-1,-1,-1,ms,ms
+HM,Job253v1,16.txt,-1,-1,-1,ms,ms
+HM,Job253v1,17.txt,-1,-1,-1,ms,ms
+HM,Job253v1,18.txt,-1,-1,-1,ms,ms
+HM,Job253v1,19.txt,-1,-1,-1,ms,ms
+HM,Job1337v3,0.txt,-1,-1,-1,ms,ms
+HM,Job1337v3,1.txt,1897,1898,3795, ms,ms.
+HM,Job1337v3,2.txt,-1,-1,-1,ms,ms
+HM,Job1337v3,3.txt,592290,592651,1184941, ms,ms.
+HM,Job1337v3,4.txt,-1,-1,-1,ms,ms
+HM,Job1337v3,5.txt,-1,-1,-1,ms,ms
+HM,Job1337v3,6.txt,-1,-1,-1,ms,ms
+HM,Job1337v3,7.txt,-1,-1,-1,ms,ms
+HM,Job1337v3,8.txt,-1,-1,-1,ms,ms
+HM,Job1337v3,9.txt,1833,1833,3666, ms,ms.
+HM,Job1337v3,10.txt,-1,-1,-1,ms,ms
+HM,Job1337v3,11.txt,-1,-1,-1,ms,ms
+HM,Job1337v3,12.txt,15022,15029,30051, ms,ms.
+HM,Job1337v3,13.txt,-1,-1,-1,ms,ms
+HM,Job1337v3,14.txt,-1,-1,-1,ms,ms
+HM,Job1337v3,15.txt,-1,-1,-1,ms,ms
+HM,Job1337v3,16.txt,-1,-1,-1,ms,ms
+HM,Job1337v3,17.txt,-1,-1,-1,ms,ms
+HM,Job1337v3,18.txt,5142,5148,10290, ms,ms.
+HM,Job1337v3,19.txt,-1,-1,-1,ms,ms
+HM,Job49v2,0.txt,16984,16997,33981, ms,ms.
+HM,Job49v2,1.txt,-1,-1,-1,ms,ms
+HM,Job49v2,2.txt,1770,1909,3679, ms,ms.
+HM,Job49v2,3.txt,15514,15569,31083, ms,ms.
+HM,Job49v2,4.txt,-1,-1,-1,ms,ms
+HM,Job49v2,5.txt,-1,-1,-1,ms,ms
+HM,Job49v2,6.txt,-1,-1,-1,ms,ms
+HM,Job49v2,7.txt,4657,4935,9592, ms,ms.
+HM,Job49v2,8.txt,-1,-1,-1,ms,ms
+HM,Job49v2,9.txt,91737,91794,183531, ms,ms.
+HM,Job49v2,10.txt,-1,-1,-1,ms,ms
+HM,Job49v2,11.txt,-1,-1,-1,ms,ms
+HM,Job49v2,12.txt,3694,3732,7426, ms,ms.
+HM,Job49v2,13.txt,8571,8584,17155, ms,ms.
+HM,Job49v2,14.txt,-1,-1,-1,ms,ms
+HM,Job49v2,15.txt,27314,27327,54641, ms,ms.
+HM,Job49v2,16.txt,-1,-1,-1,ms,ms
+HM,Job49v2,17.txt,27996,28010,56006, ms,ms.
+HM,Job49v2,18.txt,-1,-1,-1,ms,ms
+HM,Job49v2,19.txt,-1,-1,-1,ms,ms
+HM,Job63v3,0.txt,807,811,1618, ms,ms.
+HM,Job63v3,1.txt,38,37,75, ms,ms.
+HM,Job63v3,2.txt,11,11,22, ms,ms.
+HM,Job63v3,3.txt,29,28,57, ms,ms.
+HM,Job63v3,4.txt,20,21,41, ms,ms.
+HM,Job63v3,5.txt,14,14,28, ms,ms.
+HM,Job63v3,6.txt,4,3,7, ms,ms.
+HM,Job63v3,7.txt,23,22,45, ms,ms.
+HM,Job63v3,8.txt,26,25,51, ms,ms.
+HM,Job63v3,9.txt,2,2,4, ms,ms.
+HM,Job63v3,10.txt,16,15,31, ms,ms.
+HM,Job63v3,11.txt,9,8,17, ms,ms.
+HM,Job63v3,12.txt,3,3,6, ms,ms.
+HM,Job63v3,13.txt,27,27,54, ms,ms.
+HM,Job63v3,14.txt,40,39,79, ms,ms.
+HM,Job63v3,15.txt,21,20,41, ms,ms.
+HM,Job63v3,16.txt,9,8,17, ms,ms.
+HM,Job63v3,17.txt,41,41,82, ms,ms.
+HM,Job63v3,18.txt,21,20,41, ms,ms.
+HM,Job63v3,19.txt,796,795,1591, ms,ms.
+HM,Job91v2,0.txt,2658,2663,5321, ms,ms.
+HM,Job91v2,1.txt,-1,-1,-1,ms,ms
+HM,Job91v2,2.txt,11394,11405,22799, ms,ms.
+HM,Job91v2,3.txt,2043,2044,4087, ms,ms.
+HM,Job91v2,4.txt,2579,2586,5165, ms,ms.
+HM,Job91v2,5.txt,2500,2503,5003, ms,ms.
+HM,Job91v2,6.txt,-1,-1,-1,ms,ms
+HM,Job91v2,7.txt,2615,2616,5231, ms,ms.
+HM,Job91v2,8.txt,2514,2522,5036, ms,ms.
+HM,Job91v2,9.txt,-1,-1,-1,ms,ms
+HM,Job91v2,10.txt,-1,-1,-1,ms,ms
+HM,Job91v2,11.txt,2471,2487,4958, ms,ms.
+HM,Job91v2,12.txt,-1,-1,-1,ms,ms
+HM,Job91v2,13.txt,1904,1905,3809, ms,ms.
+HM,Job91v2,14.txt,301,355,656, ms,ms.
+HM,Job91v2,15.txt,-1,-1,-1,ms,ms
+HM,Job91v2,16.txt,2099,2110,4209, ms,ms.
+HM,Job91v2,17.txt,-1,-1,-1,ms,ms
+HM,Job91v2,18.txt,46998,47031,94029, ms,ms.
+HM,Job91v2,19.txt,2488,2503,4991, ms,ms.
+HM,Job38v3,0.txt,65465,65503,130968, ms,ms.
+HM,Job38v3,1.txt,68423,68579,137002, ms,ms.
+HM,Job38v3,2.txt,21450,21503,42953, ms,ms.
+HM,Job38v3,3.txt,86109,86190,172299, ms,ms.
+HM,Job38v3,4.txt,-1,-1,-1,ms,ms
+HM,Job38v3,5.txt,-1,-1,-1,ms,ms
+HM,Job38v3,6.txt,65935,65986,131921, ms,ms.
+HM,Job38v3,7.txt,-1,-1,-1,ms,ms
+HM,Job38v3,8.txt,-1,-1,-1,ms,ms
+HM,Job38v3,9.txt,20219,20233,40452, ms,ms.
+HM,Job38v3,10.txt,3625,3853,7478, ms,ms.
+HM,Job38v3,11.txt,20304,20318,40622, ms,ms.
+HM,Job38v3,12.txt,40942,40972,81914, ms,ms.
+HM,Job38v3,13.txt,22399,22414,44813, ms,ms.
+HM,Job38v3,14.txt,-1,-1,-1,ms,ms
+HM,Job38v3,15.txt,-1,-1,-1,ms,ms
+HM,Job38v3,16.txt,65795,65841,131636, ms,ms.
+HM,Job38v3,17.txt,66399,66446,132845, ms,ms.
+HM,Job38v3,18.txt,-1,-1,-1,ms,ms
+HM,Job38v3,19.txt,69108,69181,138289, ms,ms.
+HM,Job1011v4,0.txt,-1,-1,-1,ms,ms
+HM,Job1011v4,1.txt,-1,-1,-1,ms,ms
+HM,Job1011v4,2.txt,-1,-1,-1,ms,ms
+HM,Job1011v4,3.txt,161011,163512,324523, ms,ms.
+HM,Job1011v4,4.txt,-1,-1,-1,ms,ms
+HM,Job1011v4,5.txt,-1,-1,-1,ms,ms
+HM,Job1011v4,6.txt,-1,-1,-1,ms,ms
+HM,Job1011v4,7.txt,-1,-1,-1,ms,ms
+HM,Job1011v4,8.txt,-1,-1,-1,ms,ms
+HM,Job1011v4,9.txt,-1,-1,-1,ms,ms
+HM,Job1011v4,10.txt,-1,-1,-1,ms,ms
+HM,Job1011v4,11.txt,76820,80333,157153, ms,ms.
+HM,Job1011v4,12.txt,144504,147334,291838, ms,ms.
+HM,Job1011v4,13.txt,-1,-1,-1,ms,ms
+HM,Job1011v4,14.txt,43551,46023,89574, ms,ms.
+HM,Job1011v4,15.txt,136573,139889,276462, ms,ms.
+HM,Job1011v4,16.txt,-1,-1,-1,ms,ms
+HM,Job1011v4,17.txt,152959,157238,310197, ms,ms.
+HM,Job1011v4,18.txt,-1,-1,-1,ms,ms
+HM,Job1011v4,19.txt,90280,95377,185657, ms,ms.
+HM,Job31v0,0.txt,145623,153546,299169, ms,ms.
+HM,Job31v0,1.txt,103263,108716,211979, ms,ms.
+HM,Job31v0,2.txt,-1,-1,-1,ms,ms
+HM,Job31v0,3.txt,-1,-1,-1,ms,ms
+HM,Job31v0,4.txt,-1,-1,-1,ms,ms
+HM,Job31v0,5.txt,94950,99527,194477, ms,ms.
+HM,Job31v0,6.txt,-1,-1,-1,ms,ms
+HM,Job31v0,7.txt,-1,-1,-1,ms,ms
+HM,Job31v0,8.txt,100052,104634,204686, ms,ms.
+HM,Job31v0,9.txt,-1,-1,-1,ms,ms
+HM,Job31v0,10.txt,-1,-1,-1,ms,ms
+HM,Job31v0,11.txt,-1,-1,-1,ms,ms
+HM,Job31v0,12.txt,65154,69606,134760, ms,ms.
+HM,Job31v0,13.txt,132757,137480,270237, ms,ms.
+HM,Job31v0,14.txt,132420,137596,270016, ms,ms.
+HM,Job31v0,15.txt,28245,32526,60771, ms,ms.
+HM,Job31v0,16.txt,-1,-1,-1,ms,ms
+HM,Job31v0,17.txt,77137,81692,158829, ms,ms.
+HM,Job31v0,18.txt,-1,-1,-1,ms,ms
+HM,Job31v0,19.txt,106632,111495,218127, ms,ms.
+HM,Job1011v2,0.txt,-1,-1,-1,ms,ms
+HM,Job1011v2,1.txt,-1,-1,-1,ms,ms
+HM,Job1011v2,2.txt,-1,-1,-1,ms,ms
+HM,Job1011v2,3.txt,-1,-1,-1,ms,ms
+HM,Job1011v2,4.txt,-1,-1,-1,ms,ms
+HM,Job1011v2,5.txt,-1,-1,-1,ms,ms
+HM,Job1011v2,6.txt,-1,-1,-1,ms,ms
+HM,Job1011v2,7.txt,-1,-1,-1,ms,ms
+HM,Job1011v2,8.txt,-1,-1,-1,ms,ms
+HM,Job1011v2,9.txt,-1,-1,-1,ms,ms
+HM,Job1011v2,10.txt,-1,-1,-1,ms,ms
+HM,Job1011v2,11.txt,-1,-1,-1,ms,ms
+HM,Job1011v2,12.txt,-1,-1,-1,ms,ms
+HM,Job1011v2,13.txt,-1,-1,-1,ms,ms
+HM,Job1011v2,14.txt,-1,-1,-1,ms,ms
+HM,Job1011v2,15.txt,-1,-1,-1,ms,ms
+HM,Job1011v2,16.txt,269316,269458,538774, ms,ms.
+HM,Job1011v2,17.txt,-1,-1,-1,ms,ms
+HM,Job1011v2,18.txt,261131,261257,522388, ms,ms.
+HM,Job1011v2,19.txt,-1,-1,-1,ms,ms
+HM,Job128v0,0.txt,-1,-1,-1,ms,ms
+HM,Job128v0,1.txt,59275,60650,119925, ms,ms.
+HM,Job128v0,2.txt,59272,59371,118643, ms,ms.
+HM,Job128v0,3.txt,-1,-1,-1,ms,ms
+HM,Job128v0,4.txt,59327,59421,118748, ms,ms.
+HM,Job128v0,5.txt,-1,-1,-1,ms,ms
+HM,Job128v0,6.txt,5082,5095,10177, ms,ms.
+HM,Job128v0,7.txt,60922,61160,122082, ms,ms.
+HM,Job128v0,8.txt,77326,77405,154731, ms,ms.
+HM,Job128v0,9.txt,134544,136174,270718, ms,ms.
+HM,Job128v0,10.txt,58802,59924,118726, ms,ms.
+HM,Job128v0,11.txt,5405,5420,10825, ms,ms.
+HM,Job128v0,12.txt,161208,162987,324195, ms,ms.
+HM,Job128v0,13.txt,4914,4922,9836, ms,ms.
+HM,Job128v0,14.txt,78286,78334,156620, ms,ms.
+HM,Job128v0,15.txt,-1,-1,-1,ms,ms
+HM,Job128v0,16.txt,42236,42276,84512, ms,ms.
+HM,Job128v0,17.txt,94852,95067,189919, ms,ms.
+HM,Job128v0,18.txt,86211,86267,172478, ms,ms.
+HM,Job128v0,19.txt,-1,-1,-1,ms,ms
+HM,Job27v4,0.txt,-1,-1,-1,ms,ms
+HM,Job27v4,1.txt,130891,131067,261958, ms,ms.
+HM,Job27v4,2.txt,25776,26232,52008, ms,ms.
+HM,Job27v4,3.txt,93665,94812,188477, ms,ms.
+HM,Job27v4,4.txt,-1,-1,-1,ms,ms
+HM,Job27v4,5.txt,113273,113733,227006, ms,ms.
+HM,Job27v4,6.txt,40453,40890,81343, ms,ms.
+HM,Job27v4,7.txt,164869,165010,329879, ms,ms.
+HM,Job27v4,8.txt,-1,-1,-1,ms,ms
+HM,Job27v4,9.txt,111982,112458,224440, ms,ms.
+HM,Job27v4,10.txt,132940,134080,267020, ms,ms.
+HM,Job27v4,11.txt,183399,188690,372089, ms,ms.
+HM,Job27v4,12.txt,43483,43529,87012, ms,ms.
+HM,Job27v4,13.txt,-1,-1,-1,ms,ms
+HM,Job27v4,14.txt,78060,78132,156192, ms,ms.
+HM,Job27v4,15.txt,149167,149496,298663, ms,ms.
+HM,Job27v4,16.txt,96924,100355,197279, ms,ms.
+HM,Job27v4,17.txt,-1,-1,-1,ms,ms
+HM,Job27v4,18.txt,-1,-1,-1,ms,ms
+HM,Job27v4,19.txt,-1,-1,-1,ms,ms
+HM,Job74v0,0.txt,291,295,586, ms,ms.
+HM,Job74v0,1.txt,214,217,431, ms,ms.
+HM,Job74v0,2.txt,477,476,953, ms,ms.
+HM,Job74v0,3.txt,49,48,97, ms,ms.
+HM,Job74v0,4.txt,711,717,1428, ms,ms.
+HM,Job74v0,5.txt,205,208,413, ms,ms.
+HM,Job74v0,6.txt,36,36,72, ms,ms.
+HM,Job74v0,7.txt,889,892,1781, ms,ms.
+HM,Job74v0,8.txt,470,665,1135, ms,ms.
+HM,Job74v0,9.txt,178,178,356, ms,ms.
+HM,Job74v0,10.txt,321,321,642, ms,ms.
+HM,Job74v0,11.txt,626,672,1298, ms,ms.
+HM,Job1255v4,0.txt,-1,-1,-1,ms,ms
+HM,Job1255v4,1.txt,10866,10962,21828, ms,ms.
+HM,Job1255v4,2.txt,13584,13700,27284, ms,ms.
+HM,Job1255v4,3.txt,2845,2974,5819, ms,ms.
+HM,Job1255v4,4.txt,-1,-1,-1,ms,ms
+HM,Job1255v4,5.txt,14967,15015,29982, ms,ms.
+HM,Job1255v4,6.txt,118922,119051,237973, ms,ms.
+HM,Job1255v4,7.txt,-1,-1,-1,ms,ms
+HM,Job1255v4,8.txt,17428,17490,34918, ms,ms.
+HM,Job1255v4,9.txt,-1,-1,-1,ms,ms
+HM,Job1255v4,10.txt,-1,-1,-1,ms,ms
+HM,Job1255v4,11.txt,-1,-1,-1,ms,ms
+HM,Job1255v4,12.txt,-1,-1,-1,ms,ms
+HM,Job1255v4,13.txt,-1,-1,-1,ms,ms
+HM,Job1255v4,14.txt,-1,-1,-1,ms,ms
+HM,Job1255v4,15.txt,-1,-1,-1,ms,ms
+HM,Job1255v4,16.txt,-1,-1,-1,ms,ms
+HM,Job1255v4,17.txt,159177,167638,326815, ms,ms.
+HM,Job1255v4,18.txt,12006,12585,24591, ms,ms.
+HM,Job1255v4,19.txt,-1,-1,-1,ms,ms
+HM,Job19v4,0.txt,85790,89314,175104, ms,ms.
+HM,Job19v4,1.txt,-1,-1,-1,ms,ms
+HM,Job19v4,2.txt,-1,-1,-1,ms,ms
+HM,Job19v4,3.txt,-1,-1,-1,ms,ms
+HM,Job19v4,4.txt,16300,16551,32851, ms,ms.
+HM,Job19v4,5.txt,17823,17970,35793, ms,ms.
+HM,Job19v4,6.txt,-1,-1,-1,ms,ms
+HM,Job19v4,7.txt,-1,-1,-1,ms,ms
+HM,Job19v4,8.txt,-1,-1,-1,ms,ms
+HM,Job19v4,9.txt,-1,-1,-1,ms,ms
+HM,Job19v4,10.txt,98151,99063,197214, ms,ms.
+HM,Job19v4,11.txt,119138,120467,239605, ms,ms.
+HM,Job19v4,12.txt,58436,58550,116986, ms,ms.
+HM,Job19v4,13.txt,103870,104070,207940, ms,ms.
+HM,Job19v4,14.txt,101771,101898,203669, ms,ms.
+HM,Job19v4,15.txt,-1,-1,-1,ms,ms
+HM,Job19v4,16.txt,142246,143124,285370, ms,ms.
+HM,Job19v4,17.txt,-1,-1,-1,ms,ms
+HM,Job19v4,18.txt,-1,-1,-1,ms,ms
+HM,Job19v4,19.txt,-1,-1,-1,ms,ms
+HM,Job38v2,0.txt,14808,15504,30312, ms,ms.
+HM,Job38v2,1.txt,-1,-1,-1,ms,ms
+HM,Job38v2,2.txt,-1,-1,-1,ms,ms
+HM,Job38v2,3.txt,-1,-1,-1,ms,ms
+HM,Job38v2,4.txt,23899,24160,48059, ms,ms.
+HM,Job38v2,5.txt,-1,-1,-1,ms,ms
+HM,Job38v2,6.txt,11777,11862,23639, ms,ms.
+HM,Job38v2,7.txt,-1,-1,-1,ms,ms
+HM,Job38v2,8.txt,-1,-1,-1,ms,ms
+HM,Job38v2,9.txt,-1,-1,-1,ms,ms
+HM,Job38v2,10.txt,-1,-1,-1,ms,ms
+HM,Job38v2,11.txt,32899,33560,66459, ms,ms.
+HM,Job38v2,12.txt,31106,31119,62225, ms,ms.
+HM,Job38v2,13.txt,-1,-1,-1,ms,ms
+HM,Job38v2,14.txt,24545,24659,49204, ms,ms.
+HM,Job38v2,15.txt,-1,-1,-1,ms,ms
+HM,Job38v2,16.txt,-1,-1,-1,ms,ms
+HM,Job38v2,17.txt,-1,-1,-1,ms,ms
+HM,Job38v2,18.txt,23042,23060,46102, ms,ms.
+HM,Job38v2,19.txt,-1,-1,-1,ms,ms
+HM,Job215v1,0.txt,-1,-1,-1,ms,ms
+HM,Job215v1,1.txt,-1,-1,-1,ms,ms
+HM,Job215v1,2.txt,-1,-1,-1,ms,ms
+HM,Job215v1,3.txt,-1,-1,-1,ms,ms
+HM,Job215v1,4.txt,-1,-1,-1,ms,ms
+HM,Job215v1,5.txt,-1,-1,-1,ms,ms
+HM,Job215v1,6.txt,-1,-1,-1,ms,ms
+HM,Job215v1,7.txt,-1,-1,-1,ms,ms
+HM,Job215v1,8.txt,-1,-1,-1,ms,ms
+HM,Job215v1,9.txt,-1,-1,-1,ms,ms
+HM,Job215v1,10.txt,-1,-1,-1,ms,ms
+HM,Job215v1,11.txt,53380,53437,106817, ms,ms.
+HM,Job215v1,12.txt,-1,-1,-1,ms,ms
+HM,Job215v1,13.txt,-1,-1,-1,ms,ms
+HM,Job215v1,14.txt,-1,-1,-1,ms,ms
+HM,Job215v1,15.txt,-1,-1,-1,ms,ms
+HM,Job215v1,16.txt,-1,-1,-1,ms,ms
+HM,Job215v1,17.txt,-1,-1,-1,ms,ms
+HM,Job215v1,18.txt,-1,-1,-1,ms,ms
+HM,Job215v1,19.txt,-1,-1,-1,ms,ms
+HM,Job1032v0,0.txt,-1,-1,-1,ms,ms
+HM,Job1032v0,1.txt,-1,-1,-1,ms,ms
+HM,Job1032v0,2.txt,-1,-1,-1,ms,ms
+HM,Job1032v0,3.txt,-1,-1,-1,ms,ms
+HM,Job1032v0,4.txt,31677,33152,64829, ms,ms.
+HM,Job1032v0,5.txt,16785,17576,34361, ms,ms.
+HM,Job1032v0,6.txt,-1,-1,-1,ms,ms
+HM,Job1032v0,7.txt,-1,-1,-1,ms,ms
+HM,Job1032v0,8.txt,-1,-1,-1,ms,ms
+HM,Job1032v0,9.txt,-1,-1,-1,ms,ms
+HM,Job1032v0,10.txt,-1,-1,-1,ms,ms
+HM,Job1032v0,11.txt,-1,-1,-1,ms,ms
+HM,Job1032v0,12.txt,-1,-1,-1,ms,ms
+HM,Job1032v0,13.txt,16614,17655,34269, ms,ms.
+HM,Job1032v0,14.txt,41881,42960,84841, ms,ms.
+HM,Job1032v0,15.txt,-1,-1,-1,ms,ms
+HM,Job1032v0,16.txt,81490,83787,165277, ms,ms.
+HM,Job1032v0,17.txt,14079,14920,28999, ms,ms.
+HM,Job1032v0,18.txt,14019,14766,28785, ms,ms.
+HM,Job1032v0,19.txt,28466,29066,57532, ms,ms.
+HM,Job1006v0,0.txt,-1,-1,-1,ms,ms
+HM,Job1006v0,1.txt,15961,15986,31947, ms,ms.
+HM,Job1006v0,2.txt,-1,-1,-1,ms,ms
+HM,Job1006v0,3.txt,-1,-1,-1,ms,ms
+HM,Job1006v0,4.txt,17468,17637,35105, ms,ms.
+HM,Job1006v0,5.txt,-1,-1,-1,ms,ms
+HM,Job1006v0,6.txt,-1,-1,-1,ms,ms
+HM,Job1006v0,7.txt,18928,18943,37871, ms,ms.
+HM,Job1006v0,8.txt,9177,9189,18366, ms,ms.
+HM,Job1006v0,9.txt,7624,7635,15259, ms,ms.
+HM,Job1006v0,10.txt,7676,7681,15357, ms,ms.
+HM,Job1006v0,11.txt,-1,-1,-1,ms,ms
+HM,Job1006v0,12.txt,-1,-1,-1,ms,ms
+HM,Job1006v0,13.txt,-1,-1,-1,ms,ms
+HM,Job1006v0,14.txt,-1,-1,-1,ms,ms
+HM,Job1006v0,15.txt,9791,9799,19590, ms,ms.
+HM,Job1006v0,16.txt,-1,-1,-1,ms,ms
+HM,Job1006v0,17.txt,-1,-1,-1,ms,ms
+HM,Job1006v0,18.txt,-1,-1,-1,ms,ms
+HM,Job1006v0,19.txt,-1,-1,-1,ms,ms
+HM,Job6v4,0.txt,-1,-1,-1,ms,ms
+HM,Job6v4,1.txt,-1,-1,-1,ms,ms
+HM,Job6v4,2.txt,-1,-1,-1,ms,ms
+HM,Job6v4,3.txt,-1,-1,-1,ms,ms
+HM,Job6v4,4.txt,-1,-1,-1,ms,ms
+HM,Job6v4,5.txt,-1,-1,-1,ms,ms
+HM,Job6v4,6.txt,-1,-1,-1,ms,ms
+HM,Job6v4,7.txt,-1,-1,-1,ms,ms
+HM,Job6v4,8.txt,81540,81910,163450, ms,ms.
+HM,Job6v4,9.txt,-1,-1,-1,ms,ms
+HM,Job6v4,10.txt,-1,-1,-1,ms,ms
+HM,Job6v4,11.txt,67112,67594,134706, ms,ms.
+HM,Job6v4,12.txt,-1,-1,-1,ms,ms
+HM,Job6v4,13.txt,-1,-1,-1,ms,ms
+HM,Job6v4,14.txt,12604,12975,25579, ms,ms.
+HM,Job6v4,15.txt,-1,-1,-1,ms,ms
+HM,Job6v4,16.txt,-1,-1,-1,ms,ms
+HM,Job6v4,17.txt,92712,93151,185863, ms,ms.
+HM,Job6v4,18.txt,15767,16126,31893, ms,ms.
+HM,Job6v4,19.txt,-1,-1,-1,ms,ms
+HM,Job16v0,0.txt,-1,-1,-1,ms,ms
+HM,Job16v0,1.txt,425957,707922,1133879, ms,ms.
+HM,Job16v0,2.txt,592379,880419,1472798, ms,ms.
+HM,Job16v0,3.txt,346946,452391,799337, ms,ms.
+HM,Job16v0,4.txt,471411,751328,1222739, ms,ms.
+HM,Job16v0,5.txt,-1,-1,-1,ms,ms
+HM,Job16v0,6.txt,650224,862222,1512446, ms,ms.
+HM,Job16v0,7.txt,369712,579295,949007, ms,ms.
+HM,Job16v0,8.txt,299617,387896,687513, ms,ms.
+HM,Job16v0,9.txt,-1,-1,-1,ms,ms
+HM,Job16v0,10.txt,-1,-1,-1,ms,ms
+HM,Job16v0,11.txt,276889,360634,637523, ms,ms.
+HM,Job16v0,12.txt,282818,361377,644195, ms,ms.
+HM,Job16v0,13.txt,-1,-1,-1,ms,ms
+HM,Job16v0,14.txt,-1,-1,-1,ms,ms
+HM,Job16v0,15.txt,-1,-1,-1,ms,ms
+HM,Job16v0,16.txt,-1,-1,-1,ms,ms
+HM,Job16v0,17.txt,303575,390446,694021, ms,ms.
+HM,Job16v0,18.txt,-1,-1,-1,ms,ms
+HM,Job16v0,19.txt,-1,-1,-1,ms,ms
+HM,Job1013v2,0.txt,-1,-1,-1,ms,ms
+HM,Job1013v2,1.txt,-1,-1,-1,ms,ms
+HM,Job1013v2,2.txt,11704,11715,23419, ms,ms.
+HM,Job1013v2,3.txt,-1,-1,-1,ms,ms
+HM,Job1013v2,4.txt,-1,-1,-1,ms,ms
+HM,Job1013v2,5.txt,-1,-1,-1,ms,ms
+HM,Job1013v2,6.txt,-1,-1,-1,ms,ms
+HM,Job1013v2,7.txt,-1,-1,-1,ms,ms
+HM,Job1013v2,8.txt,16448,16667,33115, ms,ms.
+HM,Job1013v2,9.txt,-1,-1,-1,ms,ms
+HM,Job1013v2,10.txt,-1,-1,-1,ms,ms
+HM,Job1013v2,11.txt,-1,-1,-1,ms,ms
+HM,Job1013v2,12.txt,-1,-1,-1,ms,ms
+HM,Job1013v2,13.txt,-1,-1,-1,ms,ms
+HM,Job1013v2,14.txt,10127,10133,20260, ms,ms.
+HM,Job1013v2,15.txt,-1,-1,-1,ms,ms
+HM,Job1013v2,16.txt,-1,-1,-1,ms,ms
+HM,Job1013v2,17.txt,13926,13940,27866, ms,ms.
+HM,Job1013v2,18.txt,13898,13941,27839, ms,ms.
+HM,Job1013v2,19.txt,-1,-1,-1,ms,ms
+HM,Job253v4,0.txt,-1,-1,-1,ms,ms
+HM,Job253v4,1.txt,-1,-1,-1,ms,ms
+HM,Job253v4,2.txt,-1,-1,-1,ms,ms
+HM,Job253v4,3.txt,-1,-1,-1,ms,ms
+HM,Job253v4,4.txt,-1,-1,-1,ms,ms
+HM,Job253v4,5.txt,-1,-1,-1,ms,ms
+HM,Job253v4,6.txt,-1,-1,-1,ms,ms
+HM,Job253v4,7.txt,-1,-1,-1,ms,ms
+HM,Job253v4,8.txt,-1,-1,-1,ms,ms
+HM,Job253v4,9.txt,282315,285447,567762, ms,ms.
+HM,Job253v4,10.txt,-1,-1,-1,ms,ms
+HM,Job253v4,11.txt,-1,-1,-1,ms,ms
+HM,Job253v4,12.txt,-1,-1,-1,ms,ms
+HM,Job253v4,13.txt,-1,-1,-1,ms,ms
+HM,Job253v4,14.txt,-1,-1,-1,ms,ms
+HM,Job253v4,15.txt,-1,-1,-1,ms,ms
+HM,Job253v4,16.txt,293159,297208,590367, ms,ms.
+HM,Job253v4,17.txt,-1,-1,-1,ms,ms
+HM,Job253v4,18.txt,-1,-1,-1,ms,ms
+HM,Job253v4,19.txt,-1,-1,-1,ms,ms
+HM,Job1157v0,0.txt,-1,-1,-1,ms,ms
+HM,Job1157v0,1.txt,15900,15921,31821, ms,ms.
+HM,Job1157v0,2.txt,-1,-1,-1,ms,ms
+HM,Job1157v0,3.txt,-1,-1,-1,ms,ms
+HM,Job1157v0,4.txt,-1,-1,-1,ms,ms
+HM,Job1157v0,5.txt,11022,11416,22438, ms,ms.
+HM,Job1157v0,6.txt,11654,11667,23321, ms,ms.
+HM,Job1157v0,7.txt,-1,-1,-1,ms,ms
+HM,Job1157v0,8.txt,-1,-1,-1,ms,ms
+HM,Job1157v0,9.txt,-1,-1,-1,ms,ms
+HM,Job1157v0,10.txt,-1,-1,-1,ms,ms
+HM,Job1157v0,11.txt,32035,33461,65496, ms,ms.
+HM,Job1157v0,12.txt,9028,9047,18075, ms,ms.
+HM,Job1157v0,13.txt,-1,-1,-1,ms,ms
+HM,Job1157v0,14.txt,-1,-1,-1,ms,ms
+HM,Job1157v0,15.txt,44466,44531,88997, ms,ms.
+HM,Job1157v0,16.txt,9583,9601,19184, ms,ms.
+HM,Job1157v0,17.txt,89465,89569,179034, ms,ms.
+HM,Job1157v0,18.txt,-1,-1,-1,ms,ms
+HM,Job1157v0,19.txt,12056,12075,24131, ms,ms.
+HM,Job161v4,0.txt,-1,-1,-1,ms,ms
+HM,Job161v4,1.txt,-1,-1,-1,ms,ms
+HM,Job161v4,2.txt,-1,-1,-1,ms,ms
+HM,Job161v4,3.txt,-1,-1,-1,ms,ms
+HM,Job161v4,4.txt,-1,-1,-1,ms,ms
+HM,Job161v4,5.txt,-1,-1,-1,ms,ms
+HM,Job161v4,6.txt,-1,-1,-1,ms,ms
+HM,Job161v4,7.txt,-1,-1,-1,ms,ms
+HM,Job161v4,8.txt,-1,-1,-1,ms,ms
+HM,Job161v4,9.txt,-1,-1,-1,ms,ms
+HM,Job161v4,10.txt,-1,-1,-1,ms,ms
+HM,Job161v4,11.txt,-1,-1,-1,ms,ms
+HM,Job161v4,12.txt,-1,-1,-1,ms,ms
+HM,Job161v4,13.txt,-1,-1,-1,ms,ms
+HM,Job161v4,14.txt,329117,335791,664908, ms,ms.
+HM,Job161v4,15.txt,-1,-1,-1,ms,ms
+HM,Job161v4,16.txt,-1,-1,-1,ms,ms
+HM,Job161v4,17.txt,-1,-1,-1,ms,ms
+HM,Job161v4,18.txt,-1,-1,-1,ms,ms
+HM,Job161v4,19.txt,-1,-1,-1,ms,ms
+HM,Job1014v2,0.txt,24247,24272,48519, ms,ms.
+HM,Job1014v2,1.txt,3125,3305,6430, ms,ms.
+HM,Job1014v2,2.txt,-1,-1,-1,ms,ms
+HM,Job1014v2,3.txt,20164,20189,40353, ms,ms.
+HM,Job1014v2,4.txt,15493,15511,31004, ms,ms.
+HM,Job1014v2,5.txt,25121,25157,50278, ms,ms.
+HM,Job1014v2,6.txt,17040,17055,34095, ms,ms.
+HM,Job1014v2,7.txt,22395,22417,44812, ms,ms.
+HM,Job1014v2,8.txt,32521,32563,65084, ms,ms.
+HM,Job1014v2,9.txt,29131,29448,58579, ms,ms.
+HM,Job1014v2,10.txt,30705,30744,61449, ms,ms.
+HM,Job1014v2,11.txt,20718,20745,41463, ms,ms.
+HM,Job1014v2,12.txt,54062,54109,108171, ms,ms.
+HM,Job1014v2,13.txt,24812,24842,49654, ms,ms.
+HM,Job1014v2,14.txt,28671,28701,57372, ms,ms.
+HM,Job1014v2,15.txt,29757,30254,60011, ms,ms.
+HM,Job1014v2,16.txt,27978,28012,55990, ms,ms.
+HM,Job1014v2,17.txt,17034,17162,34196, ms,ms.
+HM,Job1014v2,18.txt,28878,28915,57793, ms,ms.
+HM,Job1014v2,19.txt,-1,-1,-1,ms,ms
+HM,Job63v1,0.txt,28894,29218,58112, ms,ms.
+HM,Job63v1,1.txt,36600,37143,73743, ms,ms.
+HM,Job63v1,2.txt,43523,43950,87473, ms,ms.
+HM,Job63v1,3.txt,-1,-1,-1,ms,ms
+HM,Job63v1,4.txt,48083,48750,96833, ms,ms.
+HM,Job63v1,5.txt,1550,1594,3144, ms,ms.
+HM,Job63v1,6.txt,24824,25117,49941, ms,ms.
+HM,Job63v1,7.txt,-1,-1,-1,ms,ms
+HM,Job63v1,8.txt,28167,28560,56727, ms,ms.
+HM,Job63v1,9.txt,21128,21472,42600, ms,ms.
+HM,Job63v1,10.txt,5187,5296,10483, ms,ms.
+HM,Job63v1,11.txt,46555,47136,93691, ms,ms.
+HM,Job63v1,12.txt,31851,32195,64046, ms,ms.
+HM,Job63v1,13.txt,-1,-1,-1,ms,ms
+HM,Job63v1,14.txt,35240,35615,70855, ms,ms.
+HM,Job63v1,15.txt,33417,33644,67061, ms,ms.
+HM,Job63v1,16.txt,13689,14223,27912, ms,ms.
+HM,Job63v1,17.txt,-1,-1,-1,ms,ms
+HM,Job63v1,18.txt,20776,21302,42078, ms,ms.
+HM,Job63v1,19.txt,-1,-1,-1,ms,ms
+HM,Job1300v2,0.txt,-1,-1,-1,ms,ms
+HM,Job1300v2,1.txt,-1,-1,-1,ms,ms
+HM,Job1300v2,2.txt,-1,-1,-1,ms,ms
+HM,Job1300v2,3.txt,-1,-1,-1,ms,ms
+HM,Job1300v2,4.txt,-1,-1,-1,ms,ms
+HM,Job1300v2,5.txt,-1,-1,-1,ms,ms
+HM,Job1300v2,6.txt,-1,-1,-1,ms,ms
+HM,Job1300v2,7.txt,-1,-1,-1,ms,ms
+HM,Job1300v2,8.txt,-1,-1,-1,ms,ms
+HM,Job1300v2,9.txt,-1,-1,-1,ms,ms
+HM,Job1300v2,10.txt,-1,-1,-1,ms,ms
+HM,Job1300v2,11.txt,-1,-1,-1,ms,ms
+HM,Job1300v2,12.txt,-1,-1,-1,ms,ms
+HM,Job1300v2,13.txt,-1,-1,-1,ms,ms
+HM,Job1300v2,14.txt,-1,-1,-1,ms,ms
+HM,Job1300v2,15.txt,-1,-1,-1,ms,ms
+HM,Job1300v2,16.txt,-1,-1,-1,ms,ms
+HM,Job1300v2,17.txt,-1,-1,-1,ms,ms
+HM,Job1300v2,18.txt,-1,-1,-1,ms,ms
+HM,Job1300v2,19.txt,-1,-1,-1,ms,ms
+HM,Job1171v3,0.txt,492093,521451,1013544, ms,ms.
+HM,Job1171v3,1.txt,-1,-1,-1,ms,ms
+HM,Job1171v3,2.txt,-1,-1,-1,ms,ms
+HM,Job1171v3,3.txt,-1,-1,-1,ms,ms
+HM,Job1171v3,4.txt,-1,-1,-1,ms,ms
+HM,Job1171v3,5.txt,-1,-1,-1,ms,ms
+HM,Job1171v3,6.txt,-1,-1,-1,ms,ms
+HM,Job1171v3,7.txt,278572,280676,559248, ms,ms.
+HM,Job1171v3,8.txt,-1,-1,-1,ms,ms
+HM,Job1171v3,9.txt,-1,-1,-1,ms,ms
+HM,Job1171v3,10.txt,-1,-1,-1,ms,ms
+HM,Job1171v3,11.txt,-1,-1,-1,ms,ms
+HM,Job1171v3,12.txt,-1,-1,-1,ms,ms
+HM,Job1171v3,13.txt,-1,-1,-1,ms,ms
+HM,Job1171v3,14.txt,-1,-1,-1,ms,ms
+HM,Job1171v3,15.txt,-1,-1,-1,ms,ms
+HM,Job1171v3,16.txt,-1,-1,-1,ms,ms
+HM,Job1171v3,17.txt,-1,-1,-1,ms,ms
+HM,Job1171v3,18.txt,74709,75941,150650, ms,ms.
+HM,Job1171v3,19.txt,-1,-1,-1,ms,ms
+HM,Job1041v4,0.txt,-1,-1,-1,ms,ms
+HM,Job1041v4,1.txt,-1,-1,-1,ms,ms
+HM,Job1041v4,2.txt,-1,-1,-1,ms,ms
+HM,Job1041v4,3.txt,-1,-1,-1,ms,ms
+HM,Job1041v4,4.txt,-1,-1,-1,ms,ms
+HM,Job1041v4,5.txt,24581,24591,49172, ms,ms.
+HM,Job1041v4,6.txt,1644,1644,3288, ms,ms.
+HM,Job1041v4,7.txt,-1,-1,-1,ms,ms
+HM,Job1041v4,8.txt,-1,-1,-1,ms,ms
+HM,Job1041v4,9.txt,-1,-1,-1,ms,ms
+HM,Job1041v4,10.txt,-1,-1,-1,ms,ms
+HM,Job1041v4,11.txt,-1,-1,-1,ms,ms
+HM,Job1041v4,12.txt,-1,-1,-1,ms,ms
+HM,Job1041v4,13.txt,-1,-1,-1,ms,ms
+HM,Job1041v4,14.txt,2602,2604,5206, ms,ms.
+HM,Job1041v4,15.txt,24903,24937,49840, ms,ms.
+HM,Job1041v4,16.txt,-1,-1,-1,ms,ms
+HM,Job1041v4,17.txt,-1,-1,-1,ms,ms
+HM,Job1041v4,18.txt,-1,-1,-1,ms,ms
+HM,Job1041v4,19.txt,-1,-1,-1,ms,ms
+HM,Job1031v2,0.txt,274428,274704,549132, ms,ms.
+HM,Job1031v2,1.txt,-1,-1,-1,ms,ms
+HM,Job1031v2,2.txt,-1,-1,-1,ms,ms
+HM,Job1031v2,3.txt,-1,-1,-1,ms,ms
+HM,Job1031v2,4.txt,16343,16457,32800, ms,ms.
+HM,Job1031v2,5.txt,102744,103035,205779, ms,ms.
+HM,Job1031v2,6.txt,-1,-1,-1,ms,ms
+HM,Job1031v2,7.txt,-1,-1,-1,ms,ms
+HM,Job1031v2,8.txt,-1,-1,-1,ms,ms
+HM,Job1031v2,9.txt,16325,16374,32699, ms,ms.
+HM,Job1031v2,10.txt,-1,-1,-1,ms,ms
+HM,Job1031v2,11.txt,-1,-1,-1,ms,ms
+HM,Job1031v2,12.txt,9756,9777,19533, ms,ms.
+HM,Job1031v2,13.txt,-1,-1,-1,ms,ms
+HM,Job1031v2,14.txt,-1,-1,-1,ms,ms
+HM,Job1031v2,15.txt,-1,-1,-1,ms,ms
+HM,Job1031v2,16.txt,63857,63902,127759, ms,ms.
+HM,Job1031v2,17.txt,-1,-1,-1,ms,ms
+HM,Job1031v2,18.txt,-1,-1,-1,ms,ms
+HM,Job1031v2,19.txt,-1,-1,-1,ms,ms
+HM,Job68v2,0.txt,529,579,1108, ms,ms.
+HM,Job68v2,1.txt,39306,39343,78649, ms,ms.
+HM,Job68v2,2.txt,876,884,1760, ms,ms.
+HM,Job68v2,3.txt,7651,7658,15309, ms,ms.
+HM,Job68v2,4.txt,647,672,1319, ms,ms.
+HM,Job68v2,5.txt,2244,2244,4488, ms,ms.
+HM,Job68v2,6.txt,6222,6226,12448, ms,ms.
+HM,Job68v2,7.txt,-1,-1,-1,ms,ms
+HM,Job68v2,8.txt,-1,-1,-1,ms,ms
+HM,Job68v2,9.txt,-1,-1,-1,ms,ms
+HM,Job68v2,10.txt,39534,39579,79113, ms,ms.
+HM,Job68v2,11.txt,2765,2771,5536, ms,ms.
+HM,Job68v2,12.txt,5122,5128,10250, ms,ms.
+HM,Job68v2,13.txt,2567,2570,5137, ms,ms.
+HM,Job68v2,14.txt,5132,5137,10269, ms,ms.
+HM,Job68v2,15.txt,7476,7482,14958, ms,ms.
+HM,Job68v2,16.txt,-1,-1,-1,ms,ms
+HM,Job68v2,17.txt,2967,2969,5936, ms,ms.
+HM,Job68v2,18.txt,5328,5332,10660, ms,ms.
+HM,Job68v2,19.txt,-1,-1,-1,ms,ms
+HM,Job1041v1,0.txt,-1,-1,-1,ms,ms
+HM,Job1041v1,1.txt,-1,-1,-1,ms,ms
+HM,Job1041v1,2.txt,-1,-1,-1,ms,ms
+HM,Job1041v1,3.txt,-1,-1,-1,ms,ms
+HM,Job1041v1,4.txt,-1,-1,-1,ms,ms
+HM,Job1041v1,5.txt,27616,27630,55246, ms,ms.
+HM,Job1041v1,6.txt,-1,-1,-1,ms,ms
+HM,Job1041v1,7.txt,-1,-1,-1,ms,ms
+HM,Job1041v1,8.txt,-1,-1,-1,ms,ms
+HM,Job1041v1,9.txt,5730,5792,11522, ms,ms.
+HM,Job1041v1,10.txt,-1,-1,-1,ms,ms
+HM,Job1041v1,11.txt,-1,-1,-1,ms,ms
+HM,Job1041v1,12.txt,-1,-1,-1,ms,ms
+HM,Job1041v1,13.txt,-1,-1,-1,ms,ms
+HM,Job1041v1,14.txt,-1,-1,-1,ms,ms
+HM,Job1041v1,15.txt,30345,30408,60753, ms,ms.
+HM,Job1041v1,16.txt,-1,-1,-1,ms,ms
+HM,Job1041v1,17.txt,-1,-1,-1,ms,ms
+HM,Job1041v1,18.txt,-1,-1,-1,ms,ms
+HM,Job1041v1,19.txt,-1,-1,-1,ms,ms
+HM,Job1021v1,0.txt,-1,-1,-1,ms,ms
+HM,Job1021v1,1.txt,-1,-1,-1,ms,ms
+HM,Job1021v1,2.txt,-1,-1,-1,ms,ms
+HM,Job1021v1,3.txt,-1,-1,-1,ms,ms
+HM,Job1021v1,4.txt,-1,-1,-1,ms,ms
+HM,Job1021v1,5.txt,-1,-1,-1,ms,ms
+HM,Job1021v1,6.txt,219326,219840,439166, ms,ms.
+HM,Job1021v1,7.txt,-1,-1,-1,ms,ms
+HM,Job1021v1,8.txt,-1,-1,-1,ms,ms
+HM,Job1021v1,9.txt,-1,-1,-1,ms,ms
+HM,Job1021v1,10.txt,-1,-1,-1,ms,ms
+HM,Job1021v1,11.txt,175142,175328,350470, ms,ms.
+HM,Job1021v1,12.txt,-1,-1,-1,ms,ms
+HM,Job1021v1,13.txt,-1,-1,-1,ms,ms
+HM,Job1021v1,14.txt,-1,-1,-1,ms,ms
+HM,Job1021v1,15.txt,-1,-1,-1,ms,ms
+HM,Job1021v1,16.txt,-1,-1,-1,ms,ms
+HM,Job1021v1,17.txt,-1,-1,-1,ms,ms
+HM,Job1021v1,18.txt,-1,-1,-1,ms,ms
+HM,Job1021v1,19.txt,-1,-1,-1,ms,ms
+HM,Job63v0,0.txt,3037,4601,7638, ms,ms.
+HM,Job63v0,1.txt,2861,4234,7095, ms,ms.
+HM,Job63v0,2.txt,2613,3841,6454, ms,ms.
+HM,Job63v0,3.txt,50854,75224,126078, ms,ms.
+HM,Job63v0,4.txt,167,305,472, ms,ms.
+HM,Job63v0,5.txt,-1,-1,-1,ms,ms
+HM,Job63v0,6.txt,-1,-1,-1,ms,ms
+HM,Job63v0,7.txt,261,505,766, ms,ms.
+HM,Job63v0,8.txt,924,1637,2561, ms,ms.
+HM,Job63v0,9.txt,3858,6997,10855, ms,ms.
+HM,Job63v0,10.txt,-1,-1,-1,ms,ms
+HM,Job63v0,11.txt,6719,6795,13514, ms,ms.
+HM,Job63v0,12.txt,-1,-1,-1,ms,ms
+HM,Job63v0,13.txt,905,911,1816, ms,ms.
+HM,Job63v0,14.txt,2164,2216,4380, ms,ms.
+HM,Job63v0,15.txt,3496,3560,7056, ms,ms.
+HM,Job63v0,16.txt,435,489,924, ms,ms.
+HM,Job63v0,17.txt,2865,2933,5798, ms,ms.
+HM,Job63v0,18.txt,457,467,924, ms,ms.
+HM,Job63v0,19.txt,1199,1225,2424, ms,ms.
+HM,Job1126v2,0.txt,26177,26475,52652, ms,ms.
+HM,Job1126v2,1.txt,19469,19481,38950, ms,ms.
+HM,Job1126v2,2.txt,-1,-1,-1,ms,ms
+HM,Job1126v2,3.txt,5926,5929,11855, ms,ms.
+HM,Job1126v2,4.txt,-1,-1,-1,ms,ms
+HM,Job1126v2,5.txt,-1,-1,-1,ms,ms
+HM,Job1126v2,6.txt,-1,-1,-1,ms,ms
+HM,Job1126v2,7.txt,-1,-1,-1,ms,ms
+HM,Job1126v2,8.txt,-1,-1,-1,ms,ms
+HM,Job1126v2,9.txt,17741,17748,35489, ms,ms.
+HM,Job1126v2,10.txt,31718,31744,63462, ms,ms.
+HM,Job1126v2,11.txt,33765,34424,68189, ms,ms.
+HM,Job1126v2,12.txt,24257,24486,48743, ms,ms.
+HM,Job1126v2,13.txt,-1,-1,-1,ms,ms
+HM,Job1126v2,14.txt,27702,27817,55519, ms,ms.
+HM,Job1126v2,15.txt,82705,82756,165461, ms,ms.
+HM,Job1126v2,16.txt,-1,-1,-1,ms,ms
+HM,Job1126v2,17.txt,14217,14229,28446, ms,ms.
+HM,Job1126v2,18.txt,-1,-1,-1,ms,ms
+HM,Job1126v2,19.txt,53358,53399,106757, ms,ms.
+HM,Job74v4,0.txt,44,45,89, ms,ms.
+HM,Job74v4,1.txt,414,421,835, ms,ms.
+HM,Job74v4,2.txt,704,713,1417, ms,ms.
+HM,Job74v4,3.txt,33,36,69, ms,ms.
+HM,Job74v4,4.txt,23,23,46, ms,ms.
+HM,Job74v4,5.txt,695,705,1400, ms,ms.
+HM,Job74v4,6.txt,37,37,74, ms,ms.
+HM,Job74v4,7.txt,397,402,799, ms,ms.
+HM,Job74v4,8.txt,263,274,537, ms,ms.
+HM,Job74v4,9.txt,275,279,554, ms,ms.
+HM,Job74v4,10.txt,146,148,294, ms,ms.
+HM,Job74v4,11.txt,130,133,263, ms,ms.
+HM,Job56v2,0.txt,-2,-2,-2,ms,ms
+HM,Job56v2,1.txt,-2,-2,-2,ms,ms
+HM,Job56v2,2.txt,-2,-2,-2,ms,ms
+HM,Job56v2,3.txt,-2,-2,-2,ms,ms
+HM,Job56v2,4.txt,-2,-2,-2,ms,ms
+HM,Job56v2,5.txt,-2,-2,-2,ms,ms
+HM,Job56v2,6.txt,-2,-2,-2,ms,ms
+HM,Job56v2,7.txt,-2,-2,-2,ms,ms
+HM,Job56v2,8.txt,-2,-2,-2,ms,ms
+HM,Job56v2,9.txt,-2,-2,-2,ms,ms
+HM,Job56v2,10.txt,-2,-2,-2,ms,ms
+HM,Job56v2,11.txt,-2,-2,-2,ms,ms
+HM,Job56v2,12.txt,-2,-2,-2,ms,ms
+HM,Job56v2,13.txt,-2,-2,-2,ms,ms
+HM,Job56v2,14.txt,-2,-2,-2,ms,ms
+HM,Job56v2,15.txt,-2,-2,-2,ms,ms
+HM,Job56v2,16.txt,-2,-2,-2,ms,ms
+HM,Job56v2,17.txt,-2,-2,-2,ms,ms
+HM,Job56v2,18.txt,-2,-2,-2,ms,ms
+HM,Job56v2,19.txt,-2,-2,-2,ms,ms
+HM,Job1325v3,0.txt,-1,-1,-1,ms,ms
+HM,Job1325v3,1.txt,-1,-1,-1,ms,ms
+HM,Job1325v3,2.txt,-1,-1,-1,ms,ms
+HM,Job1325v3,3.txt,-1,-1,-1,ms,ms
+HM,Job1325v3,4.txt,-1,-1,-1,ms,ms
+HM,Job1325v3,5.txt,-1,-1,-1,ms,ms
+HM,Job1325v3,6.txt,-1,-1,-1,ms,ms
+HM,Job1325v3,7.txt,-1,-1,-1,ms,ms
+HM,Job1325v3,8.txt,-1,-1,-1,ms,ms
+HM,Job1325v3,9.txt,-1,-1,-1,ms,ms
+HM,Job1325v3,10.txt,-1,-1,-1,ms,ms
+HM,Job1325v3,11.txt,-1,-1,-1,ms,ms
+HM,Job1325v3,12.txt,209673,209808,419481, ms,ms.
+HM,Job1325v3,13.txt,-1,-1,-1,ms,ms
+HM,Job1325v3,14.txt,-1,-1,-1,ms,ms
+HM,Job1325v3,15.txt,-1,-1,-1,ms,ms
+HM,Job1325v3,16.txt,-1,-1,-1,ms,ms
+HM,Job1325v3,17.txt,-1,-1,-1,ms,ms
+HM,Job1325v3,18.txt,-1,-1,-1,ms,ms
+HM,Job1325v3,19.txt,-1,-1,-1,ms,ms
+HM,Job90v2,0.txt,16040,16051,32091, ms,ms.
+HM,Job90v2,1.txt,-1,-1,-1,ms,ms
+HM,Job90v2,2.txt,-1,-1,-1,ms,ms
+HM,Job90v2,3.txt,553180,567978,1121158, ms,ms.
+HM,Job90v2,4.txt,-1,-1,-1,ms,ms
+HM,Job90v2,5.txt,16252,16265,32517, ms,ms.
+HM,Job90v2,6.txt,40195,40230,80425, ms,ms.
+HM,Job90v2,7.txt,38797,38821,77618, ms,ms.
+HM,Job90v2,8.txt,19471,19484,38955, ms,ms.
+HM,Job90v2,9.txt,-1,-1,-1,ms,ms
+HM,Job90v2,10.txt,38147,38165,76312, ms,ms.
+HM,Job90v2,11.txt,-1,-1,-1,ms,ms
+HM,Job90v2,12.txt,25795,25868,51663, ms,ms.
+HM,Job90v2,13.txt,-1,-1,-1,ms,ms
+HM,Job90v2,14.txt,-1,-1,-1,ms,ms
+HM,Job90v2,15.txt,-1,-1,-1,ms,ms
+HM,Job90v2,16.txt,-1,-1,-1,ms,ms
+HM,Job90v2,17.txt,24137,24292,48429, ms,ms.
+HM,Job90v2,18.txt,18784,18798,37582, ms,ms.
+HM,Job90v2,19.txt,488464,499804,988268, ms,ms.
+HM,Job1041v0,0.txt,-1,-1,-1,ms,ms
+HM,Job1041v0,1.txt,-1,-1,-1,ms,ms
+HM,Job1041v0,2.txt,-1,-1,-1,ms,ms
+HM,Job1041v0,3.txt,-1,-1,-1,ms,ms
+HM,Job1041v0,4.txt,-1,-1,-1,ms,ms
+HM,Job1041v0,5.txt,-1,-1,-1,ms,ms
+HM,Job1041v0,6.txt,-1,-1,-1,ms,ms
+HM,Job1041v0,7.txt,-1,-1,-1,ms,ms
+HM,Job1041v0,8.txt,-1,-1,-1,ms,ms
+HM,Job1041v0,9.txt,-1,-1,-1,ms,ms
+HM,Job1041v0,10.txt,-1,-1,-1,ms,ms
+HM,Job1041v0,11.txt,24080,24093,48173, ms,ms.
+HM,Job1041v0,12.txt,-1,-1,-1,ms,ms
+HM,Job1041v0,13.txt,-1,-1,-1,ms,ms
+HM,Job1041v0,14.txt,-1,-1,-1,ms,ms
+HM,Job1041v0,15.txt,-1,-1,-1,ms,ms
+HM,Job1041v0,16.txt,-1,-1,-1,ms,ms
+HM,Job1041v0,17.txt,-1,-1,-1,ms,ms
+HM,Job1041v0,18.txt,-1,-1,-1,ms,ms
+HM,Job1041v0,19.txt,-1,-1,-1,ms,ms
+HM,Job221v0,0.txt,-1,-1,-1,ms,ms
+HM,Job221v0,1.txt,-1,-1,-1,ms,ms
+HM,Job221v0,2.txt,-1,-1,-1,ms,ms
+HM,Job221v0,3.txt,-1,-1,-1,ms,ms
+HM,Job221v0,4.txt,-1,-1,-1,ms,ms
+HM,Job221v0,5.txt,-1,-1,-1,ms,ms
+HM,Job221v0,6.txt,-1,-1,-1,ms,ms
+HM,Job221v0,7.txt,-1,-1,-1,ms,ms
+HM,Job221v0,8.txt,4770,4798,9568, ms,ms.
+HM,Job221v0,9.txt,66675,66771,133446, ms,ms.
+HM,Job221v0,10.txt,-1,-1,-1,ms,ms
+HM,Job221v0,11.txt,-1,-1,-1,ms,ms
+HM,Job221v0,12.txt,-1,-1,-1,ms,ms
+HM,Job221v0,13.txt,-1,-1,-1,ms,ms
+HM,Job221v0,14.txt,-1,-1,-1,ms,ms
+HM,Job221v0,15.txt,-1,-1,-1,ms,ms
+HM,Job221v0,16.txt,18504,18544,37048, ms,ms.
+HM,Job221v0,17.txt,67571,67649,135220, ms,ms.
+HM,Job221v0,18.txt,-1,-1,-1,ms,ms
+HM,Job221v0,19.txt,71155,71208,142363, ms,ms.
+HM,Job1021v2,0.txt,46904,47317,94221, ms,ms.
+HM,Job1021v2,1.txt,-1,-1,-1,ms,ms
+HM,Job1021v2,2.txt,92729,95259,187988, ms,ms.
+HM,Job1021v2,3.txt,60840,60901,121741, ms,ms.
+HM,Job1021v2,4.txt,-1,-1,-1,ms,ms
+HM,Job1021v2,5.txt,-1,-1,-1,ms,ms
+HM,Job1021v2,6.txt,-1,-1,-1,ms,ms
+HM,Job1021v2,7.txt,-1,-1,-1,ms,ms
+HM,Job1021v2,8.txt,-1,-1,-1,ms,ms
+HM,Job1021v2,9.txt,-1,-1,-1,ms,ms
+HM,Job1021v2,10.txt,157720,160833,318553, ms,ms.
+HM,Job1021v2,11.txt,8059,9392,17451, ms,ms.
+HM,Job1021v2,12.txt,109610,111685,221295, ms,ms.
+HM,Job1021v2,13.txt,-1,-1,-1,ms,ms
+HM,Job1021v2,14.txt,-1,-1,-1,ms,ms
+HM,Job1021v2,15.txt,-1,-1,-1,ms,ms
+HM,Job1021v2,16.txt,-1,-1,-1,ms,ms
+HM,Job1021v2,17.txt,-1,-1,-1,ms,ms
+HM,Job1021v2,18.txt,-1,-1,-1,ms,ms
+HM,Job1021v2,19.txt,-1,-1,-1,ms,ms
+HM,Job285v4,0.txt,-1,-1,-1,ms,ms
+HM,Job285v4,1.txt,-1,-1,-1,ms,ms
+HM,Job285v4,2.txt,17510,17575,35085, ms,ms.
+HM,Job285v4,3.txt,-1,-1,-1,ms,ms
+HM,Job285v4,4.txt,-1,-1,-1,ms,ms
+HM,Job285v4,5.txt,-1,-1,-1,ms,ms
+HM,Job285v4,6.txt,-1,-1,-1,ms,ms
+HM,Job285v4,7.txt,24413,24450,48863, ms,ms.
+HM,Job285v4,8.txt,-1,-1,-1,ms,ms
+HM,Job285v4,9.txt,581188,592364,1173552, ms,ms.
+HM,Job285v4,10.txt,-1,-1,-1,ms,ms
+HM,Job285v4,11.txt,-1,-1,-1,ms,ms
+HM,Job285v4,12.txt,-1,-1,-1,ms,ms
+HM,Job285v4,13.txt,6799,6835,13634, ms,ms.
+HM,Job285v4,14.txt,64029,72873,136902, ms,ms.
+HM,Job285v4,15.txt,-1,-1,-1,ms,ms
+HM,Job285v4,16.txt,328319,336671,664990, ms,ms.
+HM,Job285v4,17.txt,-1,-1,-1,ms,ms
+HM,Job285v4,18.txt,-1,-1,-1,ms,ms
+HM,Job285v4,19.txt,13452,13948,27400, ms,ms.
+HM,Job1034v4,0.txt,-1,-1,-1,ms,ms
+HM,Job1034v4,1.txt,-1,-1,-1,ms,ms
+HM,Job1034v4,2.txt,-1,-1,-1,ms,ms
+HM,Job1034v4,3.txt,-1,-1,-1,ms,ms
+HM,Job1034v4,4.txt,-1,-1,-1,ms,ms
+HM,Job1034v4,5.txt,-1,-1,-1,ms,ms
+HM,Job1034v4,6.txt,-1,-1,-1,ms,ms
+HM,Job1034v4,7.txt,-1,-1,-1,ms,ms
+HM,Job1034v4,8.txt,-1,-1,-1,ms,ms
+HM,Job1034v4,9.txt,-1,-1,-1,ms,ms
+HM,Job1034v4,10.txt,-1,-1,-1,ms,ms
+HM,Job1034v4,11.txt,-1,-1,-1,ms,ms
+HM,Job1034v4,12.txt,-1,-1,-1,ms,ms
+HM,Job1034v4,13.txt,-1,-1,-1,ms,ms
+HM,Job1034v4,14.txt,-1,-1,-1,ms,ms
+HM,Job1034v4,15.txt,-1,-1,-1,ms,ms
+HM,Job1034v4,16.txt,-1,-1,-1,ms,ms
+HM,Job1034v4,17.txt,-1,-1,-1,ms,ms
+HM,Job1034v4,18.txt,-1,-1,-1,ms,ms
+HM,Job1034v4,19.txt,-1,-1,-1,ms,ms
+HM,Job37v4,0.txt,-1,-1,-1,ms,ms
+HM,Job37v4,1.txt,-1,-1,-1,ms,ms
+HM,Job37v4,2.txt,19968,20197,40165, ms,ms.
+HM,Job37v4,3.txt,11675,11722,23397, ms,ms.
+HM,Job37v4,4.txt,5355,5425,10780, ms,ms.
+HM,Job37v4,5.txt,10683,10750,21433, ms,ms.
+HM,Job37v4,6.txt,-1,-1,-1,ms,ms
+HM,Job37v4,7.txt,-1,-1,-1,ms,ms
+HM,Job37v4,8.txt,-1,-1,-1,ms,ms
+HM,Job37v4,9.txt,-1,-1,-1,ms,ms
+HM,Job37v4,10.txt,-1,-1,-1,ms,ms
+HM,Job37v4,11.txt,-1,-1,-1,ms,ms
+HM,Job37v4,12.txt,17669,17886,35555, ms,ms.
+HM,Job37v4,13.txt,8757,8891,17648, ms,ms.
+HM,Job37v4,14.txt,-1,-1,-1,ms,ms
+HM,Job37v4,15.txt,-1,-1,-1,ms,ms
+HM,Job37v4,16.txt,-1,-1,-1,ms,ms
+HM,Job37v4,17.txt,-1,-1,-1,ms,ms
+HM,Job37v4,18.txt,-1,-1,-1,ms,ms
+HM,Job37v4,19.txt,7204,7339,14543, ms,ms.
+HM,Job38v1,0.txt,-1,-1,-1,ms,ms
+HM,Job38v1,1.txt,-1,-1,-1,ms,ms
+HM,Job38v1,2.txt,95298,96133,191431, ms,ms.
+HM,Job38v1,3.txt,46037,46662,92699, ms,ms.
+HM,Job38v1,4.txt,-1,-1,-1,ms,ms
+HM,Job38v1,5.txt,79449,80382,159831, ms,ms.
+HM,Job38v1,6.txt,98979,100173,199152, ms,ms.
+HM,Job38v1,7.txt,41548,41826,83374, ms,ms.
+HM,Job38v1,8.txt,-1,-1,-1,ms,ms
+HM,Job38v1,9.txt,25196,25430,50626, ms,ms.
+HM,Job38v1,10.txt,-1,-1,-1,ms,ms
+HM,Job38v1,11.txt,106214,108762,214976, ms,ms.
+HM,Job38v1,12.txt,-1,-1,-1,ms,ms
+HM,Job38v1,13.txt,-1,-1,-1,ms,ms
+HM,Job38v1,14.txt,62156,62959,125115, ms,ms.
+HM,Job38v1,15.txt,-1,-1,-1,ms,ms
+HM,Job38v1,16.txt,-1,-1,-1,ms,ms
+HM,Job38v1,17.txt,-1,-1,-1,ms,ms
+HM,Job38v1,18.txt,-1,-1,-1,ms,ms
+HM,Job38v1,19.txt,-1,-1,-1,ms,ms
+HM,Job25v4,0.txt,-1,-1,-1,ms,ms
+HM,Job25v4,1.txt,-1,-1,-1,ms,ms
+HM,Job25v4,2.txt,19341,19628,38969, ms,ms.
+HM,Job25v4,3.txt,98453,99275,197728, ms,ms.
+HM,Job25v4,4.txt,-1,-1,-1,ms,ms
+HM,Job25v4,5.txt,184083,225583,409666, ms,ms.
+HM,Job25v4,6.txt,-1,-1,-1,ms,ms
+HM,Job25v4,7.txt,-1,-1,-1,ms,ms
+HM,Job25v4,8.txt,-1,-1,-1,ms,ms
+HM,Job25v4,9.txt,-1,-1,-1,ms,ms
+HM,Job25v4,10.txt,-1,-1,-1,ms,ms
+HM,Job25v4,11.txt,304535,310074,614609, ms,ms.
+HM,Job25v4,12.txt,72087,72873,144960, ms,ms.
+HM,Job25v4,13.txt,357455,451724,809179, ms,ms.
+HM,Job25v4,14.txt,258071,259136,517207, ms,ms.
+HM,Job25v4,15.txt,-1,-1,-1,ms,ms
+HM,Job25v4,16.txt,96276,96970,193246, ms,ms.
+HM,Job25v4,17.txt,-1,-1,-1,ms,ms
+HM,Job25v4,18.txt,-1,-1,-1,ms,ms
+HM,Job25v4,19.txt,308504,309210,617714, ms,ms.
+HM,Job1013v3,0.txt,-1,-1,-1,ms,ms
+HM,Job1013v3,1.txt,11781,11798,23579, ms,ms.
+HM,Job1013v3,2.txt,3527,3531,7058, ms,ms.
+HM,Job1013v3,3.txt,13421,13451,26872, ms,ms.
+HM,Job1013v3,4.txt,-1,-1,-1,ms,ms
+HM,Job1013v3,5.txt,-1,-1,-1,ms,ms
+HM,Job1013v3,6.txt,-1,-1,-1,ms,ms
+HM,Job1013v3,7.txt,-1,-1,-1,ms,ms
+HM,Job1013v3,8.txt,-1,-1,-1,ms,ms
+HM,Job1013v3,9.txt,9439,9451,18890, ms,ms.
+HM,Job1013v3,10.txt,-1,-1,-1,ms,ms
+HM,Job1013v3,11.txt,-1,-1,-1,ms,ms
+HM,Job1013v3,12.txt,-1,-1,-1,ms,ms
+HM,Job1013v3,13.txt,13490,13514,27004, ms,ms.
+HM,Job1013v3,14.txt,6991,7012,14003, ms,ms.
+HM,Job1013v3,15.txt,-1,-1,-1,ms,ms
+HM,Job1013v3,16.txt,-1,-1,-1,ms,ms
+HM,Job1013v3,17.txt,-1,-1,-1,ms,ms
+HM,Job1013v3,18.txt,4234,4268,8502, ms,ms.
+HM,Job1013v3,19.txt,-1,-1,-1,ms,ms
+HM,Job46v3,0.txt,33183,33213,66396, ms,ms.
+HM,Job46v3,1.txt,1822,1864,3686, ms,ms.
+HM,Job46v3,2.txt,-1,-1,-1,ms,ms
+HM,Job46v3,3.txt,11601,11611,23212, ms,ms.
+HM,Job46v3,4.txt,1209,1209,2418, ms,ms.
+HM,Job46v3,5.txt,24379,24395,48774, ms,ms.
+HM,Job46v3,6.txt,14636,14644,29280, ms,ms.
+HM,Job46v3,7.txt,10895,10903,21798, ms,ms.
+HM,Job46v3,8.txt,22258,22271,44529, ms,ms.
+HM,Job46v3,9.txt,23596,23607,47203, ms,ms.
+HM,Job46v3,10.txt,12637,12646,25283, ms,ms.
+HM,Job46v3,11.txt,-1,-1,-1,ms,ms
+HM,Job68v1,0.txt,43530,43567,87097, ms,ms.
+HM,Job68v1,1.txt,95736,100158,195894, ms,ms.
+HM,Job68v1,2.txt,85301,85346,170647, ms,ms.
+HM,Job68v1,3.txt,67307,67352,134659, ms,ms.
+HM,Job68v1,4.txt,3221,3487,6708, ms,ms.
+HM,Job68v1,5.txt,140075,140166,280241, ms,ms.
+HM,Job68v1,6.txt,33105,33147,66252, ms,ms.
+HM,Job68v1,7.txt,26090,26113,52203, ms,ms.
+HM,Job68v1,8.txt,33390,33418,66808, ms,ms.
+HM,Job68v1,9.txt,49721,49781,99502, ms,ms.
+HM,Job68v1,10.txt,16411,16433,32844, ms,ms.
+HM,Job68v1,11.txt,107767,110457,218224, ms,ms.
+HM,Job68v1,12.txt,47657,48573,96230, ms,ms.
+HM,Job68v1,13.txt,36055,36286,72341, ms,ms.
+HM,Job68v1,14.txt,5719,5724,11443, ms,ms.
+HM,Job68v1,15.txt,52869,52898,105767, ms,ms.
+HM,Job68v1,16.txt,91742,91817,183559, ms,ms.
+HM,Job68v1,17.txt,-1,-1,-1,ms,ms
+HM,Job68v1,18.txt,38249,38267,76516, ms,ms.
+HM,Job68v1,19.txt,47035,47092,94127, ms,ms.
+HM,Job1021v0,0.txt,-1,-1,-1,ms,ms
+HM,Job1021v0,1.txt,-1,-1,-1,ms,ms
+HM,Job1021v0,2.txt,-1,-1,-1,ms,ms
+HM,Job1021v0,3.txt,-1,-1,-1,ms,ms
+HM,Job1021v0,4.txt,-1,-1,-1,ms,ms
+HM,Job1021v0,5.txt,-1,-1,-1,ms,ms
+HM,Job1021v0,6.txt,-1,-1,-1,ms,ms
+HM,Job1021v0,7.txt,-1,-1,-1,ms,ms
+HM,Job1021v0,8.txt,24986,25068,50054, ms,ms.
+HM,Job1021v0,9.txt,54185,54278,108463, ms,ms.
+HM,Job1021v0,10.txt,6543,6626,13169, ms,ms.
+HM,Job1021v0,11.txt,-1,-1,-1,ms,ms
+HM,Job1021v0,12.txt,57719,57825,115544, ms,ms.
+HM,Job1021v0,13.txt,-1,-1,-1,ms,ms
+HM,Job1021v0,14.txt,-1,-1,-1,ms,ms
+HM,Job1021v0,15.txt,12541,12619,25160, ms,ms.
+HM,Job1021v0,16.txt,-1,-1,-1,ms,ms
+HM,Job1021v0,17.txt,-1,-1,-1,ms,ms
+HM,Job1021v0,18.txt,52265,52382,104647, ms,ms.
+HM,Job1021v0,19.txt,-1,-1,-1,ms,ms
+HM,Job76v3,0.txt,59422,61559,120981, ms,ms.
+HM,Job76v3,1.txt,109641,117308,226949, ms,ms.
+HM,Job76v3,2.txt,-1,-1,-1,ms,ms
+HM,Job76v3,3.txt,-1,-1,-1,ms,ms
+HM,Job76v3,4.txt,138439,140606,279045, ms,ms.
+HM,Job76v3,5.txt,146807,168995,315802, ms,ms.
+HM,Job76v3,6.txt,173617,176246,349863, ms,ms.
+HM,Job76v3,7.txt,-1,-1,-1,ms,ms
+HM,Job76v3,8.txt,58969,61313,120282, ms,ms.
+HM,Job76v3,9.txt,138398,140453,278851, ms,ms.
+HM,Job76v3,10.txt,-1,-1,-1,ms,ms
+HM,Job76v3,11.txt,57324,61283,118607, ms,ms.
+HM,Job76v3,12.txt,-1,-1,-1,ms,ms
+HM,Job76v3,13.txt,-1,-1,-1,ms,ms
+HM,Job76v3,14.txt,111981,114503,226484, ms,ms.
+HM,Job76v3,15.txt,109937,112150,222087, ms,ms.
+HM,Job76v3,16.txt,-1,-1,-1,ms,ms
+HM,Job76v3,17.txt,-1,-1,-1,ms,ms
+HM,Job76v3,18.txt,-1,-1,-1,ms,ms
+HM,Job76v3,19.txt,30717,32921,63638, ms,ms.
+HM,Job2v2,0.txt,-1,-1,-1,ms,ms
+HM,Job2v2,1.txt,-1,-1,-1,ms,ms
+HM,Job2v2,2.txt,-1,-1,-1,ms,ms
+HM,Job2v2,3.txt,287090,293832,580922, ms,ms.
+HM,Job2v2,4.txt,-1,-1,-1,ms,ms
+HM,Job2v2,5.txt,-1,-1,-1,ms,ms
+HM,Job2v2,6.txt,-1,-1,-1,ms,ms
+HM,Job2v2,7.txt,-1,-1,-1,ms,ms
+HM,Job2v2,8.txt,-1,-1,-1,ms,ms
+HM,Job2v2,9.txt,-1,-1,-1,ms,ms
+HM,Job2v2,10.txt,-1,-1,-1,ms,ms
+HM,Job2v2,11.txt,-1,-1,-1,ms,ms
+HM,Job2v2,12.txt,-1,-1,-1,ms,ms
+HM,Job2v2,13.txt,-1,-1,-1,ms,ms
+HM,Job2v2,14.txt,-1,-1,-1,ms,ms
+HM,Job2v2,15.txt,-1,-1,-1,ms,ms
+HM,Job2v2,16.txt,-1,-1,-1,ms,ms
+HM,Job2v2,17.txt,-1,-1,-1,ms,ms
+HM,Job2v2,18.txt,-1,-1,-1,ms,ms
+HM,Job2v2,19.txt,-1,-1,-1,ms,ms
+HM,Job59v4,0.txt,22306,22317,44623, ms,ms.
+HM,Job59v4,1.txt,1288,1290,2578, ms,ms.
+HM,Job59v4,2.txt,1191,1192,2383, ms,ms.
+HM,Job59v4,3.txt,3184,3186,6370, ms,ms.
+HM,Job59v4,4.txt,1661,1660,3321, ms,ms.
+HM,Job59v4,5.txt,192,195,387, ms,ms.
+HM,Job59v4,6.txt,2702,2704,5406, ms,ms.
+HM,Job59v4,7.txt,2764,2765,5529, ms,ms.
+HM,Job59v4,8.txt,41374,41401,82775, ms,ms.
+HM,Job59v4,9.txt,3494,3496,6990, ms,ms.
+HM,Job59v4,10.txt,1014,1014,2028, ms,ms.
+HM,Job59v4,11.txt,9865,9870,19735, ms,ms.
+HM,Job59v4,12.txt,-1,-1,-1,ms,ms
+HM,Job59v4,13.txt,1588,1590,3178, ms,ms.
+HM,Job59v4,14.txt,-1,-1,-1,ms,ms
+HM,Job59v4,15.txt,2020,2024,4044, ms,ms.
+HM,Job59v4,16.txt,21102,21113,42215, ms,ms.
+HM,Job59v4,17.txt,1022,1025,2047, ms,ms.
+HM,Job59v4,18.txt,1779,1781,3560, ms,ms.
+HM,Job59v4,19.txt,-1,-1,-1,ms,ms
+HM,Job1252v0,0.txt,105732,111104,216836, ms,ms.
+HM,Job1252v0,1.txt,-1,-1,-1,ms,ms
+HM,Job1252v0,2.txt,-1,-1,-1,ms,ms
+HM,Job1252v0,3.txt,-1,-1,-1,ms,ms
+HM,Job1252v0,4.txt,-1,-1,-1,ms,ms
+HM,Job1252v0,5.txt,-1,-1,-1,ms,ms
+HM,Job1252v0,6.txt,-1,-1,-1,ms,ms
+HM,Job1252v0,7.txt,-1,-1,-1,ms,ms
+HM,Job1252v0,8.txt,-1,-1,-1,ms,ms
+HM,Job1252v0,9.txt,-1,-1,-1,ms,ms
+HM,Job1252v0,10.txt,-1,-1,-1,ms,ms
+HM,Job1252v0,11.txt,-1,-1,-1,ms,ms
+HM,Job1252v0,12.txt,21770,22126,43896, ms,ms.
+HM,Job1252v0,13.txt,-1,-1,-1,ms,ms
+HM,Job1252v0,14.txt,10292,10455,20747, ms,ms.
+HM,Job1252v0,15.txt,-1,-1,-1,ms,ms
+HM,Job1252v0,16.txt,22939,23338,46277, ms,ms.
+HM,Job1252v0,17.txt,-1,-1,-1,ms,ms
+HM,Job1252v0,18.txt,-1,-1,-1,ms,ms
+HM,Job1252v0,19.txt,42709,45058,87767, ms,ms.
+HM,Job1171v1,0.txt,68381,68435,136816, ms,ms.
+HM,Job1171v1,1.txt,-1,-1,-1,ms,ms
+HM,Job1171v1,2.txt,20865,21096,41961, ms,ms.
+HM,Job1171v1,3.txt,-1,-1,-1,ms,ms
+HM,Job1171v1,4.txt,-1,-1,-1,ms,ms
+HM,Job1171v1,5.txt,-1,-1,-1,ms,ms
+HM,Job1171v1,6.txt,-1,-1,-1,ms,ms
+HM,Job1171v1,7.txt,57343,57980,115323, ms,ms.
+HM,Job1171v1,8.txt,-1,-1,-1,ms,ms
+HM,Job1171v1,9.txt,-1,-1,-1,ms,ms
+HM,Job1171v1,10.txt,-1,-1,-1,ms,ms
+HM,Job1171v1,11.txt,78523,82319,160842, ms,ms.
+HM,Job1171v1,12.txt,38504,40888,79392, ms,ms.
+HM,Job1171v1,13.txt,-1,-1,-1,ms,ms
+HM,Job1171v1,14.txt,22854,22899,45753, ms,ms.
+HM,Job1171v1,15.txt,-1,-1,-1,ms,ms
+HM,Job1171v1,16.txt,-1,-1,-1,ms,ms
+HM,Job1171v1,17.txt,104304,106946,211250, ms,ms.
+HM,Job1171v1,18.txt,507731,508194,1015925, ms,ms.
+HM,Job1171v1,19.txt,-1,-1,-1,ms,ms
+HM,Job1000v1,0.txt,594,594,1188, ms,ms.
+HM,Job1000v1,1.txt,-1,-1,-1,ms,ms
+HM,Job1000v1,2.txt,5778,5782,11560, ms,ms.
+HM,Job1000v1,3.txt,-1,-1,-1,ms,ms
+HM,Job1000v1,4.txt,1380,1380,2760, ms,ms.
+HM,Job1000v1,5.txt,10632,10647,21279, ms,ms.
+HM,Job1000v1,6.txt,-1,-1,-1,ms,ms
+HM,Job1000v1,7.txt,63156,63231,126387, ms,ms.
+HM,Job1000v1,8.txt,-1,-1,-1,ms,ms
+HM,Job1000v1,9.txt,5632,5647,11279, ms,ms.
+HM,Job1000v1,10.txt,5477,5479,10956, ms,ms.
+HM,Job1000v1,11.txt,587,589,1176, ms,ms.
+HM,Job1000v1,12.txt,81480,90291,171771, ms,ms.
+HM,Job1000v1,13.txt,78523,99864,178387, ms,ms.
+HM,Job1000v1,14.txt,47656,47728,95384, ms,ms.
+HM,Job1000v1,15.txt,652,652,1304, ms,ms.
+HM,Job1000v1,16.txt,61456,62257,123713, ms,ms.
+HM,Job1000v1,17.txt,52908,52953,105861, ms,ms.
+HM,Job1000v1,18.txt,72699,91596,164295, ms,ms.
+HM,Job1000v1,19.txt,19661,19669,39330, ms,ms.
+HM,Job46v2,0.txt,824,826,1650, ms,ms.
+HM,Job46v2,1.txt,222,225,447, ms,ms.
+HM,Job46v2,2.txt,581,590,1171, ms,ms.
+HM,Job46v2,3.txt,2301,2327,4628, ms,ms.
+HM,Job46v2,4.txt,279,293,572, ms,ms.
+HM,Job46v2,5.txt,2487,2494,4981, ms,ms.
+HM,Job46v2,6.txt,2826,2862,5688, ms,ms.
+HM,Job46v2,7.txt,1042,1053,2095, ms,ms.
+HM,Job46v2,8.txt,467,473,940, ms,ms.
+HM,Job46v2,9.txt,536,552,1088, ms,ms.
+HM,Job46v2,10.txt,1976,1984,3960, ms,ms.
+HM,Job46v2,11.txt,785,799,1584, ms,ms.
+HM,Job19v1,0.txt,76045,77553,153598, ms,ms.
+HM,Job19v1,1.txt,12709,13756,26465, ms,ms.
+HM,Job19v1,2.txt,40245,41019,81264, ms,ms.
+HM,Job19v1,3.txt,58856,59630,118486, ms,ms.
+HM,Job19v1,4.txt,41989,43854,85843, ms,ms.
+HM,Job19v1,5.txt,-1,-1,-1,ms,ms
+HM,Job19v1,6.txt,100581,104509,205090, ms,ms.
+HM,Job19v1,7.txt,-1,-1,-1,ms,ms
+HM,Job19v1,8.txt,58890,60351,119241, ms,ms.
+HM,Job19v1,9.txt,15101,16404,31505, ms,ms.
+HM,Job19v1,10.txt,18537,19699,38236, ms,ms.
+HM,Job19v1,11.txt,-1,-1,-1,ms,ms
+HM,Job19v1,12.txt,63217,65135,128352, ms,ms.
+HM,Job19v1,13.txt,72301,81878,154179, ms,ms.
+HM,Job19v1,14.txt,29415,30660,60075, ms,ms.
+HM,Job19v1,15.txt,53434,54742,108176, ms,ms.
+HM,Job19v1,16.txt,40462,41737,82199, ms,ms.
+HM,Job19v1,17.txt,41643,43924,85567, ms,ms.
+HM,Job19v1,18.txt,41384,42391,83775, ms,ms.
+HM,Job19v1,19.txt,40339,41499,81838, ms,ms.
+HM,Job85v3,0.txt,-1,-1,-1,ms,ms
+HM,Job85v3,1.txt,-1,-1,-1,ms,ms
+HM,Job85v3,2.txt,2381,2412,4793, ms,ms.
+HM,Job85v3,3.txt,-1,-1,-1,ms,ms
+HM,Job85v3,4.txt,1535,1692,3227, ms,ms.
+HM,Job85v3,5.txt,10935,11147,22082, ms,ms.
+HM,Job85v3,6.txt,6588,6667,13255, ms,ms.
+HM,Job85v3,7.txt,-1,-1,-1,ms,ms
+HM,Job85v3,8.txt,5113,5126,10239, ms,ms.
+HM,Job85v3,9.txt,-1,-1,-1,ms,ms
+HM,Job85v3,10.txt,10321,10391,20712, ms,ms.
+HM,Job85v3,11.txt,17825,18370,36195, ms,ms.
+HM,Job85v3,12.txt,9948,10110,20058, ms,ms.
+HM,Job85v3,13.txt,14460,14667,29127, ms,ms.
+HM,Job85v3,14.txt,7200,7224,14424, ms,ms.
+HM,Job85v3,15.txt,-1,-1,-1,ms,ms
+HM,Job85v3,16.txt,-1,-1,-1,ms,ms
+HM,Job85v3,17.txt,14259,14373,28632, ms,ms.
+HM,Job85v3,18.txt,18328,18593,36921, ms,ms.
+HM,Job85v3,19.txt,-1,-1,-1,ms,ms
+HM,Job58v4,0.txt,61029,65372,126401, ms,ms.
+HM,Job58v4,1.txt,-1,-1,-1,ms,ms
+HM,Job58v4,2.txt,68171,73459,141630, ms,ms.
+HM,Job58v4,3.txt,60788,65321,126109, ms,ms.
+HM,Job58v4,4.txt,71227,75906,147133, ms,ms.
+HM,Job58v4,5.txt,-1,-1,-1,ms,ms
+HM,Job58v4,6.txt,-1,-1,-1,ms,ms
+HM,Job58v4,7.txt,-1,-1,-1,ms,ms
+HM,Job58v4,8.txt,-1,-1,-1,ms,ms
+HM,Job58v4,9.txt,-1,-1,-1,ms,ms
+HM,Job58v4,10.txt,-1,-1,-1,ms,ms
+HM,Job58v4,11.txt,-1,-1,-1,ms,ms
+HM,Job58v4,12.txt,92119,96292,188411, ms,ms.
+HM,Job58v4,13.txt,87650,91665,179315, ms,ms.
+HM,Job58v4,14.txt,-1,-1,-1,ms,ms
+HM,Job58v4,15.txt,-1,-1,-1,ms,ms
+HM,Job58v4,16.txt,-1,-1,-1,ms,ms
+HM,Job58v4,17.txt,83379,87752,171131, ms,ms.
+HM,Job58v4,18.txt,-1,-1,-1,ms,ms
+HM,Job58v4,19.txt,-1,-1,-1,ms,ms
+HM,Job78v4,0.txt,384,399,783, ms,ms.
+HM,Job78v4,1.txt,441,445,886, ms,ms.
+HM,Job78v4,2.txt,-1,-1,-1,ms,ms
+HM,Job78v4,3.txt,431,443,874, ms,ms.
+HM,Job78v4,4.txt,196,206,402, ms,ms.
+HM,Job78v4,5.txt,795,838,1633, ms,ms.
+HM,Job78v4,6.txt,-1,-1,-1,ms,ms
+HM,Job78v4,7.txt,996,1005,2001, ms,ms.
+HM,Job78v4,8.txt,331,338,669, ms,ms.
+HM,Job78v4,9.txt,1096,1103,2199, ms,ms.
+HM,Job78v4,10.txt,-1,-1,-1,ms,ms
+HM,Job78v4,11.txt,-1,-1,-1,ms,ms
+HM,Job78v4,12.txt,450067,450501,900568, ms,ms.
+HM,Job78v4,13.txt,3556,3566,7122, ms,ms.
+HM,Job78v4,14.txt,3514,3524,7038, ms,ms.
+HM,Job78v4,15.txt,3510,3519,7029, ms,ms.
+HM,Job78v4,16.txt,449097,449514,898611, ms,ms.
+HM,Job78v4,17.txt,284,293,577, ms,ms.
+HM,Job78v4,18.txt,-1,-1,-1,ms,ms
+HM,Job78v4,19.txt,906,912,1818, ms,ms.
+HM,Job1025v0,0.txt,-1,-1,-1,ms,ms
+HM,Job1025v0,1.txt,-1,-1,-1,ms,ms
+HM,Job1025v0,2.txt,-1,-1,-1,ms,ms
+HM,Job1025v0,3.txt,-1,-1,-1,ms,ms
+HM,Job1025v0,4.txt,-1,-1,-1,ms,ms
+HM,Job1025v0,5.txt,-1,-1,-1,ms,ms
+HM,Job1025v0,6.txt,2161,2400,4561, ms,ms.
+HM,Job1025v0,7.txt,-1,-1,-1,ms,ms
+HM,Job1025v0,8.txt,-1,-1,-1,ms,ms
+HM,Job1025v0,9.txt,-1,-1,-1,ms,ms
+HM,Job1025v0,10.txt,-1,-1,-1,ms,ms
+HM,Job1025v0,11.txt,-1,-1,-1,ms,ms
+HM,Job1025v0,12.txt,-1,-1,-1,ms,ms
+HM,Job1025v0,13.txt,-1,-1,-1,ms,ms
+HM,Job1025v0,14.txt,23145,23582,46727, ms,ms.
+HM,Job1025v0,15.txt,8989,9091,18080, ms,ms.
+HM,Job1025v0,16.txt,-1,-1,-1,ms,ms
+HM,Job1025v0,17.txt,46343,48065,94408, ms,ms.
+HM,Job1025v0,18.txt,-1,-1,-1,ms,ms
+HM,Job1025v0,19.txt,-1,-1,-1,ms,ms
+HM,Job1157v2,0.txt,-2,-2,-2,ms,ms
+HM,Job1157v2,1.txt,-2,-2,-2,ms,ms
+HM,Job1157v2,2.txt,-2,-2,-2,ms,ms
+HM,Job1157v2,3.txt,-2,-2,-2,ms,ms
+HM,Job1157v2,4.txt,-2,-2,-2,ms,ms
+HM,Job1157v2,5.txt,-2,-2,-2,ms,ms
+HM,Job1157v2,6.txt,-2,-2,-2,ms,ms
+HM,Job1157v2,7.txt,-2,-2,-2,ms,ms
+HM,Job1157v2,8.txt,-2,-2,-2,ms,ms
+HM,Job1157v2,9.txt,-2,-2,-2,ms,ms
+HM,Job1157v2,10.txt,-2,-2,-2,ms,ms
+HM,Job1157v2,11.txt,-2,-2,-2,ms,ms
+HM,Job1157v2,12.txt,-2,-2,-2,ms,ms
+HM,Job1157v2,13.txt,-2,-2,-2,ms,ms
+HM,Job1157v2,14.txt,-2,-2,-2,ms,ms
+HM,Job1157v2,15.txt,-2,-2,-2,ms,ms
+HM,Job1157v2,16.txt,-2,-2,-2,ms,ms
+HM,Job1157v2,17.txt,-2,-2,-2,ms,ms
+HM,Job1157v2,18.txt,-2,-2,-2,ms,ms
+HM,Job1157v2,19.txt,-2,-2,-2,ms,ms
+HM,Job48v1,0.txt,-1,-1,-1,ms,ms
+HM,Job48v1,1.txt,-1,-1,-1,ms,ms
+HM,Job48v1,2.txt,95664,96513,192177, ms,ms.
+HM,Job48v1,3.txt,113914,114095,228009, ms,ms.
+HM,Job48v1,4.txt,75192,76354,151546, ms,ms.
+HM,Job48v1,5.txt,51731,51940,103671, ms,ms.
+HM,Job48v1,6.txt,-1,-1,-1,ms,ms
+HM,Job48v1,7.txt,-1,-1,-1,ms,ms
+HM,Job48v1,8.txt,156417,157888,314305, ms,ms.
+HM,Job48v1,9.txt,52514,52653,105167, ms,ms.
+HM,Job48v1,10.txt,7724,7844,15568, ms,ms.
+HM,Job48v1,11.txt,55139,55356,110495, ms,ms.
+HM,Job48v1,12.txt,415817,416248,832065, ms,ms.
+HM,Job48v1,13.txt,51873,52037,103910, ms,ms.
+HM,Job48v1,14.txt,77311,77472,154783, ms,ms.
+HM,Job48v1,15.txt,96844,98629,195473, ms,ms.
+HM,Job48v1,16.txt,6310,6432,12742, ms,ms.
+HM,Job48v1,17.txt,-1,-1,-1,ms,ms
+HM,Job48v1,18.txt,373108,373464,746572, ms,ms.
+HM,Job48v1,19.txt,-1,-1,-1,ms,ms
+HM,Job181v2,0.txt,-1,-1,-1,ms,ms
+HM,Job181v2,1.txt,4698,4760,9458, ms,ms.
+HM,Job181v2,2.txt,6642,6794,13436, ms,ms.
+HM,Job181v2,3.txt,-1,-1,-1,ms,ms
+HM,Job181v2,4.txt,-1,-1,-1,ms,ms
+HM,Job181v2,5.txt,6450,6598,13048, ms,ms.
+HM,Job181v2,6.txt,-1,-1,-1,ms,ms
+HM,Job181v2,7.txt,-1,-1,-1,ms,ms
+HM,Job181v2,8.txt,-1,-1,-1,ms,ms
+HM,Job181v2,9.txt,24548,25022,49570, ms,ms.
+HM,Job181v2,10.txt,15853,16110,31963, ms,ms.
+HM,Job181v2,11.txt,-1,-1,-1,ms,ms
+HM,Job181v2,12.txt,-1,-1,-1,ms,ms
+HM,Job181v2,13.txt,10871,11098,21969, ms,ms.
+HM,Job181v2,14.txt,-1,-1,-1,ms,ms
+HM,Job181v2,15.txt,-1,-1,-1,ms,ms
+HM,Job181v2,16.txt,-1,-1,-1,ms,ms
+HM,Job181v2,17.txt,6656,6861,13517, ms,ms.
+HM,Job181v2,18.txt,-1,-1,-1,ms,ms
+HM,Job181v2,19.txt,-1,-1,-1,ms,ms
+HM,Job58v2,0.txt,-1,-1,-1,ms,ms
+HM,Job58v2,1.txt,-1,-1,-1,ms,ms
+HM,Job58v2,2.txt,-1,-1,-1,ms,ms
+HM,Job58v2,3.txt,67471,71801,139272, ms,ms.
+HM,Job58v2,4.txt,-1,-1,-1,ms,ms
+HM,Job58v2,5.txt,51055,53749,104804, ms,ms.
+HM,Job58v2,6.txt,31516,35645,67161, ms,ms.
+HM,Job58v2,7.txt,66902,71379,138281, ms,ms.
+HM,Job58v2,8.txt,54073,56815,110888, ms,ms.
+HM,Job58v2,9.txt,51765,55678,107443, ms,ms.
+HM,Job58v2,10.txt,23488,26874,50362, ms,ms.
+HM,Job58v2,11.txt,-1,-1,-1,ms,ms
+HM,Job58v2,12.txt,44441,49597,94038, ms,ms.
+HM,Job58v2,13.txt,43771,47362,91133, ms,ms.
+HM,Job58v2,14.txt,51039,53595,104634, ms,ms.
+HM,Job58v2,15.txt,-1,-1,-1,ms,ms
+HM,Job58v2,16.txt,-1,-1,-1,ms,ms
+HM,Job58v2,17.txt,-1,-1,-1,ms,ms
+HM,Job58v2,18.txt,-1,-1,-1,ms,ms
+HM,Job58v2,19.txt,-1,-1,-1,ms,ms
+HM,Job1021v4,0.txt,-1,-1,-1,ms,ms
+HM,Job1021v4,1.txt,6161,6350,12511, ms,ms.
+HM,Job1021v4,2.txt,-1,-1,-1,ms,ms
+HM,Job1021v4,3.txt,-1,-1,-1,ms,ms
+HM,Job1021v4,4.txt,-1,-1,-1,ms,ms
+HM,Job1021v4,5.txt,-1,-1,-1,ms,ms
+HM,Job1021v4,6.txt,-1,-1,-1,ms,ms
+HM,Job1021v4,7.txt,-1,-1,-1,ms,ms
+HM,Job1021v4,8.txt,3737,3775,7512, ms,ms.
+HM,Job1021v4,9.txt,-1,-1,-1,ms,ms
+HM,Job1021v4,10.txt,91425,98359,189784, ms,ms.
+HM,Job1021v4,11.txt,-1,-1,-1,ms,ms
+HM,Job1021v4,12.txt,92120,99004,191124, ms,ms.
+HM,Job1021v4,13.txt,-1,-1,-1,ms,ms
+HM,Job1021v4,14.txt,-1,-1,-1,ms,ms
+HM,Job1021v4,15.txt,-1,-1,-1,ms,ms
+HM,Job1021v4,16.txt,-1,-1,-1,ms,ms
+HM,Job1021v4,17.txt,-1,-1,-1,ms,ms
+HM,Job1021v4,18.txt,-1,-1,-1,ms,ms
+HM,Job1021v4,19.txt,-1,-1,-1,ms,ms
+HM,Job161v0,0.txt,-1,-1,-1,ms,ms
+HM,Job161v0,1.txt,-1,-1,-1,ms,ms
+HM,Job161v0,2.txt,-1,-1,-1,ms,ms
+HM,Job161v0,3.txt,-1,-1,-1,ms,ms
+HM,Job161v0,4.txt,-1,-1,-1,ms,ms
+HM,Job161v0,5.txt,-1,-1,-1,ms,ms
+HM,Job161v0,6.txt,-1,-1,-1,ms,ms
+HM,Job161v0,7.txt,130165,130822,260987, ms,ms.
+HM,Job161v0,8.txt,-1,-1,-1,ms,ms
+HM,Job161v0,9.txt,-1,-1,-1,ms,ms
+HM,Job161v0,10.txt,-1,-1,-1,ms,ms
+HM,Job161v0,11.txt,-1,-1,-1,ms,ms
+HM,Job161v0,12.txt,160275,160720,320995, ms,ms.
+HM,Job161v0,13.txt,-1,-1,-1,ms,ms
+HM,Job161v0,14.txt,428152,430436,858588, ms,ms.
+HM,Job161v0,15.txt,-1,-1,-1,ms,ms
+HM,Job161v0,16.txt,-1,-1,-1,ms,ms
+HM,Job161v0,17.txt,-1,-1,-1,ms,ms
+HM,Job161v0,18.txt,-1,-1,-1,ms,ms
+HM,Job161v0,19.txt,-1,-1,-1,ms,ms
+HM,Job1255v0,0.txt,-2,-2,-2,ms,ms
+HM,Job1255v0,1.txt,-2,-2,-2,ms,ms
+HM,Job1255v0,2.txt,-2,-2,-2,ms,ms
+HM,Job1255v0,3.txt,-2,-2,-2,ms,ms
+HM,Job1255v0,4.txt,-2,-2,-2,ms,ms
+HM,Job1255v0,5.txt,-2,-2,-2,ms,ms
+HM,Job1255v0,6.txt,-2,-2,-2,ms,ms
+HM,Job1255v0,7.txt,-2,-2,-2,ms,ms
+HM,Job1255v0,8.txt,-2,-2,-2,ms,ms
+HM,Job1255v0,9.txt,-2,-2,-2,ms,ms
+HM,Job1255v0,10.txt,-2,-2,-2,ms,ms
+HM,Job1255v0,11.txt,-2,-2,-2,ms,ms
+HM,Job1255v0,12.txt,-2,-2,-2,ms,ms
+HM,Job1255v0,13.txt,-2,-2,-2,ms,ms
+HM,Job1255v0,14.txt,-2,-2,-2,ms,ms
+HM,Job1255v0,15.txt,-2,-2,-2,ms,ms
+HM,Job1255v0,16.txt,-2,-2,-2,ms,ms
+HM,Job1255v0,17.txt,-2,-2,-2,ms,ms
+HM,Job1255v0,18.txt,-2,-2,-2,ms,ms
+HM,Job1255v0,19.txt,-2,-2,-2,ms,ms
+HM,Job1251v1,0.txt,-1,-1,-1,ms,ms
+HM,Job1251v1,1.txt,-1,-1,-1,ms,ms
+HM,Job1251v1,2.txt,-1,-1,-1,ms,ms
+HM,Job1251v1,3.txt,-1,-1,-1,ms,ms
+HM,Job1251v1,4.txt,11814,11878,23692, ms,ms.
+HM,Job1251v1,5.txt,-1,-1,-1,ms,ms
+HM,Job1251v1,6.txt,-1,-1,-1,ms,ms
+HM,Job1251v1,7.txt,-1,-1,-1,ms,ms
+HM,Job1251v1,8.txt,-1,-1,-1,ms,ms
+HM,Job1251v1,9.txt,-1,-1,-1,ms,ms
+HM,Job1251v1,10.txt,-1,-1,-1,ms,ms
+HM,Job1251v1,11.txt,-1,-1,-1,ms,ms
+HM,Job1251v1,12.txt,-1,-1,-1,ms,ms
+HM,Job1251v1,13.txt,-1,-1,-1,ms,ms
+HM,Job1251v1,14.txt,-1,-1,-1,ms,ms
+HM,Job1251v1,15.txt,-1,-1,-1,ms,ms
+HM,Job1251v1,16.txt,15793,15840,31633, ms,ms.
+HM,Job1251v1,17.txt,88356,88507,176863, ms,ms.
+HM,Job1251v1,18.txt,-1,-1,-1,ms,ms
+HM,Job1251v1,19.txt,-1,-1,-1,ms,ms
+HM,Job1013v4,0.txt,64103,64395,128498, ms,ms.
+HM,Job1013v4,1.txt,-1,-1,-1,ms,ms
+HM,Job1013v4,2.txt,-1,-1,-1,ms,ms
+HM,Job1013v4,3.txt,12285,12711,24996, ms,ms.
+HM,Job1013v4,4.txt,37666,37745,75411, ms,ms.
+HM,Job1013v4,5.txt,409151,409463,818614, ms,ms.
+HM,Job1013v4,6.txt,-1,-1,-1,ms,ms
+HM,Job1013v4,7.txt,18558,18601,37159, ms,ms.
+HM,Job1013v4,8.txt,-1,-1,-1,ms,ms
+HM,Job1013v4,9.txt,34884,34949,69833, ms,ms.
+HM,Job1013v4,10.txt,-1,-1,-1,ms,ms
+HM,Job1013v4,11.txt,17453,17488,34941, ms,ms.
+HM,Job1013v4,12.txt,13121,13249,26370, ms,ms.
+HM,Job1013v4,13.txt,-1,-1,-1,ms,ms
+HM,Job1013v4,14.txt,-1,-1,-1,ms,ms
+HM,Job1013v4,15.txt,-1,-1,-1,ms,ms
+HM,Job1013v4,16.txt,33389,33431,66820, ms,ms.
+HM,Job1013v4,17.txt,16837,16886,33723, ms,ms.
+HM,Job1013v4,18.txt,-1,-1,-1,ms,ms
+HM,Job1013v4,19.txt,8223,8254,16477, ms,ms.
+HM,Job19v2,0.txt,-1,-1,-1,ms,ms
+HM,Job19v2,1.txt,-1,-1,-1,ms,ms
+HM,Job19v2,2.txt,-1,-1,-1,ms,ms
+HM,Job19v2,3.txt,7993,7999,15992, ms,ms.
+HM,Job19v2,4.txt,4561,4566,9127, ms,ms.
+HM,Job19v2,5.txt,4337,4338,8675, ms,ms.
+HM,Job19v2,6.txt,2106,2105,4211, ms,ms.
+HM,Job19v2,7.txt,7442,7446,14888, ms,ms.
+HM,Job19v2,8.txt,-1,-1,-1,ms,ms
+HM,Job19v2,9.txt,-1,-1,-1,ms,ms
+HM,Job19v2,10.txt,2133,2134,4267, ms,ms.
+HM,Job19v2,11.txt,3378,3379,6757, ms,ms.
+HM,Job19v2,12.txt,3361,3368,6729, ms,ms.
+HM,Job19v2,13.txt,2126,2126,4252, ms,ms.
+HM,Job19v2,14.txt,2346,2346,4692, ms,ms.
+HM,Job19v2,15.txt,3806,3807,7613, ms,ms.
+HM,Job19v2,16.txt,-1,-1,-1,ms,ms
+HM,Job19v2,17.txt,2107,2106,4213, ms,ms.
+HM,Job19v2,18.txt,2274,2276,4550, ms,ms.
+HM,Job19v2,19.txt,7938,7939,15877, ms,ms.
+HM,Job46v0,0.txt,557,595,1152, ms,ms.
+HM,Job46v0,1.txt,-1,-1,-1,ms,ms
+HM,Job46v0,2.txt,1072,1135,2207, ms,ms.
+HM,Job46v0,3.txt,640,704,1344, ms,ms.
+HM,Job46v0,4.txt,-1,-1,-1,ms,ms
+HM,Job46v0,5.txt,-1,-1,-1,ms,ms
+HM,Job46v0,6.txt,2453,2497,4950, ms,ms.
+HM,Job46v0,7.txt,2634,2657,5291, ms,ms.
+HM,Job46v0,8.txt,5422,5439,10861, ms,ms.
+HM,Job46v0,9.txt,-1,-1,-1,ms,ms
+HM,Job46v0,10.txt,5078,5110,10188, ms,ms.
+HM,Job46v0,11.txt,1112,1144,2256, ms,ms.
+HM,Job19v3,0.txt,-1,-1,-1,ms,ms
+HM,Job19v3,1.txt,-1,-1,-1,ms,ms
+HM,Job19v3,2.txt,-1,-1,-1,ms,ms
+HM,Job19v3,3.txt,-1,-1,-1,ms,ms
+HM,Job19v3,4.txt,-1,-1,-1,ms,ms
+HM,Job19v3,5.txt,-1,-1,-1,ms,ms
+HM,Job19v3,6.txt,2378,2456,4834, ms,ms.
+HM,Job19v3,7.txt,-1,-1,-1,ms,ms
+HM,Job19v3,8.txt,2414,2483,4897, ms,ms.
+HM,Job19v3,9.txt,-1,-1,-1,ms,ms
+HM,Job19v3,10.txt,17906,17988,35894, ms,ms.
+HM,Job19v3,11.txt,7153,7226,14379, ms,ms.
+HM,Job19v3,12.txt,3026,3093,6119, ms,ms.
+HM,Job19v3,13.txt,-1,-1,-1,ms,ms
+HM,Job19v3,14.txt,1180,1277,2457, ms,ms.
+HM,Job19v3,15.txt,2989,3411,6400, ms,ms.
+HM,Job19v3,16.txt,-1,-1,-1,ms,ms
+HM,Job19v3,17.txt,-1,-1,-1,ms,ms
+HM,Job19v3,18.txt,2944,3024,5968, ms,ms.
+HM,Job19v3,19.txt,-1,-1,-1,ms,ms
+HM,Job49v1,0.txt,-1,-1,-1,ms,ms
+HM,Job49v1,1.txt,-1,-1,-1,ms,ms
+HM,Job49v1,2.txt,-1,-1,-1,ms,ms
+HM,Job49v1,3.txt,-1,-1,-1,ms,ms
+HM,Job49v1,4.txt,-1,-1,-1,ms,ms
+HM,Job49v1,5.txt,-1,-1,-1,ms,ms
+HM,Job49v1,6.txt,-1,-1,-1,ms,ms
+HM,Job49v1,7.txt,-1,-1,-1,ms,ms
+HM,Job49v1,8.txt,-1,-1,-1,ms,ms
+HM,Job49v1,9.txt,-1,-1,-1,ms,ms
+HM,Job49v1,10.txt,-1,-1,-1,ms,ms
+HM,Job49v1,11.txt,-1,-1,-1,ms,ms
+HM,Job49v1,12.txt,-1,-1,-1,ms,ms
+HM,Job49v1,13.txt,-1,-1,-1,ms,ms
+HM,Job49v1,14.txt,-1,-1,-1,ms,ms
+HM,Job49v1,15.txt,-1,-1,-1,ms,ms
+HM,Job49v1,16.txt,-1,-1,-1,ms,ms
+HM,Job49v1,17.txt,-1,-1,-1,ms,ms
+HM,Job49v1,18.txt,-1,-1,-1,ms,ms
+HM,Job49v1,19.txt,-1,-1,-1,ms,ms
+HM,Job25v1,0.txt,-1,-1,-1,ms,ms
+HM,Job25v1,1.txt,-1,-1,-1,ms,ms
+HM,Job25v1,2.txt,-1,-1,-1,ms,ms
+HM,Job25v1,3.txt,-1,-1,-1,ms,ms
+HM,Job25v1,4.txt,-1,-1,-1,ms,ms
+HM,Job25v1,5.txt,-1,-1,-1,ms,ms
+HM,Job25v1,6.txt,-1,-1,-1,ms,ms
+HM,Job25v1,7.txt,73983,74829,148812, ms,ms.
+HM,Job25v1,8.txt,57002,58101,115103, ms,ms.
+HM,Job25v1,9.txt,-1,-1,-1,ms,ms
+HM,Job25v1,10.txt,-1,-1,-1,ms,ms
+HM,Job25v1,11.txt,-1,-1,-1,ms,ms
+HM,Job25v1,12.txt,-1,-1,-1,ms,ms
+HM,Job25v1,13.txt,-1,-1,-1,ms,ms
+HM,Job25v1,14.txt,-1,-1,-1,ms,ms
+HM,Job25v1,15.txt,-1,-1,-1,ms,ms
+HM,Job25v1,16.txt,-1,-1,-1,ms,ms
+HM,Job25v1,17.txt,203407,206374,409781, ms,ms.
+HM,Job25v1,18.txt,-1,-1,-1,ms,ms
+HM,Job25v1,19.txt,-1,-1,-1,ms,ms
+HM,Job1033v4,0.txt,-1,-1,-1,ms,ms
+HM,Job1033v4,1.txt,309451,309789,619240, ms,ms.
+HM,Job1033v4,2.txt,-1,-1,-1,ms,ms
+HM,Job1033v4,3.txt,-1,-1,-1,ms,ms
+HM,Job1033v4,4.txt,-1,-1,-1,ms,ms
+HM,Job1033v4,5.txt,-1,-1,-1,ms,ms
+HM,Job1033v4,6.txt,-1,-1,-1,ms,ms
+HM,Job1033v4,7.txt,-1,-1,-1,ms,ms
+HM,Job1033v4,8.txt,-1,-1,-1,ms,ms
+HM,Job1033v4,9.txt,-1,-1,-1,ms,ms
+HM,Job1033v4,10.txt,-1,-1,-1,ms,ms
+HM,Job1033v4,11.txt,201354,218216,419570, ms,ms.
+HM,Job1033v4,12.txt,-1,-1,-1,ms,ms
+HM,Job1033v4,13.txt,-1,-1,-1,ms,ms
+HM,Job1033v4,14.txt,-1,-1,-1,ms,ms
+HM,Job1033v4,15.txt,-1,-1,-1,ms,ms
+HM,Job1033v4,16.txt,-1,-1,-1,ms,ms
+HM,Job1033v4,17.txt,-1,-1,-1,ms,ms
+HM,Job1033v4,18.txt,-1,-1,-1,ms,ms
+HM,Job1033v4,19.txt,-1,-1,-1,ms,ms
+HM,Job1325v0,0.txt,34370,34420,68790, ms,ms.
+HM,Job1325v0,1.txt,75538,78687,154225, ms,ms.
+HM,Job1325v0,2.txt,-1,-1,-1,ms,ms
+HM,Job1325v0,3.txt,75199,78286,153485, ms,ms.
+HM,Job1325v0,4.txt,-1,-1,-1,ms,ms
+HM,Job1325v0,5.txt,-1,-1,-1,ms,ms
+HM,Job1325v0,6.txt,-1,-1,-1,ms,ms
+HM,Job1325v0,7.txt,32989,33029,66018, ms,ms.
+HM,Job1325v0,8.txt,34743,34793,69536, ms,ms.
+HM,Job1325v0,9.txt,-1,-1,-1,ms,ms
+HM,Job1325v0,10.txt,-1,-1,-1,ms,ms
+HM,Job1325v0,11.txt,-1,-1,-1,ms,ms
+HM,Job1325v0,12.txt,97479,97946,195425, ms,ms.
+HM,Job1325v0,13.txt,-1,-1,-1,ms,ms
+HM,Job1325v0,14.txt,-1,-1,-1,ms,ms
+HM,Job1325v0,15.txt,-1,-1,-1,ms,ms
+HM,Job1325v0,16.txt,-1,-1,-1,ms,ms
+HM,Job1325v0,17.txt,-1,-1,-1,ms,ms
+HM,Job1325v0,18.txt,-1,-1,-1,ms,ms
+HM,Job1325v0,19.txt,-1,-1,-1,ms,ms
+HM,Job1252v1,0.txt,-1,-1,-1,ms,ms
+HM,Job1252v1,1.txt,242540,249781,492321, ms,ms.
+HM,Job1252v1,2.txt,-1,-1,-1,ms,ms
+HM,Job1252v1,3.txt,-1,-1,-1,ms,ms
+HM,Job1252v1,4.txt,-1,-1,-1,ms,ms
+HM,Job1252v1,5.txt,-1,-1,-1,ms,ms
+HM,Job1252v1,6.txt,-1,-1,-1,ms,ms
+HM,Job1252v1,7.txt,-1,-1,-1,ms,ms
+HM,Job1252v1,8.txt,-1,-1,-1,ms,ms
+HM,Job1252v1,9.txt,-1,-1,-1,ms,ms
+HM,Job1252v1,10.txt,-1,-1,-1,ms,ms
+HM,Job1252v1,11.txt,446012,587697,1033709, ms,ms.
+HM,Job1252v1,12.txt,-1,-1,-1,ms,ms
+HM,Job1252v1,13.txt,-1,-1,-1,ms,ms
+HM,Job1252v1,14.txt,-1,-1,-1,ms,ms
+HM,Job1252v1,15.txt,-1,-1,-1,ms,ms
+HM,Job1252v1,16.txt,-1,-1,-1,ms,ms
+HM,Job1252v1,17.txt,-1,-1,-1,ms,ms
+HM,Job1252v1,18.txt,27689,27823,55512, ms,ms.
+HM,Job1252v1,19.txt,-1,-1,-1,ms,ms
+HM,Job37v3,0.txt,13637,13792,27429, ms,ms.
+HM,Job37v3,1.txt,-1,-1,-1,ms,ms
+HM,Job37v3,2.txt,-1,-1,-1,ms,ms
+HM,Job37v3,3.txt,-1,-1,-1,ms,ms
+HM,Job37v3,4.txt,-1,-1,-1,ms,ms
+HM,Job37v3,5.txt,-1,-1,-1,ms,ms
+HM,Job37v3,6.txt,-1,-1,-1,ms,ms
+HM,Job37v3,7.txt,20545,20734,41279, ms,ms.
+HM,Job37v3,8.txt,-1,-1,-1,ms,ms
+HM,Job37v3,9.txt,-1,-1,-1,ms,ms
+HM,Job37v3,10.txt,-1,-1,-1,ms,ms
+HM,Job37v3,11.txt,-1,-1,-1,ms,ms
+HM,Job37v3,12.txt,13029,13199,26228, ms,ms.
+HM,Job37v3,13.txt,-1,-1,-1,ms,ms
+HM,Job37v3,14.txt,-1,-1,-1,ms,ms
+HM,Job37v3,15.txt,-1,-1,-1,ms,ms
+HM,Job37v3,16.txt,3920,4112,8032, ms,ms.
+HM,Job37v3,17.txt,-1,-1,-1,ms,ms
+HM,Job37v3,18.txt,-1,-1,-1,ms,ms
+HM,Job37v3,19.txt,13465,13616,27081, ms,ms.
+HM,Job9v1,0.txt,5139,5146,10285, ms,ms.
+HM,Job9v1,1.txt,-1,-1,-1,ms,ms
+HM,Job9v1,2.txt,-1,-1,-1,ms,ms
+HM,Job9v1,3.txt,92624,92732,185356, ms,ms.
+HM,Job9v1,4.txt,-1,-1,-1,ms,ms
+HM,Job9v1,5.txt,21078,21261,42339, ms,ms.
+HM,Job9v1,6.txt,-1,-1,-1,ms,ms
+HM,Job9v1,7.txt,11538,11557,23095, ms,ms.
+HM,Job9v1,8.txt,98176,98313,196489, ms,ms.
+HM,Job9v1,9.txt,25655,25688,51343, ms,ms.
+HM,Job9v1,10.txt,100128,100239,200367, ms,ms.
+HM,Job9v1,11.txt,-1,-1,-1,ms,ms
+HM,Job9v1,12.txt,-1,-1,-1,ms,ms
+HM,Job9v1,13.txt,11049,11067,22116, ms,ms.
+HM,Job9v1,14.txt,12768,12778,25546, ms,ms.
+HM,Job9v1,15.txt,10652,10660,21312, ms,ms.
+HM,Job9v1,16.txt,12528,12536,25064, ms,ms.
+HM,Job9v1,17.txt,9247,9251,18498, ms,ms.
+HM,Job9v1,18.txt,25533,25547,51080, ms,ms.
+HM,Job9v1,19.txt,-1,-1,-1,ms,ms
+HM,Job1017v1,0.txt,53223,70388,123611, ms,ms.
+HM,Job1017v1,1.txt,143115,160450,303565, ms,ms.
+HM,Job1017v1,2.txt,-1,-1,-1,ms,ms
+HM,Job1017v1,3.txt,55931,73653,129584, ms,ms.
+HM,Job1017v1,4.txt,41298,58774,100072, ms,ms.
+HM,Job1017v1,5.txt,113824,131140,244964, ms,ms.
+HM,Job1017v1,6.txt,40598,57633,98231, ms,ms.
+HM,Job1017v1,7.txt,112889,130548,243437, ms,ms.
+HM,Job1017v1,8.txt,57570,74879,132449, ms,ms.
+HM,Job1017v1,9.txt,114840,132471,247311, ms,ms.
+HM,Job1017v1,10.txt,-1,-1,-1,ms,ms
+HM,Job1017v1,11.txt,55439,72344,127783, ms,ms.
+HM,Job1017v1,12.txt,58668,76225,134893, ms,ms.
+HM,Job1017v1,13.txt,41783,59736,101519, ms,ms.
+HM,Job1017v1,14.txt,97364,115203,212567, ms,ms.
+HM,Job1017v1,15.txt,40502,58039,98541, ms,ms.
+HM,Job1017v1,16.txt,40899,58388,99287, ms,ms.
+HM,Job1017v1,17.txt,-1,-1,-1,ms,ms
+HM,Job1017v1,18.txt,50991,68123,119114, ms,ms.
+HM,Job1017v1,19.txt,-1,-1,-1,ms,ms
+HM,Job76v0,0.txt,5497,6519,12016, ms,ms.
+HM,Job76v0,1.txt,-1,-1,-1,ms,ms
+HM,Job76v0,2.txt,-1,-1,-1,ms,ms
+HM,Job76v0,3.txt,18455,19037,37492, ms,ms.
+HM,Job76v0,4.txt,-1,-1,-1,ms,ms
+HM,Job76v0,5.txt,28687,29026,57713, ms,ms.
+HM,Job76v0,6.txt,26661,27014,53675, ms,ms.
+HM,Job76v0,7.txt,13531,14080,27611, ms,ms.
+HM,Job76v0,8.txt,-1,-1,-1,ms,ms
+HM,Job76v0,9.txt,14326,14795,29121, ms,ms.
+HM,Job76v0,10.txt,-1,-1,-1,ms,ms
+HM,Job76v0,11.txt,-1,-1,-1,ms,ms
+HM,Job76v0,12.txt,-1,-1,-1,ms,ms
+HM,Job76v0,13.txt,-1,-1,-1,ms,ms
+HM,Job76v0,14.txt,22370,22674,45044, ms,ms.
+HM,Job76v0,15.txt,-1,-1,-1,ms,ms
+HM,Job76v0,16.txt,-1,-1,-1,ms,ms
+HM,Job76v0,17.txt,-1,-1,-1,ms,ms
+HM,Job76v0,18.txt,15518,15825,31343, ms,ms.
+HM,Job76v0,19.txt,23578,23925,47503, ms,ms.
+HM,Job59v3,0.txt,6999,7002,14001, ms,ms.
+HM,Job59v3,1.txt,744,768,1512, ms,ms.
+HM,Job59v3,2.txt,-1,-1,-1,ms,ms
+HM,Job59v3,3.txt,3269,3272,6541, ms,ms.
+HM,Job59v3,4.txt,2939,2943,5882, ms,ms.
+HM,Job59v3,5.txt,2162,2165,4327, ms,ms.
+HM,Job59v3,6.txt,2812,2817,5629, ms,ms.
+HM,Job59v3,7.txt,-1,-1,-1,ms,ms
+HM,Job59v3,8.txt,54345,54375,108720, ms,ms.
+HM,Job59v3,9.txt,2288,2292,4580, ms,ms.
+HM,Job59v3,10.txt,4817,4818,9635, ms,ms.
+HM,Job59v3,11.txt,2634,2636,5270, ms,ms.
+HM,Job59v3,12.txt,4955,4957,9912, ms,ms.
+HM,Job59v3,13.txt,-1,-1,-1,ms,ms
+HM,Job59v3,14.txt,5433,5437,10870, ms,ms.
+HM,Job59v3,15.txt,4570,4571,9141, ms,ms.
+HM,Job59v3,16.txt,4603,4610,9213, ms,ms.
+HM,Job59v3,17.txt,5074,5084,10158, ms,ms.
+HM,Job59v3,18.txt,6156,6158,12314, ms,ms.
+HM,Job59v3,19.txt,3453,3455,6908, ms,ms.
+HM,Job1236v1,0.txt,-1,-1,-1,ms,ms
+HM,Job1236v1,1.txt,-1,-1,-1,ms,ms
+HM,Job1236v1,2.txt,-1,-1,-1,ms,ms
+HM,Job1236v1,3.txt,-1,-1,-1,ms,ms
+HM,Job1236v1,4.txt,-1,-1,-1,ms,ms
+HM,Job1236v1,5.txt,-1,-1,-1,ms,ms
+HM,Job1236v1,6.txt,-1,-1,-1,ms,ms
+HM,Job1236v1,7.txt,-1,-1,-1,ms,ms
+HM,Job1236v1,8.txt,-1,-1,-1,ms,ms
+HM,Job1236v1,9.txt,-1,-1,-1,ms,ms
+HM,Job1236v1,10.txt,-1,-1,-1,ms,ms
+HM,Job1236v1,11.txt,-1,-1,-1,ms,ms
+HM,Job1236v1,12.txt,-1,-1,-1,ms,ms
+HM,Job1236v1,13.txt,-1,-1,-1,ms,ms
+HM,Job1236v1,14.txt,-1,-1,-1,ms,ms
+HM,Job1236v1,15.txt,-1,-1,-1,ms,ms
+HM,Job1236v1,16.txt,-1,-1,-1,ms,ms
+HM,Job1236v1,17.txt,73391,73478,146869, ms,ms.
+HM,Job1236v1,18.txt,-1,-1,-1,ms,ms
+HM,Job1236v1,19.txt,291903,292075,583978, ms,ms.
+HM,Job1078v2,0.txt,-1,-1,-1,ms,ms
+HM,Job1078v2,1.txt,-1,-1,-1,ms,ms
+HM,Job1078v2,2.txt,19192,19516,38708, ms,ms.
+HM,Job1078v2,3.txt,11574,12066,23640, ms,ms.
+HM,Job1078v2,4.txt,10031,10360,20391, ms,ms.
+HM,Job1078v2,5.txt,-1,-1,-1,ms,ms
+HM,Job1078v2,6.txt,22481,22955,45436, ms,ms.
+HM,Job1078v2,7.txt,-1,-1,-1,ms,ms
+HM,Job1078v2,8.txt,-1,-1,-1,ms,ms
+HM,Job1078v2,9.txt,72176,76014,148190, ms,ms.
+HM,Job1078v2,10.txt,-1,-1,-1,ms,ms
+HM,Job1078v2,11.txt,18296,18593,36889, ms,ms.
+HM,Job1078v2,12.txt,44589,44875,89464, ms,ms.
+HM,Job1078v2,13.txt,39664,39967,79631, ms,ms.
+HM,Job1078v2,14.txt,86790,89962,176752, ms,ms.
+HM,Job1078v2,15.txt,9385,9697,19082, ms,ms.
+HM,Job1078v2,16.txt,81346,84213,165559, ms,ms.
+HM,Job1078v2,17.txt,5821,6118,11939, ms,ms.
+HM,Job1078v2,18.txt,14378,14726,29104, ms,ms.
+HM,Job1078v2,19.txt,67759,70198,137957, ms,ms.
