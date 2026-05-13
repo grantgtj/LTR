@@ -1,0 +1,8 @@
+,Job,CPU time,Time,Sum,CPU unit,Time unit
+DB,1,10381,10422,20803, ms,ms.
+DB,3,1566,1575,3141, ms,ms.
+DB,5,1558,1563,3121, ms,ms.
+DB,6,701,704,1405, ms,ms.
+DB,10,1572,1645,3217, ms,ms.
+DB,12,1414,1427,2841, ms,ms.
+DB,14,1002,1009,2011, ms,ms.
