@@ -1,0 +1,134 @@
+,Job,CPU time,Time,Sum,CPU unit,Time unit
+HM,Job1028v2,-1,-1,-1,ms,ms
+HM,Job68v4,36957,38945,75902, ms,ms.
+HM,Job1017v3,-1,-1,-1,ms,ms
+HM,Job185v3,-1,-1,-1,ms,ms
+HM,Job39v3,439,438,877, ms,ms.
+HM,Job228v1,-1,-1,-1,ms,ms
+HM,Job76v2,673,672,1345, ms,ms.
+HM,Job1009v4,-2,-2,-2,ms,ms
+HM,Job46v2,1057,1058,2115, ms,ms.
+HM,Job90v2,59697,67785,127482, ms,ms.
+HM,Job1041v0,-1,-1,-1,ms,ms
+HM,Job1011v4,-1,-1,-1,ms,ms
+HM,Job1041v4,-1,-1,-1,ms,ms
+HM,Job6v2,-1,-1,-1,ms,ms
+HM,Job38v3,-1,-1,-1,ms,ms
+HM,Job237v0,-1,-1,-1,ms,ms
+HM,Job48v1,-1,-1,-1,ms,ms
+HM,Job369v4,-1,-1,-1,ms,ms
+HM,Job1013v2,1603933,1606472,3210405, ms,ms.
+HM,Job1126v2,-1,-1,-1,ms,ms
+HM,Job74v2,16046,16257,32303, ms,ms.
+HM,Job128v4,-1,-1,-1,ms,ms
+HM,Job161v4,-1,-1,-1,ms,ms
+HM,Job1461v3,172376869,172525290,344902159, ms,ms.
+HM,Job31v0,-1,-1,-1,ms,ms
+HM,Job58v4,-1,-1,-1,ms,ms
+HM,Job1101v0,-1,-1,-1,ms,ms
+HM,Job63v0,46226,46253,92479, ms,ms.
+HM,Job253v1,120988,122930,243918, ms,ms.
+HM,Job6v1,-1,-1,-1,ms,ms
+HM,Job1000v4,-1,-1,-1,ms,ms
+HM,Job181v2,-1,-1,-1,ms,ms
+HM,Job1055v2,-1,-1,-1,ms,ms
+HM,Job1035v4,-1,-1,-1,ms,ms
+HM,Job37v0,-1,-1,-1,ms,ms
+HM,Job6v3,-1,-1,-1,ms,ms
+HM,Job74v4,686,686,1372, ms,ms.
+HM,Job16v0,-1,-1,-1,ms,ms
+HM,Job56v2,-2,-2,-2,ms,ms
+HM,Job1002v4,-1,-1,-1,ms,ms
+HM,Job1236v3,-1,-1,-1,ms,ms
+HM,Job38v1,137039,139934,276973, ms,ms.
+HM,Job78v4,78603,78662,157265, ms,ms.
+HM,Job1157v0,19865,19891,39756, ms,ms.
+HM,Job1157v2,-2,-2,-2,ms,ms
+HM,Job1041v1,41391,41415,82806, ms,ms.
+HM,Job1011v2,-1,-1,-1,ms,ms
+HM,Job1073v2,-1,-1,-1,ms,ms
+HM,Job215v1,-1,-1,-1,ms,ms
+HM,Job1034v4,-1,-1,-1,ms,ms
+HM,Job1300v2,-1,-1,-1,ms,ms
+HM,Job1252v0,-1,-1,-1,ms,ms
+HM,Job253v0,-1,-1,-1,ms,ms
+HM,Job39v1,1903,1904,3807, ms,ms.
+HM,Job63v1,24971,24991,49962, ms,ms.
+HM,Job253v4,288117,288347,576464, ms,ms.
+HM,Job1025v0,-1,-1,-1,ms,ms
+HM,Job37v4,-1,-1,-1,ms,ms
+HM,Job46v1,808,808,1616, ms,ms.
+HM,Job85v3,-1,-1,-1,ms,ms
+HM,Job1032v0,-1,-1,-1,ms,ms
+HM,Job1034v0,-1,-1,-1,ms,ms
+HM,Job9v3,2409,2419,4828, ms,ms.
+HM,Job1255v3,7050,7133,14183, ms,ms.
+HM,Job1006v0,14008,14016,28024, ms,ms.
+HM,Job68v2,18504,18515,37019, ms,ms.
+HM,Job1171v1,102221,102276,204497, ms,ms.
+HM,Job1037v0,-1,-1,-1,ms,ms
+HM,Job25v4,-1,-1,-1,ms,ms
+HM,Job1337v3,-1,-1,-1,ms,ms
+HM,Job1021v2,-1,-1,-1,ms,ms
+HM,Job44v3,-1,-1,-1,ms,ms
+HM,Job46v3,14424,14431,28855, ms,ms.
+HM,Job128v0,6042,6058,12100, ms,ms.
+HM,Job38v2,-1,-1,-1,ms,ms
+HM,Job6v4,-1,-1,-1,ms,ms
+HM,Job1234v3,-1,-1,-1,ms,ms
+HM,Job1000v1,56894,56928,113822, ms,ms.
+HM,Job19v1,-1,-1,-1,ms,ms
+HM,Job76v3,-1,-1,-1,ms,ms
+HM,Job75v2,9895,10205,20100, ms,ms.
+HM,Job1013v3,-1,-1,-1,ms,ms
+HM,Job1171v3,70068,71236,141304, ms,ms.
+HM,Job76v4,83179,83225,166404, ms,ms.
+HM,Job79v0,171528,172492,344020, ms,ms.
+HM,Job9v4,10093,10119,20212, ms,ms.
+HM,Job74v0,35,34,69, ms,ms.
+HM,Job19v4,-1,-1,-1,ms,ms
+HM,Job1131v1,25212,25228,50440, ms,ms.
+HM,Job91v2,-1,-1,-1,ms,ms
+HM,Job1029v2,16009,16018,32027, ms,ms.
+HM,Job1021v1,-1,-1,-1,ms,ms
+HM,Job1006v1,-1,-1,-1,ms,ms
+HM,Job1014v3,104404,104465,208869, ms,ms.
+HM,Job1325v3,-1,-1,-1,ms,ms
+HM,Job1255v4,-1,-1,-1,ms,ms
+HM,Job59v4,13834,13841,27675, ms,ms.
+HM,Job68v1,73458,73496,146954, ms,ms.
+HM,Job49v2,119714,119776,239490, ms,ms.
+HM,Job285v4,-1,-1,-1,ms,ms
+HM,Job27v4,-1,-1,-1,ms,ms
+HM,Job1014v2,44767,44794,89561, ms,ms.
+HM,Job1031v2,-1,-1,-1,ms,ms
+HM,Job68v3,-1,-1,-1,ms,ms
+HM,Job2v2,-1,-1,-1,ms,ms
+HM,Job1021v0,-1,-1,-1,ms,ms
+HM,Job185v2,1508900,1514080,3022980, ms,ms.
+HM,Job63v3,4,3,7, ms,ms.
+HM,Job1103v3,-1,-1,-1,ms,ms
+HM,Job221v0,-1,-1,-1,ms,ms
+HM,Job369v1,-1,-1,-1,ms,ms
+HM,Job38v0,-1,-1,-1,ms,ms
+HM,Job58v2,23083,25679,48762, ms,ms.
+HM,Job1021v4,119819,123205,243024, ms,ms.
+HM,Job161v0,-1,-1,-1,ms,ms
+HM,Job1255v0,-2,-2,-2,ms,ms
+HM,Job1251v1,54992,55114,110106, ms,ms.
+HM,Job1013v4,18422,18497,36919, ms,ms.
+HM,Job19v2,1780,1781,3561, ms,ms.
+HM,Job46v0,-1,-1,-1,ms,ms
+HM,Job19v3,2344,2414,4758, ms,ms.
+HM,Job49v1,-1,-1,-1,ms,ms
+HM,Job25v1,978857,1422601,2401458, ms,ms.
+HM,Job1033v4,-1,-1,-1,ms,ms
+HM,Job1325v0,-1,-1,-1,ms,ms
+HM,Job1252v1,-1,-1,-1,ms,ms
+HM,Job37v3,15690,15978,31668, ms,ms.
+HM,Job9v1,1805,1844,3649, ms,ms.
+HM,Job1017v1,123625,141330,264955, ms,ms.
+HM,Job76v0,19047,19353,38400, ms,ms.
+HM,Job59v3,2134,2138,4272, ms,ms.
+HM,Job1236v1,-1,-1,-1,ms,ms
+HM,Job1078v2,-1,-1,-1,ms,ms

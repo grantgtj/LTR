@@ -1,0 +1,148 @@
+=== SUMMARY: ALL COMPARABLE QUERIES ===
+Includes queries where at least one model executed successfully (other may have timed out or bad plan)
+Total queries compared: 124 of 133
+runtime_tpchd_SQLServer_testonVM faster: 114 queries (91.9%)
+runtime_tpchd_trainonMac_testonVM faster: 10 queries (8.1%)
+Winner: runtime_tpchd_SQLServer_testonVM — faster on 114 of 124 comparable queries (91.9%)
+
+=== SUMMARY: HEAD-TO-HEAD (BOTH MODELS EXECUTED SUCCESSFULLY) ===
+Excludes any query where either model timed out or produced a bad plan
+Total queries where both executed: 51 of 133
+runtime_tpchd_SQLServer_testonVM faster: 44 queries (86.3%)
+runtime_tpchd_trainonMac_testonVM faster: 7 queries (13.7%)
+Winner: runtime_tpchd_SQLServer_testonVM — faster on 44 of 51 head-to-head queries (86.3%)
+
+Query,runtime_tpchd_SQLServer_testonVM Runtime (ms),runtime_tpchd_trainonMac_testonVM Runtime (ms),Faster Model,Difference
+Job1000v1,"8,567","56,928",runtime_tpchd_SQLServer_testonVM,"48,361 ms faster"
+Job1000v4,"93,061",Timeout,runtime_tpchd_SQLServer_testonVM,runtime_tpchd_trainonMac_testonVM failed (Timeout)
+Job1002v4,"2,777",Timeout,runtime_tpchd_SQLServer_testonVM,runtime_tpchd_trainonMac_testonVM failed (Timeout)
+Job1006v0,"6,986","14,016",runtime_tpchd_SQLServer_testonVM,"7,030 ms faster"
+Job1006v1,"2,077",Timeout,runtime_tpchd_SQLServer_testonVM,runtime_tpchd_trainonMac_testonVM failed (Timeout)
+Job1009v4,0,Bad Plan,runtime_tpchd_SQLServer_testonVM,runtime_tpchd_trainonMac_testonVM failed (Bad Plan)
+Job1011v2,"554,348",Timeout,runtime_tpchd_SQLServer_testonVM,runtime_tpchd_trainonMac_testonVM failed (Timeout)
+Job1011v4,"118,958",Timeout,runtime_tpchd_SQLServer_testonVM,runtime_tpchd_trainonMac_testonVM failed (Timeout)
+Job1013v2,"8,225","1,606,472",runtime_tpchd_SQLServer_testonVM,"1,598,247 ms faster"
+Job1013v3,"3,572",Timeout,runtime_tpchd_SQLServer_testonVM,runtime_tpchd_trainonMac_testonVM failed (Timeout)
+Job1013v4,"3,614","18,497",runtime_tpchd_SQLServer_testonVM,"14,883 ms faster"
+Job1014v2,"13,001","44,794",runtime_tpchd_SQLServer_testonVM,"31,793 ms faster"
+Job1014v3,"28,692","104,465",runtime_tpchd_SQLServer_testonVM,"75,773 ms faster"
+Job1017v1,"98,376","141,330",runtime_tpchd_SQLServer_testonVM,"42,954 ms faster"
+Job1017v3,"141,270",Timeout,runtime_tpchd_SQLServer_testonVM,runtime_tpchd_trainonMac_testonVM failed (Timeout)
+Job1021v0,"9,059",Timeout,runtime_tpchd_SQLServer_testonVM,runtime_tpchd_trainonMac_testonVM failed (Timeout)
+Job1021v1,Timeout,Timeout,N/A (both failed or missing),
+Job1021v2,"47,263",Timeout,runtime_tpchd_SQLServer_testonVM,runtime_tpchd_trainonMac_testonVM failed (Timeout)
+Job1021v4,"3,894","123,205",runtime_tpchd_SQLServer_testonVM,"119,311 ms faster"
+Job1025v0,"8,943",Timeout,runtime_tpchd_SQLServer_testonVM,runtime_tpchd_trainonMac_testonVM failed (Timeout)
+Job1028v2,Timeout,Timeout,N/A (both failed or missing),
+Job1029v2,"5,063","16,018",runtime_tpchd_SQLServer_testonVM,"10,955 ms faster"
+Job1031v2,"5,056",Timeout,runtime_tpchd_SQLServer_testonVM,runtime_tpchd_trainonMac_testonVM failed (Timeout)
+Job1032v0,"12,739",Timeout,runtime_tpchd_SQLServer_testonVM,runtime_tpchd_trainonMac_testonVM failed (Timeout)
+Job1033v4,"386,417",Timeout,runtime_tpchd_SQLServer_testonVM,runtime_tpchd_trainonMac_testonVM failed (Timeout)
+Job1034v0,"76,968",Timeout,runtime_tpchd_SQLServer_testonVM,runtime_tpchd_trainonMac_testonVM failed (Timeout)
+Job1034v4,Timeout,Timeout,N/A (both failed or missing),
+Job1035v4,"40,293",Timeout,runtime_tpchd_SQLServer_testonVM,runtime_tpchd_trainonMac_testonVM failed (Timeout)
+Job1037v0,"218,863",Timeout,runtime_tpchd_SQLServer_testonVM,runtime_tpchd_trainonMac_testonVM failed (Timeout)
+Job1041v0,"19,688",Timeout,runtime_tpchd_SQLServer_testonVM,runtime_tpchd_trainonMac_testonVM failed (Timeout)
+Job1041v1,"4,451","41,415",runtime_tpchd_SQLServer_testonVM,"36,964 ms faster"
+Job1041v4,"1,649",Timeout,runtime_tpchd_SQLServer_testonVM,runtime_tpchd_trainonMac_testonVM failed (Timeout)
+Job1055v2,"14,367",Timeout,runtime_tpchd_SQLServer_testonVM,runtime_tpchd_trainonMac_testonVM failed (Timeout)
+Job1073v2,"16,505",Timeout,runtime_tpchd_SQLServer_testonVM,runtime_tpchd_trainonMac_testonVM failed (Timeout)
+Job1078v2,"11,658",Timeout,runtime_tpchd_SQLServer_testonVM,runtime_tpchd_trainonMac_testonVM failed (Timeout)
+Job1101v0,"16,209",Timeout,runtime_tpchd_SQLServer_testonVM,runtime_tpchd_trainonMac_testonVM failed (Timeout)
+Job1103v3,Timeout,Timeout,N/A (both failed or missing),
+Job1126v2,"17,752",Timeout,runtime_tpchd_SQLServer_testonVM,runtime_tpchd_trainonMac_testonVM failed (Timeout)
+Job1131v1,"112,537","25,228",runtime_tpchd_trainonMac_testonVM,"87,309 ms faster"
+Job1157v0,"3,840","19,891",runtime_tpchd_SQLServer_testonVM,"16,051 ms faster"
+Job1157v2,0,Bad Plan,runtime_tpchd_SQLServer_testonVM,runtime_tpchd_trainonMac_testonVM failed (Bad Plan)
+Job1171v1,"44,031","102,276",runtime_tpchd_SQLServer_testonVM,"58,245 ms faster"
+Job1171v3,"167,710","71,236",runtime_tpchd_trainonMac_testonVM,"96,474 ms faster"
+Job1234v3,"526,788",Timeout,runtime_tpchd_SQLServer_testonVM,runtime_tpchd_trainonMac_testonVM failed (Timeout)
+Job1236v1,"527,823",Timeout,runtime_tpchd_SQLServer_testonVM,runtime_tpchd_trainonMac_testonVM failed (Timeout)
+Job1236v3,"9,486",Timeout,runtime_tpchd_SQLServer_testonVM,runtime_tpchd_trainonMac_testonVM failed (Timeout)
+Job1251v1,"10,932","55,114",runtime_tpchd_SQLServer_testonVM,"44,182 ms faster"
+Job1252v0,"10,914",Timeout,runtime_tpchd_SQLServer_testonVM,runtime_tpchd_trainonMac_testonVM failed (Timeout)
+Job1252v1,"246,609",Timeout,runtime_tpchd_SQLServer_testonVM,runtime_tpchd_trainonMac_testonVM failed (Timeout)
+Job1255v0,0,Bad Plan,runtime_tpchd_SQLServer_testonVM,runtime_tpchd_trainonMac_testonVM failed (Bad Plan)
+Job1255v3,"4,351","7,133",runtime_tpchd_SQLServer_testonVM,"2,782 ms faster"
+Job1255v4,"10,521",Timeout,runtime_tpchd_SQLServer_testonVM,runtime_tpchd_trainonMac_testonVM failed (Timeout)
+Job128v0,"60,704","6,058",runtime_tpchd_trainonMac_testonVM,"54,646 ms faster"
+Job128v4,Timeout,Timeout,N/A (both failed or missing),
+Job1300v2,Timeout,Timeout,N/A (both failed or missing),
+Job1325v0,"5,884",Timeout,runtime_tpchd_SQLServer_testonVM,runtime_tpchd_trainonMac_testonVM failed (Timeout)
+Job1325v3,Timeout,Timeout,N/A (both failed or missing),
+Job1337v3,"1,814",Timeout,runtime_tpchd_SQLServer_testonVM,runtime_tpchd_trainonMac_testonVM failed (Timeout)
+Job1461v3,"6,659","172,525,290",runtime_tpchd_SQLServer_testonVM,"172,518,631 ms faster"
+Job161v0,Timeout,Timeout,N/A (both failed or missing),
+Job161v4,"63,370",Timeout,runtime_tpchd_SQLServer_testonVM,runtime_tpchd_trainonMac_testonVM failed (Timeout)
+Job16v0,"411,361",Timeout,runtime_tpchd_SQLServer_testonVM,runtime_tpchd_trainonMac_testonVM failed (Timeout)
+Job181v2,"2,847",Timeout,runtime_tpchd_SQLServer_testonVM,runtime_tpchd_trainonMac_testonVM failed (Timeout)
+Job185v2,Timeout,"1,514,080",runtime_tpchd_trainonMac_testonVM,runtime_tpchd_SQLServer_testonVM failed (Timeout)
+Job185v3,"505,601",Timeout,runtime_tpchd_SQLServer_testonVM,runtime_tpchd_trainonMac_testonVM failed (Timeout)
+Job19v1,"44,147",Timeout,runtime_tpchd_SQLServer_testonVM,runtime_tpchd_trainonMac_testonVM failed (Timeout)
+Job19v2,"1,506","1,781",runtime_tpchd_SQLServer_testonVM,275 ms faster
+Job19v3,"2,325","2,414",runtime_tpchd_SQLServer_testonVM,89 ms faster
+Job19v4,"43,750",Timeout,runtime_tpchd_SQLServer_testonVM,runtime_tpchd_trainonMac_testonVM failed (Timeout)
+Job215v1,"1,850",Timeout,runtime_tpchd_SQLServer_testonVM,runtime_tpchd_trainonMac_testonVM failed (Timeout)
+Job221v0,"6,158",Timeout,runtime_tpchd_SQLServer_testonVM,runtime_tpchd_trainonMac_testonVM failed (Timeout)
+Job228v1,"2,819",Timeout,runtime_tpchd_SQLServer_testonVM,runtime_tpchd_trainonMac_testonVM failed (Timeout)
+Job237v0,"109,696",Timeout,runtime_tpchd_SQLServer_testonVM,runtime_tpchd_trainonMac_testonVM failed (Timeout)
+Job253v0,Timeout,Timeout,N/A (both failed or missing),
+Job253v1,"8,891","122,930",runtime_tpchd_SQLServer_testonVM,"114,039 ms faster"
+Job253v4,Timeout,"288,347",runtime_tpchd_trainonMac_testonVM,runtime_tpchd_SQLServer_testonVM failed (Timeout)
+Job25v1,Timeout,"1,422,601",runtime_tpchd_trainonMac_testonVM,runtime_tpchd_SQLServer_testonVM failed (Timeout)
+Job25v4,"68,148",Timeout,runtime_tpchd_SQLServer_testonVM,runtime_tpchd_trainonMac_testonVM failed (Timeout)
+Job27v4,"49,311",Timeout,runtime_tpchd_SQLServer_testonVM,runtime_tpchd_trainonMac_testonVM failed (Timeout)
+Job285v4,"13,952",Timeout,runtime_tpchd_SQLServer_testonVM,runtime_tpchd_trainonMac_testonVM failed (Timeout)
+Job2v2,"13,374",Timeout,runtime_tpchd_SQLServer_testonVM,runtime_tpchd_trainonMac_testonVM failed (Timeout)
+Job31v0,"100,860",Timeout,runtime_tpchd_SQLServer_testonVM,runtime_tpchd_trainonMac_testonVM failed (Timeout)
+Job369v1,"24,603",Timeout,runtime_tpchd_SQLServer_testonVM,runtime_tpchd_trainonMac_testonVM failed (Timeout)
+Job369v4,"84,329",Timeout,runtime_tpchd_SQLServer_testonVM,runtime_tpchd_trainonMac_testonVM failed (Timeout)
+Job37v0,"4,934",Timeout,runtime_tpchd_SQLServer_testonVM,runtime_tpchd_trainonMac_testonVM failed (Timeout)
+Job37v3,"11,444","15,978",runtime_tpchd_SQLServer_testonVM,"4,534 ms faster"
+Job37v4,"4,882",Timeout,runtime_tpchd_SQLServer_testonVM,runtime_tpchd_trainonMac_testonVM failed (Timeout)
+Job38v0,"508,986",Timeout,runtime_tpchd_SQLServer_testonVM,runtime_tpchd_trainonMac_testonVM failed (Timeout)
+Job38v1,"41,443","139,934",runtime_tpchd_SQLServer_testonVM,"98,491 ms faster"
+Job38v2,"14,546",Timeout,runtime_tpchd_SQLServer_testonVM,runtime_tpchd_trainonMac_testonVM failed (Timeout)
+Job38v3,"15,363",Timeout,runtime_tpchd_SQLServer_testonVM,runtime_tpchd_trainonMac_testonVM failed (Timeout)
+Job39v1,"1,045","1,904",runtime_tpchd_SQLServer_testonVM,859 ms faster
+Job39v3,70,438,runtime_tpchd_SQLServer_testonVM,368 ms faster
+Job44v3,"180,216",Timeout,runtime_tpchd_SQLServer_testonVM,runtime_tpchd_trainonMac_testonVM failed (Timeout)
+Job46v0,"2,268",Timeout,runtime_tpchd_SQLServer_testonVM,runtime_tpchd_trainonMac_testonVM failed (Timeout)
+Job46v1,719,808,runtime_tpchd_SQLServer_testonVM,89 ms faster
+Job46v2,904,"1,058",runtime_tpchd_SQLServer_testonVM,154 ms faster
+Job46v3,"6,620","14,431",runtime_tpchd_SQLServer_testonVM,"7,811 ms faster"
+Job48v1,"31,441",Timeout,runtime_tpchd_SQLServer_testonVM,runtime_tpchd_trainonMac_testonVM failed (Timeout)
+Job49v1,"54,804",Timeout,runtime_tpchd_SQLServer_testonVM,runtime_tpchd_trainonMac_testonVM failed (Timeout)
+Job49v2,"4,745","119,776",runtime_tpchd_SQLServer_testonVM,"115,031 ms faster"
+Job56v2,0,Bad Plan,runtime_tpchd_SQLServer_testonVM,runtime_tpchd_trainonMac_testonVM failed (Bad Plan)
+Job58v2,"32,250","25,679",runtime_tpchd_trainonMac_testonVM,"6,571 ms faster"
+Job58v4,"58,348",Timeout,runtime_tpchd_SQLServer_testonVM,runtime_tpchd_trainonMac_testonVM failed (Timeout)
+Job59v3,634,"2,138",runtime_tpchd_SQLServer_testonVM,"1,504 ms faster"
+Job59v4,300,"13,841",runtime_tpchd_SQLServer_testonVM,"13,541 ms faster"
+Job63v0,681,"46,253",runtime_tpchd_SQLServer_testonVM,"45,572 ms faster"
+Job63v1,"12,728","24,991",runtime_tpchd_SQLServer_testonVM,"12,263 ms faster"
+Job63v3,8,3,runtime_tpchd_trainonMac_testonVM,5 ms faster
+Job68v1,"25,706","73,496",runtime_tpchd_SQLServer_testonVM,"47,790 ms faster"
+Job68v2,"1,075","18,515",runtime_tpchd_SQLServer_testonVM,"17,440 ms faster"
+Job68v3,499,Timeout,runtime_tpchd_SQLServer_testonVM,runtime_tpchd_trainonMac_testonVM failed (Timeout)
+Job68v4,"20,390","38,945",runtime_tpchd_SQLServer_testonVM,"18,555 ms faster"
+Job6v1,"27,552",Timeout,runtime_tpchd_SQLServer_testonVM,runtime_tpchd_trainonMac_testonVM failed (Timeout)
+Job6v2,"61,076",Timeout,runtime_tpchd_SQLServer_testonVM,runtime_tpchd_trainonMac_testonVM failed (Timeout)
+Job6v3,"8,848",Timeout,runtime_tpchd_SQLServer_testonVM,runtime_tpchd_trainonMac_testonVM failed (Timeout)
+Job6v4,"11,707",Timeout,runtime_tpchd_SQLServer_testonVM,runtime_tpchd_trainonMac_testonVM failed (Timeout)
+Job74v0,92,34,runtime_tpchd_trainonMac_testonVM,58 ms faster
+Job74v2,"7,495","16,257",runtime_tpchd_SQLServer_testonVM,"8,762 ms faster"
+Job74v4,40,686,runtime_tpchd_SQLServer_testonVM,646 ms faster
+Job75v2,"5,722","10,205",runtime_tpchd_SQLServer_testonVM,"4,483 ms faster"
+Job76v0,"13,847","19,353",runtime_tpchd_SQLServer_testonVM,"5,506 ms faster"
+Job76v2,40,672,runtime_tpchd_SQLServer_testonVM,632 ms faster
+Job76v3,"63,306",Timeout,runtime_tpchd_SQLServer_testonVM,runtime_tpchd_trainonMac_testonVM failed (Timeout)
+Job76v4,"23,340","83,225",runtime_tpchd_SQLServer_testonVM,"59,885 ms faster"
+Job78v4,398,"78,662",runtime_tpchd_SQLServer_testonVM,"78,264 ms faster"
+Job79v0,"61,270","172,492",runtime_tpchd_SQLServer_testonVM,"111,222 ms faster"
+Job85v3,"3,780",Timeout,runtime_tpchd_SQLServer_testonVM,runtime_tpchd_trainonMac_testonVM failed (Timeout)
+Job90v2,"10,897","67,785",runtime_tpchd_SQLServer_testonVM,"56,888 ms faster"
+Job91v2,570,Timeout,runtime_tpchd_SQLServer_testonVM,runtime_tpchd_trainonMac_testonVM failed (Timeout)
+Job9v1,"2,200","1,844",runtime_tpchd_trainonMac_testonVM,356 ms faster
+Job9v3,"1,682","2,419",runtime_tpchd_SQLServer_testonVM,737 ms faster
+Job9v4,"2,068","10,119",runtime_tpchd_SQLServer_testonVM,"8,051 ms faster"
