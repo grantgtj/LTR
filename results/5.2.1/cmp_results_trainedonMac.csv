@@ -1,22 +1,24 @@
 === SUMMARY: ALL COMPARABLE QUERIES ===
 Includes queries where at least one model executed successfully (other may have timed out or bad plan)
 Total queries compared: 7 of 7
-dataset_tpch_workload_tpch-o_enum_DB_iter_onsqlserver_runtime faster: 3 queries (42.9%)
-dataset_tpch_workload_tpch-o_enum_HM_rank_MODEL_HM_lambdaloss_sigma_0.5_k_5_mu_1.0_NDCG_Loss2++_presort_False_TWL_tpchDatafarm_Q6D10PrevTree53435600%1_linearR_ITER_1stTrain_iter_None_runtime faster: 4 queries (57.1%)
-Winner: dataset_tpch_workload_tpch-o_enum_HM_rank_MODEL_HM_lambdaloss_sigma_0.5_k_5_mu_1.0_NDCG_Loss2++_presort_False_TWL_tpchDatafarm_Q6D10PrevTree53435600%1_linearR_ITER_1stTrain_iter_None_runtime — faster on 4 of 7 comparable queries (57.1%)
+runtime_tpcho_SQLServer_testonVM faster: 3 queries (42.9%)
+runtime_tpcho_trainedonMac_testonVM faster: 4 queries (57.1%)
+Winner: runtime_tpcho_trainedonMac_testonVM — faster on 4 of 7 comparable queries (57.1%)
 
 === SUMMARY: HEAD-TO-HEAD (BOTH MODELS EXECUTED SUCCESSFULLY) ===
 Excludes any query where either model timed out or produced a bad plan
 Total queries where both executed: 5 of 7
-dataset_tpch_workload_tpch-o_enum_DB_iter_onsqlserver_runtime faster: 1 queries (20.0%)
-dataset_tpch_workload_tpch-o_enum_HM_rank_MODEL_HM_lambdaloss_sigma_0.5_k_5_mu_1.0_NDCG_Loss2++_presort_False_TWL_tpchDatafarm_Q6D10PrevTree53435600%1_linearR_ITER_1stTrain_iter_None_runtime faster: 4 queries (80.0%)
-Winner: dataset_tpch_workload_tpch-o_enum_HM_rank_MODEL_HM_lambdaloss_sigma_0.5_k_5_mu_1.0_NDCG_Loss2++_presort_False_TWL_tpchDatafarm_Q6D10PrevTree53435600%1_linearR_ITER_1stTrain_iter_None_runtime — faster on 4 of 5 head-to-head queries (80.0%)
+"Mean difference (n=5): 1,023.80 ms"
+Median difference (n=5): -42.00 ms
+runtime_tpcho_SQLServer_testonVM faster: 1 queries (20.0%)
+runtime_tpcho_trainedonMac_testonVM faster: 4 queries (80.0%)
+Winner: runtime_tpcho_trainedonMac_testonVM — faster on 4 of 5 head-to-head queries (80.0%)
 
-Query,dataset_tpch_workload_tpch-o_enum_DB_iter_onsqlserver_runtime Runtime (ms),dataset_tpch_workload_tpch-o_enum_HM_rank_MODEL_HM_lambdaloss_sigma_0.5_k_5_mu_1.0_NDCG_Loss2++_presort_False_TWL_tpchDatafarm_Q6D10PrevTree53435600%1_linearR_ITER_1stTrain_iter_None_runtime Runtime (ms),Faster Model,Difference
-1,"10,422","15,781",dataset_tpch_workload_tpch-o_enum_DB_iter_onsqlserver_runtime,"5,359 ms faster"
-10,"1,645","1,541",dataset_tpch_workload_tpch-o_enum_HM_rank_MODEL_HM_lambdaloss_sigma_0.5_k_5_mu_1.0_NDCG_Loss2++_presort_False_TWL_tpchDatafarm_Q6D10PrevTree53435600%1_linearR_ITER_1stTrain_iter_None_runtime,104 ms faster
-12,"1,427","1,345",dataset_tpch_workload_tpch-o_enum_HM_rank_MODEL_HM_lambdaloss_sigma_0.5_k_5_mu_1.0_NDCG_Loss2++_presort_False_TWL_tpchDatafarm_Q6D10PrevTree53435600%1_linearR_ITER_1stTrain_iter_None_runtime,82 ms faster
-14,"1,009",967,dataset_tpch_workload_tpch-o_enum_HM_rank_MODEL_HM_lambdaloss_sigma_0.5_k_5_mu_1.0_NDCG_Loss2++_presort_False_TWL_tpchDatafarm_Q6D10PrevTree53435600%1_linearR_ITER_1stTrain_iter_None_runtime,42 ms faster
-3,"1,575",Timeout,dataset_tpch_workload_tpch-o_enum_DB_iter_onsqlserver_runtime,dataset_tpch_workload_tpch-o_enum_HM_rank_MODEL_HM_lambdaloss_sigma_0.5_k_5_mu_1.0_NDCG_Loss2++_presort_False_TWL_tpchDatafarm_Q6D10PrevTree53435600%1_linearR_ITER_1stTrain_iter_None_runtime failed (Timeout)
-5,"1,563",Timeout,dataset_tpch_workload_tpch-o_enum_DB_iter_onsqlserver_runtime,dataset_tpch_workload_tpch-o_enum_HM_rank_MODEL_HM_lambdaloss_sigma_0.5_k_5_mu_1.0_NDCG_Loss2++_presort_False_TWL_tpchDatafarm_Q6D10PrevTree53435600%1_linearR_ITER_1stTrain_iter_None_runtime failed (Timeout)
-6,704,692,dataset_tpch_workload_tpch-o_enum_HM_rank_MODEL_HM_lambdaloss_sigma_0.5_k_5_mu_1.0_NDCG_Loss2++_presort_False_TWL_tpchDatafarm_Q6D10PrevTree53435600%1_linearR_ITER_1stTrain_iter_None_runtime,12 ms faster
+Query,runtime_tpcho_SQLServer_testonVM Runtime (ms),runtime_tpcho_trainedonMac_testonVM Runtime (ms),Faster Model,Difference
+1,"10,422","15,781",runtime_tpcho_SQLServer_testonVM,"5,359 ms faster"
+10,"1,645","1,541",runtime_tpcho_trainedonMac_testonVM,-104 ms slower
+12,"1,427","1,345",runtime_tpcho_trainedonMac_testonVM,-82 ms slower
+14,"1,009",967,runtime_tpcho_trainedonMac_testonVM,-42 ms slower
+3,"1,575",Timeout,runtime_tpcho_SQLServer_testonVM,runtime_tpcho_trainedonMac_testonVM failed (Timeout)
+5,"1,563",Timeout,runtime_tpcho_SQLServer_testonVM,runtime_tpcho_trainedonMac_testonVM failed (Timeout)
+6,704,692,runtime_tpcho_trainedonMac_testonVM,-12 ms slower
