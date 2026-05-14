@@ -1,19 +1,21 @@
 === SUMMARY: ALL COMPARABLE QUERIES ===
 Includes queries where at least one model executed successfully (other may have timed out or bad plan)
-Total queries compared: 126 of 133
-runtime_tpchd_SQLServer_testonMac faster: 124 queries (98.4%)
+Total queries compared: 125 of 133
+runtime_tpchd_SQLServer_testonMac faster: 123 queries (98.4%)
 runtime_tpchd_trainonVM_testonMac faster: 2 queries (1.6%)
-Winner: runtime_tpchd_SQLServer_testonMac — faster on 124 of 126 comparable queries (98.4%)
+Winner: runtime_tpchd_SQLServer_testonMac — faster on 123 of 125 comparable queries (98.4%)
 
 === SUMMARY: HEAD-TO-HEAD (BOTH MODELS EXECUTED SUCCESSFULLY) ===
 Excludes any query where either model timed out or produced a bad plan
 Total queries where both executed: 17 of 133
+"Mean difference (n=17): 14,315.12 ms"
+"Median difference (n=17): 8,684.00 ms"
 runtime_tpchd_SQLServer_testonMac faster: 15 queries (88.2%)
 runtime_tpchd_trainonVM_testonMac faster: 2 queries (11.8%)
 Winner: runtime_tpchd_SQLServer_testonMac — faster on 15 of 17 head-to-head queries (88.2%)
 
 Query,runtime_tpchd_SQLServer_testonMac Runtime (ms),runtime_tpchd_trainonVM_testonMac Runtime (ms),Faster Model,Difference
-Job1000v1,"6,420",445,runtime_tpchd_trainonVM_testonMac,"5,975 ms faster"
+Job1000v1,"6,420",445,runtime_tpchd_trainonVM_testonMac,"-5,975 ms slower"
 Job1000v4,"78,324",Timeout,runtime_tpchd_SQLServer_testonMac,runtime_tpchd_trainonVM_testonMac failed (Timeout)
 Job1002v4,"1,792",Timeout,runtime_tpchd_SQLServer_testonMac,runtime_tpchd_trainonVM_testonMac failed (Timeout)
 Job1006v0,"4,888",Timeout,runtime_tpchd_SQLServer_testonMac,runtime_tpchd_trainonVM_testonMac failed (Timeout)
@@ -76,7 +78,7 @@ Job161v0,"966,113",Timeout,runtime_tpchd_SQLServer_testonMac,runtime_tpchd_train
 Job161v4,"48,611",Timeout,runtime_tpchd_SQLServer_testonMac,runtime_tpchd_trainonVM_testonMac failed (Timeout)
 Job16v0,"329,803",Timeout,runtime_tpchd_SQLServer_testonMac,runtime_tpchd_trainonVM_testonMac failed (Timeout)
 Job181v2,"1,856",Timeout,runtime_tpchd_SQLServer_testonMac,runtime_tpchd_trainonVM_testonMac failed (Timeout)
-Job185v2,"7,516,377",Timeout,runtime_tpchd_SQLServer_testonMac,runtime_tpchd_trainonVM_testonMac failed (Timeout)
+Job185v2,Timeout,Timeout,N/A (both failed or missing),
 Job185v3,"402,051",Timeout,runtime_tpchd_SQLServer_testonMac,runtime_tpchd_trainonVM_testonMac failed (Timeout)
 Job19v1,"60,383",Timeout,runtime_tpchd_SQLServer_testonMac,runtime_tpchd_trainonVM_testonMac failed (Timeout)
 Job19v2,"1,048",Timeout,runtime_tpchd_SQLServer_testonMac,runtime_tpchd_trainonVM_testonMac failed (Timeout)
@@ -142,7 +144,7 @@ Job78v4,214,Timeout,runtime_tpchd_SQLServer_testonMac,runtime_tpchd_trainonVM_te
 Job79v0,"49,140",Timeout,runtime_tpchd_SQLServer_testonMac,runtime_tpchd_trainonVM_testonMac failed (Timeout)
 Job85v3,"2,649",Timeout,runtime_tpchd_SQLServer_testonMac,runtime_tpchd_trainonVM_testonMac failed (Timeout)
 Job90v2,"9,098",Timeout,runtime_tpchd_SQLServer_testonMac,runtime_tpchd_trainonVM_testonMac failed (Timeout)
-Job91v2,402,277,runtime_tpchd_trainonVM_testonMac,125 ms faster
+Job91v2,402,277,runtime_tpchd_trainonVM_testonMac,-125 ms slower
 Job9v1,"1,724",Timeout,runtime_tpchd_SQLServer_testonMac,runtime_tpchd_trainonVM_testonMac failed (Timeout)
 Job9v3,"1,173",Timeout,runtime_tpchd_SQLServer_testonMac,runtime_tpchd_trainonVM_testonMac failed (Timeout)
 Job9v4,"1,378",Timeout,runtime_tpchd_SQLServer_testonMac,runtime_tpchd_trainonVM_testonMac failed (Timeout)
